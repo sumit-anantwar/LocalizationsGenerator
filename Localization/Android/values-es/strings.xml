@@ -1,3 +1,4 @@
+<resources>
 <string name="ScreenTitle_MyAccounts">Mis cuentas</string>
 <string name="ScreenTitle_AccountManagement">Gestión de cuentas</string>
 <string name="ScreenTitle_SelectLanguage">Seleccione el idioma</string>
@@ -43,7 +44,7 @@
 <string name="AlertTitle_OutOfCityLimits">Fuera de los límites de la ciudad</string>
 <string name="AlertDesc_OutOfCityLimits">¡Su posición está fuera de los límites de la ciudad!\n ¡Atención, no podrá acceder a la navegación ni a los recorridos!</string>
 <string name="AlertTitle_EmptyCredentials">Credenciales vacías</string>
-<string name="AlertDesc_EmptyCredentials">Por favor, introduzca el nombre de usuario y la contraseña </string>
+<string name="AlertDesc_EmptyCredentials">Por favor, introduzca el nombre de usuario y la contraseña</string>
 <string name="AlertTitle_AuthenticationError">Error de autenticación</string>
 <string name="AlertDesc_AuthenticationError">Por favor, compruebe que el nombre de usuario y la contraseña son correctos</string>
 <string name="AlertDesc_DownloadError">Error durante la descarga del paquete.\n Por favor, inténtelo de nuevo.</string>
@@ -53,15 +54,16 @@
 <string name="AlertTitle_InternalError">Error interno</string>
 <string name="AlertDesc_InternalError">Se ha producido un error durante la operación</string>
 <string name="AlertTitle_BonVoyage">¡BUEN VIAJE!</string>
-<string name="AlertDesc_BonVoyage">¡Sus Tours personalizados \n\%@\\n ya están disponibles! </string>
+<string name="AlertDesc_BonVoyage">¡Sus Tours personalizados \n\%@\\n ya están disponibles!</string>
 <string name="AlertTitle_PackageUpdate">Actualización disponible</string>
 <string name="AlertDesc_PackageUpdate">Hay una actualización disponible.\n¿Descargar ahora?</string>
 <string name="AlertTitle_PackageDelete">¿Borrar?</string>
-<string name="AlertDesc_PackageDelete">¿Está seguro de borrar el contenido de este tour?\nEl Tour seguirá disponible en la lista y podrá volver a cargar el contenido en el futuro </string>
-<string name="AlertDesc_LocationPermission">Permita que PopGuide acceda a su ubicación para estar en modo offline y sin costes de roaming. </string>
+<string name="AlertDesc_PackageDelete">¿Está seguro de borrar el contenido de este tour?\nEl Tour seguirá disponible en la lista y podrá volver a cargar el contenido en el futuro</string>
+<string name="AlertDesc_LocationPermission">Permita que PopGuide acceda a su ubicación para estar en modo offline y sin costes de roaming.</string>
 <string name="AlertDesc_CameraPermissionRequired">Se requiere acceso a la cámara para escanear el código QR. Por favor, actívelo en los ajustes de la aplicación.</string>
 <string name="AlertTitle_ConfirmLogout">¿Desea salir?</string>
 <string name="AlertDesc_ConfirmLogout">¿Desea salir de esta cuenta? \n¡Todas las Audioguías serán eliminadas!</string>
 <string name="AlertTitle_GpsNotEnabled">GPS no disponible</string>
 <string name="AlertDesc_GpsNotEnabled">Por favor, active el GPS e inténtelo de nuevo</string>
 <string name="Toast_DestinationReached">Ha llegado a su destino</string>
+</resources>

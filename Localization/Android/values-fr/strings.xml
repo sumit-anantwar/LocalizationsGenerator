@@ -1,3 +1,4 @@
+<resources>
 <string name="ScreenTitle_MyAccounts">Mes comptes</string>
 <string name="ScreenTitle_AccountManagement">Gestion du compte</string>
 <string name="ScreenTitle_SelectLanguage">SÉLECTIONNER UNE LANGUE</string>
@@ -29,7 +30,7 @@
 <string name="Label_Distance">Distance</string>
 <string name="Label_TravelTime">Temps du parcours estimé</string>
 <string name="AlertTitle_PlaceholderAlert">Avertissement</string>
-<string name="AlertDesc_PlaceholderAlert"> Une erreur s’est produite</string>
+<string name="AlertDesc_PlaceholderAlert">Une erreur s’est produite</string>
 <string name="AlertTitle_Attention">Attention!</string>
 <string name="AlertTitle_Failure">Échec!</string>
 <string name="AlertDesc_RouteCalculationFailure">Une erreur s’est produite lors du calcul de l'itinéraire</string>
@@ -65,3 +66,4 @@
 <string name="AlertTitle_GpsNotEnabled">GPS désactivé</string>
 <string name="AlertDesc_GpsNotEnabled">Veuillez activer le GPS et réessayez</string>
 <string name="Toast_DestinationReached">Vous êtes arrivé à destination</string>
+</resources>

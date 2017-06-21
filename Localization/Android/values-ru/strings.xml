@@ -1,3 +1,4 @@
+<resources>
 <string name="ScreenTitle_MyAccounts">МОИ УЧЕТНЫЕ ЗАПИСИ</string>
 <string name="ScreenTitle_AccountManagement">УПРАВЛЕНИЕ УЧЕТНЫМИ ЗАПИСЯМИ</string>
 <string name="ScreenTitle_SelectLanguage">ВЫБРАТЬ ЯЗЫК</string>
@@ -68,3 +69,4 @@
 <string name="AlertTitle_GpsNotEnabled">НЕ ВКЛЮЧЕН GPS ПРИЕМНИК</string>
 <string name="AlertDesc_GpsNotEnabled">ВКЛЮЧИТЕ GPS ПРИЕМНИК И ПОВТОРИТЕ ПОПЫТКУ</string>
 <string name="Toast_DestinationReached">ВЫ ПРИБЫЛИ В ПУНКТ НАЗНАЧЕНИЯ</string>
+</resources>

@@ -1,3 +1,4 @@
+<resources>
 <string name="ScreenTitle_MyAccounts">Meine Konten</string>
 <string name="ScreenTitle_AccountManagement">KONTOVERWALTUNG</string>
 <string name="ScreenTitle_SelectLanguage">WÄHLEN SIE IHRE SPRACHE</string>
@@ -65,3 +66,4 @@
 <string name="AlertTitle_GpsNotEnabled">GPS nicht aktiv</string>
 <string name="AlertDesc_GpsNotEnabled">Bitte aktivieren Sie die GPS-Funktion und versuchen Sie es erneut</string>
 <string name="Toast_DestinationReached">Sie haben Ihren Zielort erreicht</string>
+</resources>

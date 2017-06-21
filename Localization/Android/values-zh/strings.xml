@@ -1,3 +1,4 @@
+<resources>
 <string name="ScreenTitle_MyAccounts">我的账户</string>
 <string name="ScreenTitle_AccountManagement">账户管理</string>
 <string name="ScreenTitle_SelectLanguage">选择语言</string>
@@ -65,3 +66,4 @@
 <string name="AlertTitle_GpsNotEnabled">GPS无法启用</string>
 <string name="AlertDesc_GpsNotEnabled">请启用GPS并重试</string>
 <string name="Toast_DestinationReached">到达目的地</string>
+</resources>

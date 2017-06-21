@@ -37,7 +37,7 @@
 "AlertDesc_LocationServiceError" = "Aktywna usługa lokalizacyjna jest niezbędna do obliczenia obecnej pozycji.\nAktywuj ją proszę w ustawieniach";
 "AlertDesc_AccountSwitch" = "Przechodzisz do innego konta";
 "AlertTitle_NetworkError" = "Błąd sieci!";
-"AlertDesc_NetworkError" = "Nie znaleziono aktywnego połączenia z Internetem.\nProszę spróbuj ponownie później ";
+"AlertDesc_NetworkError" = "Nie znaleziono aktywnego połączenia z Internetem.\nProszę spróbuj ponownie później";
 "AlertDesc_CellularDownload" = "Nie zaleca się pobierania dużych ilości danych przez sieć komόrkową. Aby pobrać pakiet, włącz proszę sieć wi-fi";
 "AlertDesc_MandatoryAppUpdate" = "Aby mόc dalej korzystać z aplikacji, pobierz aktualizację";
 "AlertTitle_OutOfCityLimits" = "Poza obrębem miasta";

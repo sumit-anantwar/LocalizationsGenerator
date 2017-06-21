@@ -1,3 +1,4 @@
+<resources>
 <string name="ScreenTitle_MyAccounts">マイアカウント</string>
 <string name="ScreenTitle_AccountManagement">設定</string>
 <string name="ScreenTitle_SelectLanguage">言語設定</string>
@@ -65,3 +66,4 @@
 <string name="AlertTitle_GpsNotEnabled">GPSが有効になっていません。</string>
 <string name="AlertDesc_GpsNotEnabled">GPSを有効にしてもう一度お試し下さい。</string>
 <string name="Toast_DestinationReached">到着しました。</string>
+</resources>

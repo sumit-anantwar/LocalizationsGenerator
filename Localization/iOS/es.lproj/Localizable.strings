@@ -43,7 +43,7 @@
 "AlertTitle_OutOfCityLimits" = "Fuera de los límites de la ciudad";
 "AlertDesc_OutOfCityLimits" = "¡Su posición está fuera de los límites de la ciudad!\n ¡Atención, no podrá acceder a la navegación ni a los recorridos!";
 "AlertTitle_EmptyCredentials" = "Credenciales vacías";
-"AlertDesc_EmptyCredentials" = "Por favor, introduzca el nombre de usuario y la contraseña ";
+"AlertDesc_EmptyCredentials" = "Por favor, introduzca el nombre de usuario y la contraseña";
 "AlertTitle_AuthenticationError" = "Error de autenticación";
 "AlertDesc_AuthenticationError" = "Por favor, compruebe que el nombre de usuario y la contraseña son correctos";
 "AlertDesc_DownloadError" = "Error durante la descarga del paquete.\n Por favor, inténtelo de nuevo.";
@@ -53,12 +53,12 @@
 "AlertTitle_InternalError" = "Error interno";
 "AlertDesc_InternalError" = "Se ha producido un error durante la operación";
 "AlertTitle_BonVoyage" = "¡BUEN VIAJE!";
-"AlertDesc_BonVoyage" = "¡Sus Tours personalizados \n\%@\\n ya están disponibles! ";
+"AlertDesc_BonVoyage" = "¡Sus Tours personalizados \n\%@\\n ya están disponibles!";
 "AlertTitle_PackageUpdate" = "Actualización disponible";
 "AlertDesc_PackageUpdate" = "Hay una actualización disponible.\n¿Descargar ahora?";
 "AlertTitle_PackageDelete" = "¿Borrar?";
-"AlertDesc_PackageDelete" = "¿Está seguro de borrar el contenido de este tour?\nEl Tour seguirá disponible en la lista y podrá volver a cargar el contenido en el futuro ";
-"AlertDesc_LocationPermission" = "Permita que PopGuide acceda a su ubicación para estar en modo offline y sin costes de roaming. ";
+"AlertDesc_PackageDelete" = "¿Está seguro de borrar el contenido de este tour?\nEl Tour seguirá disponible en la lista y podrá volver a cargar el contenido en el futuro";
+"AlertDesc_LocationPermission" = "Permita que PopGuide acceda a su ubicación para estar en modo offline y sin costes de roaming.";
 "AlertDesc_CameraPermissionRequired" = "Se requiere acceso a la cámara para escanear el código QR. Por favor, actívelo en los ajustes de la aplicación.";
 "AlertTitle_ConfirmLogout" = "¿Desea salir?";
 "AlertDesc_ConfirmLogout" = "¿Desea salir de esta cuenta? \n¡Todas las Audioguías serán eliminadas!";

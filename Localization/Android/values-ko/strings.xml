@@ -1,3 +1,4 @@
+<resources>
 <string name="ScreenTitle_MyAccounts">내 계정</string>
 <string name="ScreenTitle_AccountManagement">계정관리</string>
 <string name="ScreenTitle_SelectLanguage">언어선택</string>
@@ -32,7 +33,7 @@
 <string name="AlertDesc_PlaceholderAlert">오류</string>
 <string name="AlertTitle_Attention">주의!</string>
 <string name="AlertTitle_Failure">실패!</string>
-<string name="AlertDesc_RouteCalculationFailure">경로를 찾던 중 오류가 발생했습니다. </string>
+<string name="AlertDesc_RouteCalculationFailure">경로를 찾던 중 오류가 발생했습니다.</string>
 <string name="AlertTitle_LocationServiceError">위치 서비스 오류</string>
 <string name="AlertDesc_LocationServiceError">현재 위치를 찾으려면 위치 서비스가 필요합니다. \ n 앱 설정에서 사용하도록 설정하십시오.</string>
 <string name="AlertDesc_AccountSwitch">다른 계정으로 전환하고 있습니다.</string>
@@ -43,8 +44,7 @@
 <string name="AlertTitle_OutOfCityLimits">도시제한</string>
 <string name="AlertDesc_OutOfCityLimits">현재 위치가 도시 제한을 벗어났습니다. \ n 경로 계산 및 탐색이 불가능합니다.</string>
 <string name="AlertTitle_EmptyCredentials">인증서 오류</string>
-<string name="AlertDesc_EmptyCredentials">사용자 이름과 암호를 입력하십시오.
-</string>
+<string name="AlertDesc_EmptyCredentials">사용자 이름과 암호를 입력하십시오.</string>
 <string name="AlertTitle_AuthenticationError">인증 오류</string>
 <string name="AlertDesc_AuthenticationError">사용자 이름과 암호를 확인한 후 다시 시도하십시오.</string>
 <string name="AlertDesc_DownloadError">패키지 다운로드 중 오류가 발생했습니다. \ n 다시 시도하십시오.</string>
@@ -68,3 +68,4 @@
 <string name="AlertTitle_GpsNotEnabled">GPS 해제</string>
 <string name="AlertDesc_GpsNotEnabled">GPS를 사용하도록 설정하고 다시 시도하십시오.</string>
 <string name="Toast_DestinationReached">목적지 도착</string>
+</resources>

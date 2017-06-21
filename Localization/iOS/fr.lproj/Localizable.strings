@@ -29,7 +29,7 @@
 "Label_Distance" = "Distance";
 "Label_TravelTime" = "Temps du parcours estimé";
 "AlertTitle_PlaceholderAlert" = "Avertissement";
-"AlertDesc_PlaceholderAlert" = " Une erreur s’est produite";
+"AlertDesc_PlaceholderAlert" = "Une erreur s’est produite";
 "AlertTitle_Attention" = "Attention!";
 "AlertTitle_Failure" = "Échec!";
 "AlertDesc_RouteCalculationFailure" = "Une erreur s’est produite lors du calcul de l'itinéraire";
