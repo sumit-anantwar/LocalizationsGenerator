@@ -94,6 +94,7 @@ public class LocalizationsGenerator {
                                System.out.print(cell.getStringCellValue() + " - ");
 
                                String value = cell.getStringCellValue().trim();
+                               String andrValue = value.replace("%@", "%s"); // Replace format specifiers for Android
                                if (value.length() > 0)
                                {
                                    // Create values folder and strings file for Android
@@ -109,7 +110,7 @@ public class LocalizationsGenerator {
                                        abw.write("<resources>");
                                        abw.newLine();
                                    }
-                                   abw.write("<string name=\"" + keyStr + "\">" + value + "</string>");
+                                   abw.write("<string name=\"" + keyStr + "\">" + andrValue + "</string>");
                                    abw.newLine();
                                    if (row.getRowNum() >= sheet.getLastRowNum())
                                    {
