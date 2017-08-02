@@ -91,51 +91,53 @@ public class LocalizationsGenerator {
                         }
                         else if (cell.getCellType() == Cell.CELL_TYPE_STRING) {
                             if (iosMap.containsKey(column)) {
-                               System.out.print(cell.getStringCellValue() + " - ");
+                                System.out.print(cell.getStringCellValue() + " - ");
 
-                               String value = cell.getStringCellValue().trim();
-                               String andrValue = value.replace("%@", "%s"); // Replace format specifiers for Android
-                               if (value.length() > 0)
-                               {
-                                   // Create values folder and strings file for Android
-                                   File andrFldr = new File(baseFolder.getPath() + File.separator + "Android" + File.separator + "values-" + column);
-                                   andrFldr.mkdirs();
-                                   File andrFile = new File(andrFldr.getPath() + File.separator + "strings.xml");
-                                   andrFile.createNewFile();
+                                String value = cell.getStringCellValue().trim();
+                                value = value.replace("’", "'"); // Replace all the Back Ticks with an Apostrophe
+                                // Prepare string for Android
+                                String andrValue = value.replace("%@", "%s"); // Replace format specifiers for Android
+                                andrValue = andrValue.replace("'", "\'");
+                                if (value.length() > 0)
+                                {
+                                    // Create values folder and strings file for Android
+                                    File andrFldr = new File(baseFolder.getPath() + File.separator + "Android" + File.separator + "values-" + column);
+                                    andrFldr.mkdirs();
+                                    File andrFile = new File(andrFldr.getPath() + File.separator + "strings.xml");
+                                    andrFile.createNewFile();
 
-                                   FileWriter aw = new FileWriter(andrFile, true);
-                                   BufferedWriter abw = new BufferedWriter(aw);
-                                   if (row.getRowNum() == 2)
-                                   {
-                                       abw.write("<resources>");
-                                       abw.newLine();
-                                   }
-                                   abw.write("<string name=\"" + keyStr + "\">" + andrValue + "</string>");
-                                   abw.newLine();
-                                   if (row.getRowNum() >= sheet.getLastRowNum())
-                                   {
-                                       abw.write("</resources>");
-                                       abw.newLine();
-                                   }
+                                    FileWriter aw = new FileWriter(andrFile, true);
+                                    BufferedWriter abw = new BufferedWriter(aw);
+                                    if (row.getRowNum() == 2)
+                                    {
+                                        abw.write("<resources>");
+                                        abw.newLine();
+                                    }
+                                    abw.write("<string name=\"" + keyStr + "\">" + andrValue + "</string>");
+                                    abw.newLine();
+                                    if (row.getRowNum() >= sheet.getLastRowNum())
+                                    {
+                                        abw.write("</resources>");
+                                        abw.newLine();
+                                    }
 
-                                   // Create iOS file
-                                   File iosFldr = new File(baseFolder.getPath() + File.separator + "iOS" + File.separator + iosMap.get(column) + ".lproj");
-                                   iosFldr.mkdirs();
-                                   File iosFile = new File(iosFldr.getPath() + File.separator + "Localizable.strings");
-                                   iosFile.createNewFile();
-                                   // "Key" = "String";
-                                   FileWriter iw = new FileWriter(iosFile, true);
-                                   BufferedWriter ibw = new BufferedWriter(iw);
-                                   ibw.write("\"" + keyStr + "\"" + " = " + "\"" + value + "\";");
-                                   ibw.newLine();
+                                    // Create iOS file
+                                    File iosFldr = new File(baseFolder.getPath() + File.separator + "iOS" + File.separator + iosMap.get(column) + ".lproj");
+                                    iosFldr.mkdirs();
+                                    File iosFile = new File(iosFldr.getPath() + File.separator + "Localizable.strings");
+                                    iosFile.createNewFile();
+                                    // "Key" = "String";
+                                    FileWriter iw = new FileWriter(iosFile, true);
+                                    BufferedWriter ibw = new BufferedWriter(iw);
+                                    ibw.write("\"" + keyStr + "\"" + " = " + "\"" + value + "\";");
+                                    ibw.newLine();
 
-                                   ibw.close();
-                                   ;
-                                   iw.close();
+                                    ibw.close();
+                                    iw.close();
 
-                                   abw.close();
-                                   aw.close();
-                               }
+                                    abw.close();
+                                    aw.close();
+                                }
                             }
                         }
                     }
