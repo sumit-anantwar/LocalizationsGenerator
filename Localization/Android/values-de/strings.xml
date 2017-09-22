@@ -115,7 +115,7 @@
     <string name="AlertTitle_ExperienceAvailability">Eingabefehler</string>
     <string name="AlertDesc_ExperienceAvailability">Für die ausgewählten Eingaben wurde keine Verfügbarkeit gefunden. Bitte überprüfen Sie Ihre Auswahl und versuchen Sie es erneut</string>
     <string name="AlertTitle_PeopleError">Eingabefehler</string>
-    <string name="AlertDesc_PeopleError">Die Personenanzahl sollte zwischen %d und %d liegen</string>
+    <string name="AlertDesc_PeopleError">Die Personenanzahl sollte zwischen %1$d und %2$d liegen</string>
     <string name="BtnTitle_PayNow">Jetzt zahlen</string>
     <string name="BtnTitle_DownloadVoucher">den Voucher herunterladen</string>
     <string name="BtnTitle_ProceedToPayment">weiter zur Zahlung</string>

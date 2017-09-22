@@ -115,7 +115,7 @@
     <string name="AlertTitle_ExperienceAvailability">Input Error!</string>
     <string name="AlertDesc_ExperienceAvailability">No availability found for the selected criteria, please check your selections and try again</string>
     <string name="AlertTitle_PeopleError">Input Error!</string>
-    <string name="AlertDesc_PeopleError">Total people count should be between %d and %d</string>
+    <string name="AlertDesc_PeopleError">Total people count should be between %1$d and %2$d</string>
     <string name="BtnTitle_PayNow">Pay Now</string>
     <string name="BtnTitle_DownloadVoucher">Download Voucher</string>
     <string name="BtnTitle_ProceedToPayment">Proceed to Payment</string>

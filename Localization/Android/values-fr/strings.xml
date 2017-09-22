@@ -115,7 +115,7 @@
     <string name="AlertTitle_ExperienceAvailability">Erreur!</string>
     <string name="AlertDesc_ExperienceAvailability">Pas de disponibilité pour les critères sélectionnés, merci de revoir la sélection et réessayer</string>
     <string name="AlertTitle_PeopleError">Erreur!</string>
-    <string name="AlertDesc_PeopleError">Le nombre total de personne doit être entre %d et %d</string>
+    <string name="AlertDesc_PeopleError">Le nombre total de personne doit être entre %1$d et %2$d</string>
     <string name="BtnTitle_PayNow">Payer maintenant</string>
     <string name="BtnTitle_DownloadVoucher">Télécharger le voucher</string>
     <string name="BtnTitle_ProceedToPayment">Procéder au paiement</string>

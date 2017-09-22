@@ -115,7 +115,7 @@
     <string name="AlertTitle_ExperienceAvailability">错误！</string>
     <string name="AlertDesc_ExperienceAvailability">没有找到符合条件的产品，请重新选择筛选内容后重试</string>
     <string name="AlertTitle_PeopleError">错误！</string>
-    <string name="AlertDesc_PeopleError">总人数应该在%d到%d之间</string>
+    <string name="AlertDesc_PeopleError">总人数应该在%1$d到%2$d之间</string>
     <string name="BtnTitle_PayNow">购买</string>
     <string name="BtnTitle_DownloadVoucher">下载确认单</string>
     <string name="BtnTitle_ProceedToPayment">付款</string>
