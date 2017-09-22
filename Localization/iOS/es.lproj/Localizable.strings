@@ -128,5 +128,8 @@
 "Label_Month" = "mes";
 "AlertTitle_InputPaymentError" = "¡Error!";
 "Label_MarketPlaceInternetError" = "Para utilizar Market Place se requiere una conexión internet activa. \n Comprueba tu conexión \n y presiona el botón para volver a intentar.";
-"Label_From" = "From";
-"BtnTitle_Processing" = "Processing…";
+"Label_From" = "de";
+"BtnTitle_Processing" = "procesando...";
+"Label_TermsAndConditionsTitle" = "Términos y condiciones";
+"Label_TermsAndConditions" = "Al continuar, confirma que acepta nuestros \n Términos y Condiciones";
+"Label_DropdownOptionAll" = "todas";

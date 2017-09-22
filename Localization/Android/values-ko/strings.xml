@@ -131,5 +131,8 @@
     <string name="AlertTitle_InputPaymentError">Input Error!</string>
     <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required. \n Please check your connection \n and tap the button below to retry</string>
     <string name="Label_From">From</string>
-    <string name="BtnTitle_Processing">Processing…</string>
+    <string name="BtnTitle_Processing">Processing...</string>
+    <string name="Label_TermsAndConditionsTitle">Terms &amp; Conditions</string>
+    <string name="Label_TermsAndConditions">By proceeding, you confirm that you accept our \n Terms &amp; Conditions</string>
+    <string name="Label_DropdownOptionAll">All</string>
 </resources>

@@ -129,4 +129,7 @@
 "AlertTitle_InputPaymentError" = "Input Error!";
 "Label_MarketPlaceInternetError" = "To use Market Place an active Internet connection is required. \n Please check your connection \n and tap the button below to retry";
 "Label_From" = "From";
-"BtnTitle_Processing" = "Processing…";
+"BtnTitle_Processing" = "Processing...";
+"Label_TermsAndConditionsTitle" = "Terms & Conditions";
+"Label_TermsAndConditions" = "By proceeding, you confirm that you accept our \n Terms & Conditions";
+"Label_DropdownOptionAll" = "All";

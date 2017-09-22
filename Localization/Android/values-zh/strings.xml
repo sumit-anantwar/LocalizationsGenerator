@@ -130,6 +130,9 @@
     <string name="Label_Month">月</string>
     <string name="AlertTitle_InputPaymentError">错误！</string>
     <string name="Label_MarketPlaceInternetError">进入商城服务，需连接网络\n请查看您的网络连接\n点击以下按键重试</string>
-    <string name="Label_From">From</string>
-    <string name="BtnTitle_Processing">Processing…</string>
+    <string name="Label_From">起价</string>
+    <string name="BtnTitle_Processing">计算中。。。</string>
+    <string name="Label_TermsAndConditionsTitle">条款及细则</string>
+    <string name="Label_TermsAndConditions">继续，同意我们的条款及细则</string>
+    <string name="Label_DropdownOptionAll">全部</string>
 </resources>

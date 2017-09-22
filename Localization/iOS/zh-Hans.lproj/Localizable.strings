@@ -128,5 +128,8 @@
 "Label_Month" = "月";
 "AlertTitle_InputPaymentError" = "错误！";
 "Label_MarketPlaceInternetError" = "进入商城服务，需连接网络\n请查看您的网络连接\n点击以下按键重试";
-"Label_From" = "From";
-"BtnTitle_Processing" = "Processing…";
+"Label_From" = "起价";
+"BtnTitle_Processing" = "计算中。。。";
+"Label_TermsAndConditionsTitle" = "条款及细则";
+"Label_TermsAndConditions" = "继续，同意我们的条款及细则";
+"Label_DropdownOptionAll" = "全部";
