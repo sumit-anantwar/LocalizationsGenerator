@@ -42,7 +42,7 @@ public class LocalizationsGenerator {
         {
             File baseFolder = new File("Localization");
 //            baseFolder.mkdirs();
-            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations.xlsx"));
+            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V3.xlsx"));
 
             XSSFWorkbook workbook = new XSSFWorkbook(file);
             //Create Workbook instance holding reference to .xlsx file
@@ -89,55 +89,64 @@ public class LocalizationsGenerator {
                             // Omit all the values in the Usage Column
                             System.out.print(cell.getStringCellValue() + " - ");
                         }
-                        else if (cell.getCellType() == Cell.CELL_TYPE_STRING) {
+                        else { // if (cell.getCellType() == Cell.CELL_TYPE_STRING) {
                             if (iosMap.containsKey(column)) {
-                                System.out.print(cell.getStringCellValue() + " - ");
-
                                 String value = cell.getStringCellValue().trim();
                                 value = value.replace("’", "'"); // Replace all the Back Ticks with an Apostrophe
+                                // Remember the English String
+                                if (column.equalsIgnoreCase("en")) {
+                                    enStr = value;
+                                }
+                                // For all the columns other than "en"
+                                if (value.length() <= 0) {
+                                    value = enStr;
+                                }
                                 // Prepare string for Android
                                 String andrValue = value.replace("%@", "%s"); // Replace format specifiers for Android
-                                andrValue = andrValue.replace("'", "\'");
-                                if (value.length() > 0)
+                                andrValue = andrValue.replace("'", "\\'");
+                                andrValue = andrValue.replace("&", "&amp;");
+
+                                System.out.print(value + " - ");
+
+                                // Create values folder and strings file for Android
+                                File andrFldr = new File(baseFolder.getPath() + File.separator + "Android" + File.separator + "values" + (column.equalsIgnoreCase("en") ? "" : "-"+column) );
+                                andrFldr.mkdirs();
+                                File andrFile = new File(andrFldr.getPath() + File.separator + "strings.xml");
+                                andrFile.createNewFile();
+
+                                FileWriter aw = new FileWriter(andrFile, true);
+                                BufferedWriter abw = new BufferedWriter(aw);
+                                if (row.getRowNum() == 2)
                                 {
-                                    // Create values folder and strings file for Android
-                                    File andrFldr = new File(baseFolder.getPath() + File.separator + "Android" + File.separator + "values-" + column);
-                                    andrFldr.mkdirs();
-                                    File andrFile = new File(andrFldr.getPath() + File.separator + "strings.xml");
-                                    andrFile.createNewFile();
-
-                                    FileWriter aw = new FileWriter(andrFile, true);
-                                    BufferedWriter abw = new BufferedWriter(aw);
-                                    if (row.getRowNum() == 2)
-                                    {
-                                        abw.write("<resources>");
-                                        abw.newLine();
-                                    }
-                                    abw.write("<string name=\"" + keyStr + "\">" + andrValue + "</string>");
+                                    abw.write("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
                                     abw.newLine();
-                                    if (row.getRowNum() >= sheet.getLastRowNum())
-                                    {
-                                        abw.write("</resources>");
-                                        abw.newLine();
-                                    }
-
-                                    // Create iOS file
-                                    File iosFldr = new File(baseFolder.getPath() + File.separator + "iOS" + File.separator + iosMap.get(column) + ".lproj");
-                                    iosFldr.mkdirs();
-                                    File iosFile = new File(iosFldr.getPath() + File.separator + "Localizable.strings");
-                                    iosFile.createNewFile();
-                                    // "Key" = "String";
-                                    FileWriter iw = new FileWriter(iosFile, true);
-                                    BufferedWriter ibw = new BufferedWriter(iw);
-                                    ibw.write("\"" + keyStr + "\"" + " = " + "\"" + value + "\";");
-                                    ibw.newLine();
-
-                                    ibw.close();
-                                    iw.close();
-
-                                    abw.close();
-                                    aw.close();
+                                    abw.write("<resources>");
+                                    abw.newLine();
                                 }
+                                abw.write("    <string name=\"" + keyStr + "\">" + andrValue + "</string>");
+                                abw.newLine();
+                                if (row.getRowNum() >= sheet.getLastRowNum())
+                                {
+                                    abw.write("</resources>");
+                                    abw.newLine();
+                                }
+
+                                // Create iOS file
+                                File iosFldr = new File(baseFolder.getPath() + File.separator + "iOS" + File.separator + iosMap.get(column) + ".lproj");
+                                iosFldr.mkdirs();
+                                File iosFile = new File(iosFldr.getPath() + File.separator + "Localizable.strings");
+                                iosFile.createNewFile();
+                                // "Key" = "String";
+                                FileWriter iw = new FileWriter(iosFile, true);
+                                BufferedWriter ibw = new BufferedWriter(iw);
+                                ibw.write("\"" + keyStr + "\"" + " = " + "\"" + value + "\";");
+                                ibw.newLine();
+
+                                ibw.close();
+                                iw.close();
+
+                                abw.close();
+                                aw.close();
                             }
                         }
                     }
