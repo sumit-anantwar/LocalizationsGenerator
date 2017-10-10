@@ -80,6 +80,7 @@
 "Label_SearchByName" = "搜索关键字";
 "Label_Or" = "或者";
 "Label_MarketPlace" = "商城";
+"Label_Discover" = "探索";
 "Label_AudioMaps" = "地图";
 "Label_People" = "人数";
 "Label_Minutes" = "时长";
@@ -105,7 +106,7 @@
 "Label_BookingTotal" = "合计";
 "Label_PaymentSuccessfulTitle" = "成功付款";
 "Label_PaymentSuccessfulDesc" = "感谢订购！\n将收到邮件确认函，包含订单详情";
-"Label_DrawerMarketPlace" = "商城";
+"Label_DrawerMarketPlace" = "预订";
 "Label_MyPurchases" = "我的订单";
 "Label_SelectStartTime" = "选择开始时间";
 "Label_PriceBreakdown" = "明细";
@@ -131,5 +132,6 @@
 "Label_From" = "起价";
 "BtnTitle_Processing" = "计算中。。。";
 "Label_TermsAndConditionsTitle" = "条款及细则";
-"Label_TermsAndConditions" = "继续，同意我们的条款及细则";
+"Label_TermsAndConditions" = "继续，同意我们的 \n 条款及细则";
 "Label_DropdownOptionAll" = "全部";
+"Label_Introduction" = "简介";

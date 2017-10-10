@@ -80,6 +80,7 @@
 "Label_SearchByName" = "Search by name";
 "Label_Or" = "OR";
 "Label_MarketPlace" = "Market Place";
+"Label_Discover" = "Discover";
 "Label_AudioMaps" = "AudioMaps";
 "Label_People" = "People";
 "Label_Minutes" = "Minutes";
@@ -105,7 +106,7 @@
 "Label_BookingTotal" = "Total";
 "Label_PaymentSuccessfulTitle" = "Payment Successful";
 "Label_PaymentSuccessfulDesc" = "Thank you for your payment, it was successful.\nYou will receive a confirmation mail with the experience details.";
-"Label_DrawerMarketPlace" = "Experiences";
+"Label_DrawerMarketPlace" = "Bookings";
 "Label_MyPurchases" = "My Purchases";
 "Label_SelectStartTime" = "Select a starting time";
 "Label_PriceBreakdown" = "Price Breakdown";
@@ -133,3 +134,4 @@
 "Label_TermsAndConditionsTitle" = "Terms & Conditions";
 "Label_TermsAndConditions" = "By proceeding, you confirm that you accept our \n Terms & Conditions";
 "Label_DropdownOptionAll" = "All";
+"Label_Introduction" = "Introduction";

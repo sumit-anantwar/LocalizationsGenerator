@@ -82,6 +82,7 @@
     <string name="Label_SearchByName">Mit Namen suchen</string>
     <string name="Label_Or">Oder</string>
     <string name="Label_MarketPlace">Market Place</string>
+    <string name="Label_Discover">Entdecke</string>
     <string name="Label_AudioMaps">Karten</string>
     <string name="Label_People">Anzahl von Personen</string>
     <string name="Label_Minutes">Minuten</string>
@@ -107,7 +108,7 @@
     <string name="Label_BookingTotal">Insgesamt</string>
     <string name="Label_PaymentSuccessfulTitle">Zahlung erfolgreich</string>
     <string name="Label_PaymentSuccessfulDesc">Danke für die Zahlung, die erfolgreich ausgeführt wurde. \n Sie werden eine Bestätigungsemail mit den Details der Aktivität erhalten.</string>
-    <string name="Label_DrawerMarketPlace">Aktivitäten</string>
+    <string name="Label_DrawerMarketPlace">Reservierungen</string>
     <string name="Label_MyPurchases">Meine Einkäufe</string>
     <string name="Label_SelectStartTime">Uhrzeit auswählen</string>
     <string name="Label_PriceBreakdown">Preisdetails</string>
@@ -135,4 +136,5 @@
     <string name="Label_TermsAndConditionsTitle">AGB</string>
     <string name="Label_TermsAndConditions">Wenn Sie fortfahren, bestätigen Sie, dass Sie unsere AGB akzeptieren</string>
     <string name="Label_DropdownOptionAll">Alle</string>
+    <string name="Label_Introduction">Einleitung</string>
 </resources>

@@ -80,6 +80,7 @@
 "Label_SearchByName" = "Cerca per Nome";
 "Label_Or" = "O";
 "Label_MarketPlace" = "Market Place";
+"Label_Discover" = "Scopri";
 "Label_AudioMaps" = "Mappe";
 "Label_People" = "Persone";
 "Label_Minutes" = "Minuti";
@@ -105,7 +106,7 @@
 "Label_BookingTotal" = "Totale";
 "Label_PaymentSuccessfulTitle" = "Pagamento effettuato con successo";
 "Label_PaymentSuccessfulDesc" = "Grazie, il pagamento è andato a buon fine. \n Riceverai un'email di conferma con i dettagli della prenotazione.";
-"Label_DrawerMarketPlace" = "Attività";
+"Label_DrawerMarketPlace" = "Prenotazioni";
 "Label_MyPurchases" = "I miei acquisti";
 "Label_SelectStartTime" = "Seleziona l'orario";
 "Label_PriceBreakdown" = "Dettagli del Prezzo";
@@ -133,3 +134,4 @@
 "Label_TermsAndConditionsTitle" = "Termini e condizioni";
 "Label_TermsAndConditions" = "Nel procedere confermi di accettare i nostri \n Termini e Condizioni";
 "Label_DropdownOptionAll" = "tutte";
+"Label_Introduction" = "Introduzione";
