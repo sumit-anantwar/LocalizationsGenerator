@@ -131,10 +131,11 @@
     <string name="Label_Month">mese</string>
     <string name="AlertTitle_InputPaymentError">Errore!</string>
     <string name="Label_MarketPlaceInternetError">Per utilizzare questa funzionalità è necessaria una connessione internet attiva. \n Controlla la connessione internet \n e tocca per riprovare.</string>
-    <string name="Label_From">da</string>
-    <string name="BtnTitle_Processing">processando...</string>
+    <string name="Label_From">Da</string>
+    <string name="BtnTitle_Processing">Processando...</string>
     <string name="Label_TermsAndConditionsTitle">Termini e condizioni</string>
     <string name="Label_TermsAndConditions">Nel procedere confermi di accettare i nostri \n Termini e Condizioni</string>
     <string name="Label_DropdownOptionAll">tutte</string>
     <string name="Label_Introduction">Introduzione</string>
+    <string name="Label_ThingsToDo">Cose da fare</string>
 </resources>

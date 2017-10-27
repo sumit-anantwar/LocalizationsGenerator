@@ -42,7 +42,7 @@ public class LocalizationsGenerator {
         {
             File baseFolder = new File("Localization");
 //            baseFolder.mkdirs();
-            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V4.xlsx"));
+            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V5.xlsx"));
 
             XSSFWorkbook workbook = new XSSFWorkbook(file);
             //Create Workbook instance holding reference to .xlsx file
@@ -87,7 +87,7 @@ public class LocalizationsGenerator {
                         }
                         else if (column.equalsIgnoreCase("Usage")) {
                             // Omit all the values in the Usage Column
-                            System.out.print(cell.getStringCellValue() + " - ");
+                            System.out.print(((cell.getCellType() == Cell.CELL_TYPE_STRING) ? cell.getStringCellValue() : cell.getNumericCellValue()) + " - ");
                         }
                         else { // if (cell.getCellType() == Cell.CELL_TYPE_STRING) {
                             if (iosMap.containsKey(column)) {

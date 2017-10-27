@@ -131,10 +131,11 @@
     <string name="Label_Month">mes</string>
     <string name="AlertTitle_InputPaymentError">¡Error!</string>
     <string name="Label_MarketPlaceInternetError">Para utilizar Market Place se requiere una conexión internet activa. \n Comprueba tu conexión \n y presiona el botón para volver a intentar.</string>
-    <string name="Label_From">de</string>
-    <string name="BtnTitle_Processing">procesando...</string>
+    <string name="Label_From">De</string>
+    <string name="BtnTitle_Processing">Procesando...</string>
     <string name="Label_TermsAndConditionsTitle">Términos y condiciones</string>
     <string name="Label_TermsAndConditions">Al continuar, confirma que acepta nuestros \n Términos y Condiciones</string>
     <string name="Label_DropdownOptionAll">todas</string>
     <string name="Label_Introduction">Introducción</string>
+    <string name="Label_ThingsToDo">Que hacer</string>
 </resources>

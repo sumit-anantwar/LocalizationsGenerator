@@ -65,7 +65,7 @@
     <string name="AlertTitle_ConfirmLogout">Logout?</string>
     <string name="AlertDesc_ConfirmLogout">Do you really want to logout from this account?\nAll the related Audioguides would also be removed!</string>
     <string name="AlertTitle_GpsNotEnabled">GPS not enabled</string>
-    <string name="AlertDesc_GpsNotEnabled">Please enable GPS and try again</string>
+    <string name="AlertDesc_GpsNotEnabled">Please enable GPS for Route calcuation and Navigation</string>
     <string name="Toast_DestinationReached">Destination reached</string>
     <string name="Label_StarPoints">Star Points</string>
     <string name="Label_Pois">POIs</string>
@@ -137,4 +137,5 @@
     <string name="Label_TermsAndConditions">By proceeding, you confirm that you accept our \n Terms &amp; Conditions</string>
     <string name="Label_DropdownOptionAll">All</string>
     <string name="Label_Introduction">Introduction</string>
+    <string name="Label_ThingsToDo">Things to do</string>
 </resources>

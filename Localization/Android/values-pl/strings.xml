@@ -137,4 +137,5 @@
     <string name="Label_TermsAndConditions">By proceeding, you confirm that you accept our \n Terms &amp; Conditions</string>
     <string name="Label_DropdownOptionAll">All</string>
     <string name="Label_Introduction">Introduction</string>
+    <string name="Label_ThingsToDo">Things to do</string>
 </resources>

@@ -119,7 +119,7 @@
     <string name="AlertDesc_PeopleError">Die Personenanzahl sollte zwischen %1$d und %2$d liegen</string>
     <string name="BtnTitle_PayNow">Jetzt zahlen</string>
     <string name="BtnTitle_DownloadVoucher">den Voucher herunterladen</string>
-    <string name="BtnTitle_ProceedToPayment">weiter zur Zahlung</string>
+    <string name="BtnTitle_ProceedToPayment">Weiter zur Zahlung</string>
     <string name="BtnTitle_Retry">wiederholen</string>
     <string name="BtnTitle_Settings">Einstellungen</string>
     <string name="Label_SearchCategory">Kategorie auswählen</string>
@@ -131,10 +131,11 @@
     <string name="Label_Month">Monat</string>
     <string name="AlertTitle_InputPaymentError">Eingabefehler</string>
     <string name="Label_MarketPlaceInternetError">Um Market Place zu benutzen ist eine aktive Internetverbindung erforderlich. \n Prüfen Sie die Internetverbindung \n und klicken Sie, um erneut zu versuchen.</string>
-    <string name="Label_From">ab</string>
-    <string name="BtnTitle_Processing">wird bearbeitet...</string>
+    <string name="Label_From">Ab</string>
+    <string name="BtnTitle_Processing">Wird bearbeitet...</string>
     <string name="Label_TermsAndConditionsTitle">AGB</string>
     <string name="Label_TermsAndConditions">Wenn Sie fortfahren, bestätigen Sie, dass Sie unsere AGB akzeptieren</string>
     <string name="Label_DropdownOptionAll">Alle</string>
     <string name="Label_Introduction">Einleitung</string>
+    <string name="Label_ThingsToDo">Aktivitäten</string>
 </resources>
