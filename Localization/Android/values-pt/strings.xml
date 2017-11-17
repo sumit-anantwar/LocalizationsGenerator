@@ -83,7 +83,7 @@
     <string name="Label_Or">OR</string>
     <string name="Label_MarketPlace">Market Place</string>
     <string name="Label_Discover">Descobre</string>
-    <string name="Label_AudioMaps">AudioMaps</string>
+    <string name="Label_AudioMaps">Maps</string>
     <string name="Label_People">People</string>
     <string name="Label_Minutes">Minutes</string>
     <string name="Label_SelectDate">Select a date</string>
@@ -137,5 +137,5 @@
     <string name="Label_TermsAndConditions">By proceeding, you confirm that you accept our \n Terms &amp; Conditions</string>
     <string name="Label_DropdownOptionAll">All</string>
     <string name="Label_Introduction">Introduction</string>
-    <string name="Label_ThingsToDo">atividades</string>
+    <string name="Label_ThingsToDo">Atividades</string>
 </resources>

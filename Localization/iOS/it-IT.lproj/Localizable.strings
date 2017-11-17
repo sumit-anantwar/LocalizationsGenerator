@@ -129,7 +129,7 @@
 "Label_Month" = "mese";
 "AlertTitle_InputPaymentError" = "Errore!";
 "Label_MarketPlaceInternetError" = "Per utilizzare questa funzionalità è necessaria una connessione internet attiva. \n Controlla la connessione internet \n e tocca per riprovare.";
-"Label_From" = "da";
+"Label_From" = "Da";
 "BtnTitle_Processing" = "processando...";
 "Label_TermsAndConditionsTitle" = "Termini e condizioni";
 "Label_TermsAndConditions" = "Nel procedere confermi di accettare i nostri \n Termini e Condizioni";

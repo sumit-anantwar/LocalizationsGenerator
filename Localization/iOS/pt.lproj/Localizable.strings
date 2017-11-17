@@ -81,7 +81,7 @@
 "Label_Or" = "OR";
 "Label_MarketPlace" = "Market Place";
 "Label_Discover" = "Descobre";
-"Label_AudioMaps" = "AudioMaps";
+"Label_AudioMaps" = "Maps";
 "Label_People" = "People";
 "Label_Minutes" = "Minutes";
 "Label_SelectDate" = "Select a date";
@@ -135,4 +135,4 @@
 "Label_TermsAndConditions" = "By proceeding, you confirm that you accept our \n Terms & Conditions";
 "Label_DropdownOptionAll" = "All";
 "Label_Introduction" = "Introduction";
-"Label_ThingsToDo" = "atividades";
+"Label_ThingsToDo" = "Atividades";

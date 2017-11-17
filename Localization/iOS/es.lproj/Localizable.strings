@@ -3,7 +3,7 @@
 "ScreenTitle_SelectLanguage" = "Seleccione el idioma";
 "ScreenTitle_DownloadPackage" = "Descargar paquete";
 "BtnTitle_Login" = "INICIAR SESIÓN";
-"BtnTitle_Skip" = "Saltar";
+"BtnTitle_Skip" = "Omitir";
 "BtnTitle_Logout" = "Cerrar sesión";
 "BtnTitle_Map" = "MAPA";
 "BtnTitle_Allow" = "Permitir";
@@ -62,7 +62,7 @@
 "AlertDesc_CameraPermissionRequired" = "Se requiere acceso a la cámara para escanear el código QR. Por favor, actívelo en los ajustes de la aplicación.";
 "AlertTitle_ConfirmLogout" = "¿Desea salir?";
 "AlertDesc_ConfirmLogout" = "¿Desea salir de esta cuenta? \n¡Todas las Audioguías serán eliminadas!";
-"AlertTitle_GpsNotEnabled" = "GPS no disponible";
+"AlertTitle_GpsNotEnabled" = "GPS no esta hibilitado";
 "AlertDesc_GpsNotEnabled" = "Por favor, active el GPS e inténtelo de nuevo";
 "Toast_DestinationReached" = "Ha llegado a su destino";
 "Label_StarPoints" = "Star Points";
@@ -86,7 +86,7 @@
 "Label_Minutes" = "Minutos";
 "Label_SelectDate" = "Selecciona una fecha";
 "Label_AddPeople" = "Añadir Personas";
-"Label_AboutThisActivity" = "Información de la actividad";
+"Label_AboutThisActivity" = "Sobre esta actividad";
 "Label_Languages" = "Idiomas";
 "Label_AdditionalInformation" = "Información adicional";
 "Label_InclusionExclusion" = "Detalles de la oferta";
@@ -129,7 +129,7 @@
 "Label_Month" = "mes";
 "AlertTitle_InputPaymentError" = "¡Error!";
 "Label_MarketPlaceInternetError" = "Para utilizar Market Place se requiere una conexión internet activa. \n Comprueba tu conexión \n y presiona el botón para volver a intentar.";
-"Label_From" = "de";
+"Label_From" = "De";
 "BtnTitle_Processing" = "procesando...";
 "Label_TermsAndConditionsTitle" = "Términos y condiciones";
 "Label_TermsAndConditions" = "Al continuar, confirma que acepta nuestros \n Términos y Condiciones";

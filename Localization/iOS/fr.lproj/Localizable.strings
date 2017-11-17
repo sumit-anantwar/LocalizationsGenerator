@@ -80,7 +80,7 @@
 "Label_SearchByName" = "Rechercher par Nom";
 "Label_Or" = "OR";
 "Label_MarketPlace" = "Market Place";
-"Label_Discover" = "Découvre";
+"Label_Discover" = "Découvrir";
 "Label_AudioMaps" = "Carte";
 "Label_People" = "Personnes";
 "Label_Minutes" = "Minutes";
@@ -129,7 +129,7 @@
 "Label_Month" = "mois";
 "AlertTitle_InputPaymentError" = "Erreur!";
 "Label_MarketPlaceInternetError" = "Pour utiliser Market Place, une connexion Internet active est requise. \n Veuillez vérifier votre connexion \n et appuyez sur le bouton ci-dessous pour réessayer.";
-"Label_From" = "de";
+"Label_From" = "De";
 "BtnTitle_Processing" = "en traitement...";
 "Label_TermsAndConditionsTitle" = "Termes et conditions";
 "Label_TermsAndConditions" = "En procédant, vous confirmez que vous acceptez nos conditions générales d'utilisation";

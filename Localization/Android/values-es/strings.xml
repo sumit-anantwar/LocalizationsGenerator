@@ -5,7 +5,7 @@
     <string name="ScreenTitle_SelectLanguage">Seleccione el idioma</string>
     <string name="ScreenTitle_DownloadPackage">Descargar paquete</string>
     <string name="BtnTitle_Login">INICIAR SESIÓN</string>
-    <string name="BtnTitle_Skip">Saltar</string>
+    <string name="BtnTitle_Skip">Omitir</string>
     <string name="BtnTitle_Logout">Cerrar sesión</string>
     <string name="BtnTitle_Map">MAPA</string>
     <string name="BtnTitle_Allow">Permitir</string>
@@ -64,7 +64,7 @@
     <string name="AlertDesc_CameraPermissionRequired">Se requiere acceso a la cámara para escanear el código QR. Por favor, actívelo en los ajustes de la aplicación.</string>
     <string name="AlertTitle_ConfirmLogout">¿Desea salir?</string>
     <string name="AlertDesc_ConfirmLogout">¿Desea salir de esta cuenta? \n¡Todas las Audioguías serán eliminadas!</string>
-    <string name="AlertTitle_GpsNotEnabled">GPS no disponible</string>
+    <string name="AlertTitle_GpsNotEnabled">GPS no esta hibilitado</string>
     <string name="AlertDesc_GpsNotEnabled">Por favor, active el GPS e inténtelo de nuevo</string>
     <string name="Toast_DestinationReached">Ha llegado a su destino</string>
     <string name="Label_StarPoints">Star Points</string>
@@ -88,7 +88,7 @@
     <string name="Label_Minutes">Minutos</string>
     <string name="Label_SelectDate">Selecciona una fecha</string>
     <string name="Label_AddPeople">Añadir Personas</string>
-    <string name="Label_AboutThisActivity">Información de la actividad</string>
+    <string name="Label_AboutThisActivity">Sobre esta actividad</string>
     <string name="Label_Languages">Idiomas</string>
     <string name="Label_AdditionalInformation">Información adicional</string>
     <string name="Label_InclusionExclusion">Detalles de la oferta</string>

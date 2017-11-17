@@ -129,7 +129,7 @@
 "Label_Month" = "Monat";
 "AlertTitle_InputPaymentError" = "Eingabefehler";
 "Label_MarketPlaceInternetError" = "Um Market Place zu benutzen ist eine aktive Internetverbindung erforderlich. \n Prüfen Sie die Internetverbindung \n und klicken Sie, um erneut zu versuchen.";
-"Label_From" = "ab";
+"Label_From" = "Ab";
 "BtnTitle_Processing" = "wird bearbeitet...";
 "Label_TermsAndConditionsTitle" = "AGB";
 "Label_TermsAndConditions" = "Wenn Sie fortfahren, bestätigen Sie, dass Sie unsere AGB akzeptieren";
