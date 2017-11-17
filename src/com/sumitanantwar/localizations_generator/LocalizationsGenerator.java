@@ -34,6 +34,8 @@ public class LocalizationsGenerator {
         iosMap.put("ru", "ru");
         iosMap.put("pl", "pl");
         iosMap.put("zh", "zh-Hans");
+        iosMap.put("cs", "cs");
+        iosMap.put("ca", "ca");
     }
 
     public static void main(String[] args)
