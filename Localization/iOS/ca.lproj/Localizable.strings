@@ -41,7 +41,7 @@
 "AlertDesc_CellularDownload" = "No aconsellem descarregar grans quantitats de dades amb la xarxa mòbil. Si us plau, connecteu-vos a una xarxa wi-fi per descarregar el paquet.";
 "AlertDesc_MandatoryAppUpdate" = "Ha d'actualitzar l'aplicació per continuar";
 "AlertTitle_OutOfCityLimits" = "Fora dels límits de la ciutat";
-"AlertDesc_OutOfCityLimits" = "La seva posició està fora dels límits de la ciutat! \ N¡Atenció, no podrà accedir a la navegació ni als recorreguts!";
+"AlertDesc_OutOfCityLimits" = "La seva posició està fora dels límits de la ciutat! \n¡Atenció, no podrà accedir a la navegació ni als recorreguts!";
 "AlertTitle_EmptyCredentials" = "Credencials buides";
 "AlertDesc_EmptyCredentials" = "Si us plau, introduïu el nom d'usuari i la contrasenya";
 "AlertTitle_AuthenticationError" = "Error d'autenticació";
@@ -132,7 +132,7 @@
 "Label_From" = "De";
 "BtnTitle_Processing" = "Processant ...";
 "Label_TermsAndConditionsTitle" = "Termes i condicions";
-"Label_TermsAndConditions" = "En continuar, confirma que accepta els nostres Termes i Condicions";
+"Label_TermsAndConditions" = "En continuar, confirma que accepta els nostres \n Termes i Condicions";
 "Label_DropdownOptionAll" = "Totes";
 "Label_Introduction" = "Introducció";
 "Label_ThingsToDo" = "Que fer";

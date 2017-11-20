@@ -43,7 +43,7 @@
     <string name="AlertDesc_CellularDownload">No aconsellem descarregar grans quantitats de dades amb la xarxa mòbil. Si us plau, connecteu-vos a una xarxa wi-fi per descarregar el paquet.</string>
     <string name="AlertDesc_MandatoryAppUpdate">Ha d\'actualitzar l\'aplicació per continuar</string>
     <string name="AlertTitle_OutOfCityLimits">Fora dels límits de la ciutat</string>
-    <string name="AlertDesc_OutOfCityLimits">La seva posició està fora dels límits de la ciutat! \ N¡Atenció, no podrà accedir a la navegació ni als recorreguts!</string>
+    <string name="AlertDesc_OutOfCityLimits">La seva posició està fora dels límits de la ciutat! \n¡Atenció, no podrà accedir a la navegació ni als recorreguts!</string>
     <string name="AlertTitle_EmptyCredentials">Credencials buides</string>
     <string name="AlertDesc_EmptyCredentials">Si us plau, introduïu el nom d\'usuari i la contrasenya</string>
     <string name="AlertTitle_AuthenticationError">Error d\'autenticació</string>
