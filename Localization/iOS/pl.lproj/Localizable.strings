@@ -136,3 +136,8 @@
 "Label_DropdownOptionAll" = "All";
 "Label_Introduction" = "Introduction";
 "Label_ThingsToDo" = "Things to do";
+"AlertDesc_AutoPlayServiceError" = "Auto Play would be switched off if you exit the map. POI Tracks wont play automatically based on your location.";
+"ToolTip_AutoPlay_ON" = "Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.";
+"ToolTip_AutoPlay_OFF" = "Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.";
+"BtnTitle_StayOnMap" = "Stay on Map";
+"BtnTitle_Exit" = "Exit";

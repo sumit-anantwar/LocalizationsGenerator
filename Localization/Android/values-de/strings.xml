@@ -120,7 +120,7 @@
     <string name="BtnTitle_PayNow">Jetzt zahlen</string>
     <string name="BtnTitle_DownloadVoucher">den Voucher herunterladen</string>
     <string name="BtnTitle_ProceedToPayment">Weiter zur Zahlung</string>
-    <string name="BtnTitle_Retry">wiederholen</string>
+    <string name="BtnTitle_Retry">Wiederholen</string>
     <string name="BtnTitle_Settings">Einstellungen</string>
     <string name="Label_SearchCategory">Kategorie auswählen</string>
     <string name="Label_SearchCity">Stadt auswählen</string>
@@ -138,4 +138,9 @@
     <string name="Label_DropdownOptionAll">Alle</string>
     <string name="Label_Introduction">Einleitung</string>
     <string name="Label_ThingsToDo">Aktivitäten</string>
+    <string name="AlertDesc_AutoPlayServiceError">Der AutoPlay-Modus wird ausgeschaltet, wenn Sie die Karte verlassen. Die Audiospuren werden nicht automatisch abgespielt, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.</string>
+    <string name="ToolTip_AutoPlay_ON">Der AutoPlay-Modus ist an.\n Die Audiospuren werden automatisch abgespielt, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden. Klicken Sie, um ihn zu deaktivieren.</string>
+    <string name="ToolTip_AutoPlay_OFF">Der AutoPlay-Modus ist aus.\n Klicken Sie zur Aktivierung, wenn Sie möchten, dass die Audiospuren automatisch abgespielt werden, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.</string>
+    <string name="BtnTitle_StayOnMap">Bleiben auf der Karte</string>
+    <string name="BtnTitle_Exit">verlassen</string>
 </resources>

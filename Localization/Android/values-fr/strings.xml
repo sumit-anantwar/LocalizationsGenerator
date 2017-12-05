@@ -138,4 +138,9 @@
     <string name="Label_DropdownOptionAll">tout</string>
     <string name="Label_Introduction">Introduction</string>
     <string name="Label_ThingsToDo">Activités</string>
+    <string name="AlertDesc_AutoPlayServiceError">La modalité reproduction automatique (AutoPlay) se désactivera en sortant de la carte. En ce cas, les commentaires audios ne se lanceront pas automatiquement en proximité des points d\'intérêts.</string>
+    <string name="ToolTip_AutoPlay_ON">La modalité reproduction automatique (AutoPlay) est activé. Les commentaires audios se lanceront automatiquement en proximité d\'un point d\'intérêt. Cliquez sur l\'icône pour la désactiver.</string>
+    <string name="ToolTip_AutoPlay_OFF">La modalité reproduction automatique (AutoPlay) est désactivé. Cliquez sur l\'icône pour activer cette modalité. Les commentaires audios se lanceront automatiquement en proximité d\'un point d\'intérêt.</string>
+    <string name="BtnTitle_StayOnMap">Rester sur la carte</string>
+    <string name="BtnTitle_Exit">Quitter</string>
 </resources>

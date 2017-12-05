@@ -130,9 +130,14 @@
 "AlertTitle_InputPaymentError" = "Errore!";
 "Label_MarketPlaceInternetError" = "Per utilizzare questa funzionalità è necessaria una connessione internet attiva. \n Controlla la connessione internet \n e tocca per riprovare.";
 "Label_From" = "Da";
-"BtnTitle_Processing" = "processando...";
+"BtnTitle_Processing" = "Processando...";
 "Label_TermsAndConditionsTitle" = "Termini e condizioni";
 "Label_TermsAndConditions" = "Nel procedere confermi di accettare i nostri \n Termini e Condizioni";
 "Label_DropdownOptionAll" = "tutte";
 "Label_Introduction" = "Introduzione";
 "Label_ThingsToDo" = "Cose da fare";
+"AlertDesc_AutoPlayServiceError" = "La modalità AutoPlay verrà disattivata uscendo dalla mappa. Le tracce audio non saranno riprodotte automaticamente se in prossimità di un punto di interesse";
+"ToolTip_AutoPlay_ON" = "La modalità AutoPlay è attiva.\n Le tracce audio verranno riprodotte automaticamente quando ti trovi in prossimità di un punto di interesse. Clicca sull'icona per disattivarla.";
+"ToolTip_AutoPlay_OFF" = "La modalità AutoPlay è disattivata.\n Clicca sull'icona per attivarla, se vuoi che le tracce audio vengano riprodotte automaticamente quando ti trovi in prossimità di un punto di interesse.";
+"BtnTitle_StayOnMap" = "Rimani sulla mappa";
+"BtnTitle_Exit" = "Esci";

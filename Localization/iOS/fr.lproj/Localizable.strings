@@ -130,9 +130,14 @@
 "AlertTitle_InputPaymentError" = "Erreur!";
 "Label_MarketPlaceInternetError" = "Pour utiliser Market Place, une connexion Internet active est requise. \n Veuillez vérifier votre connexion \n et appuyez sur le bouton ci-dessous pour réessayer.";
 "Label_From" = "De";
-"BtnTitle_Processing" = "en traitement...";
+"BtnTitle_Processing" = "En traitement...";
 "Label_TermsAndConditionsTitle" = "Termes et conditions";
 "Label_TermsAndConditions" = "En procédant, vous confirmez que vous acceptez nos conditions générales d'utilisation";
 "Label_DropdownOptionAll" = "tout";
 "Label_Introduction" = "Introduction";
 "Label_ThingsToDo" = "Activités";
+"AlertDesc_AutoPlayServiceError" = "La modalité reproduction automatique (AutoPlay) se désactivera en sortant de la carte. En ce cas, les commentaires audios ne se lanceront pas automatiquement en proximité des points d'intérêts.";
+"ToolTip_AutoPlay_ON" = "La modalité reproduction automatique (AutoPlay) est activé. Les commentaires audios se lanceront automatiquement en proximité d'un point d'intérêt. Cliquez sur l'icône pour la désactiver.";
+"ToolTip_AutoPlay_OFF" = "La modalité reproduction automatique (AutoPlay) est désactivé. Cliquez sur l'icône pour activer cette modalité. Les commentaires audios se lanceront automatiquement en proximité d'un point d'intérêt.";
+"BtnTitle_StayOnMap" = "Rester sur la carte";
+"BtnTitle_Exit" = "Quitter";

@@ -138,4 +138,9 @@
     <string name="Label_DropdownOptionAll">tutte</string>
     <string name="Label_Introduction">Introduzione</string>
     <string name="Label_ThingsToDo">Cose da fare</string>
+    <string name="AlertDesc_AutoPlayServiceError">La modalità AutoPlay verrà disattivata uscendo dalla mappa. Le tracce audio non saranno riprodotte automaticamente se in prossimità di un punto di interesse</string>
+    <string name="ToolTip_AutoPlay_ON">La modalità AutoPlay è attiva.\n Le tracce audio verranno riprodotte automaticamente quando ti trovi in prossimità di un punto di interesse. Clicca sull\'icona per disattivarla.</string>
+    <string name="ToolTip_AutoPlay_OFF">La modalità AutoPlay è disattivata.\n Clicca sull\'icona per attivarla, se vuoi che le tracce audio vengano riprodotte automaticamente quando ti trovi in prossimità di un punto di interesse.</string>
+    <string name="BtnTitle_StayOnMap">Rimani sulla mappa</string>
+    <string name="BtnTitle_Exit">Esci</string>
 </resources>

@@ -117,8 +117,8 @@
 "AlertDesc_PeopleError" = "Die Personenanzahl sollte zwischen %d und %d liegen";
 "BtnTitle_PayNow" = "Jetzt zahlen";
 "BtnTitle_DownloadVoucher" = "den Voucher herunterladen";
-"BtnTitle_ProceedToPayment" = "weiter zur Zahlung";
-"BtnTitle_Retry" = "wiederholen";
+"BtnTitle_ProceedToPayment" = "Weiter zur Zahlung";
+"BtnTitle_Retry" = "Wiederholen";
 "BtnTitle_Settings" = "Einstellungen";
 "Label_SearchCategory" = "Kategorie auswählen";
 "Label_SearchCity" = "Stadt auswählen";
@@ -130,9 +130,14 @@
 "AlertTitle_InputPaymentError" = "Eingabefehler";
 "Label_MarketPlaceInternetError" = "Um Market Place zu benutzen ist eine aktive Internetverbindung erforderlich. \n Prüfen Sie die Internetverbindung \n und klicken Sie, um erneut zu versuchen.";
 "Label_From" = "Ab";
-"BtnTitle_Processing" = "wird bearbeitet...";
+"BtnTitle_Processing" = "Wird bearbeitet...";
 "Label_TermsAndConditionsTitle" = "AGB";
 "Label_TermsAndConditions" = "Wenn Sie fortfahren, bestätigen Sie, dass Sie unsere AGB akzeptieren";
 "Label_DropdownOptionAll" = "Alle";
 "Label_Introduction" = "Einleitung";
 "Label_ThingsToDo" = "Aktivitäten";
+"AlertDesc_AutoPlayServiceError" = "Der AutoPlay-Modus wird ausgeschaltet, wenn Sie die Karte verlassen. Die Audiospuren werden nicht automatisch abgespielt, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.";
+"ToolTip_AutoPlay_ON" = "Der AutoPlay-Modus ist an.\n Die Audiospuren werden automatisch abgespielt, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden. Klicken Sie, um ihn zu deaktivieren.";
+"ToolTip_AutoPlay_OFF" = "Der AutoPlay-Modus ist aus.\n Klicken Sie zur Aktivierung, wenn Sie möchten, dass die Audiospuren automatisch abgespielt werden, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.";
+"BtnTitle_StayOnMap" = "Bleiben auf der Karte";
+"BtnTitle_Exit" = "verlassen";

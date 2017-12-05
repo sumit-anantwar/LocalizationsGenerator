@@ -116,7 +116,7 @@
     <string name="AlertTitle_ExperienceAvailability">Chybně zadané údaje!</string>
     <string name="AlertDesc_ExperienceAvailability">Dle Vámi zadaných kriterií nebylo nic nalezeno, zkontrolujte si prosím kriteria a zkuste to znovu</string>
     <string name="AlertTitle_PeopleError">Chybně zadané údaje!</string>
-    <string name="AlertDesc_PeopleError">Celkový počet lidí musí být mezi %d a %d</string>
+    <string name="AlertDesc_PeopleError">Celkový počet lidí musí být mezi %1$d a %2$d</string>
     <string name="BtnTitle_PayNow">Přehrát nyní</string>
     <string name="BtnTitle_DownloadVoucher">Stáhnout voucher</string>
     <string name="BtnTitle_ProceedToPayment">Pokračovat k zaplacení</string>
@@ -138,4 +138,9 @@
     <string name="Label_DropdownOptionAll">Všechno</string>
     <string name="Label_Introduction">Úvod</string>
     <string name="Label_ThingsToDo">Úkolníček</string>
+    <string name="AlertDesc_AutoPlayServiceError">Auto Play would be switched off if you exit the map. POI Tracks wont play automatically based on your location.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
+    <string name="BtnTitle_StayOnMap">Stay on Map</string>
+    <string name="BtnTitle_Exit">Exit</string>
 </resources>

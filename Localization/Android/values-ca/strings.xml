@@ -116,7 +116,7 @@
     <string name="AlertTitle_ExperienceAvailability">Error!</string>
     <string name="AlertDesc_ExperienceAvailability">No hi ha disponibilitat per als criteris seleccionats; si us plau, revisi la seva selecció i provi de nou</string>
     <string name="AlertTitle_PeopleError">Error!</string>
-    <string name="AlertDesc_PeopleError">El nombre de persones hauria de ser entre% d i % d</string>
+    <string name="AlertDesc_PeopleError">El nombre de persones hauria de ser entre %1$d i %2$d</string>
     <string name="BtnTitle_PayNow">Pagar ara</string>
     <string name="BtnTitle_DownloadVoucher">Descarregar cupó</string>
     <string name="BtnTitle_ProceedToPayment">Procedir al pagament</string>
@@ -134,8 +134,13 @@
     <string name="Label_From">De</string>
     <string name="BtnTitle_Processing">Processant ...</string>
     <string name="Label_TermsAndConditionsTitle">Termes i condicions</string>
-    <string name="Label_TermsAndConditions">En continuar, confirma que accepta els nostres Termes i Condicions</string>
+    <string name="Label_TermsAndConditions">En continuar, confirma que accepta els nostres \n Termes i Condicions</string>
     <string name="Label_DropdownOptionAll">Totes</string>
     <string name="Label_Introduction">Introducció</string>
     <string name="Label_ThingsToDo">Que fer</string>
+    <string name="AlertDesc_AutoPlayServiceError">Auto Play would be switched off if you exit the map. POI Tracks wont play automatically based on your location.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
+    <string name="BtnTitle_StayOnMap">Stay on Map</string>
+    <string name="BtnTitle_Exit">Exit</string>
 </resources>

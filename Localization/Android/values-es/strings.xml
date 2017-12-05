@@ -138,4 +138,9 @@
     <string name="Label_DropdownOptionAll">todas</string>
     <string name="Label_Introduction">Introducción</string>
     <string name="Label_ThingsToDo">Que hacer</string>
+    <string name="AlertDesc_AutoPlayServiceError">La modalidad de reproducción automática se desactivará al salir del mapa. Los audios de los puntos de interés no serán reproducidos automaticamente al encontrarse cerca de estos.</string>
+    <string name="ToolTip_AutoPlay_ON">El modo de reproducción automática esta activado. Los comentarios de audio se reproducirán automáticamente cuando te encuentres cerca de un punto de interés. Para desactivarlo haz clic en el botón.</string>
+    <string name="ToolTip_AutoPlay_OFF">El modo de reproducción automática esta desactivado. Para activarlo haz clic en el botón. Los comentarios de audio se reproducirán automáticamente cuando te encuentres cerca de un punto de interés.</string>
+    <string name="BtnTitle_StayOnMap">Seguir en el mapa</string>
+    <string name="BtnTitle_Exit">Salir</string>
 </resources>

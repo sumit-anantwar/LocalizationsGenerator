@@ -136,3 +136,8 @@
 "Label_DropdownOptionAll" = "全部";
 "Label_Introduction" = "简介";
 "Label_ThingsToDo" = "有啥玩儿的";
+"AlertDesc_AutoPlayServiceError" = "退出地图后，将同时退出自动播放模式，定位后将不会自动播放语音讲解。";
+"ToolTip_AutoPlay_ON" = "自动播放模式已开启 \n 定位后将自动播放景点语音讲解。点击图标可关闭此模式";
+"ToolTip_AutoPlay_OFF" = "自动播放模式已关闭 \n 点击图标可开启此模式，定位后将自动播放景点语音讲解";
+"BtnTitle_StayOnMap" = "继续使用地图";
+"BtnTitle_Exit" = "退出";
