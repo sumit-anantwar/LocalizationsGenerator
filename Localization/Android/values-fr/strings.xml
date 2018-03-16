@@ -143,4 +143,6 @@
     <string name="ToolTip_AutoPlay_OFF">La modalité reproduction automatique (AutoPlay) est désactivé. Cliquez sur l\'icône pour activer cette modalité. Les commentaires audios se lanceront automatiquement en proximité d\'un point d\'intérêt.</string>
     <string name="BtnTitle_StayOnMap">Rester sur la carte</string>
     <string name="BtnTitle_Exit">Quitter</string>
+    <string name="Error_no_transport_map">There is no transport map available</string>
+    <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
 </resources>

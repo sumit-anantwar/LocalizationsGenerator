@@ -143,4 +143,6 @@
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="BtnTitle_StayOnMap">Stay on Map</string>
     <string name="BtnTitle_Exit">Exit</string>
+    <string name="Error_no_transport_map">There is no transport map available</string>
+    <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
 </resources>

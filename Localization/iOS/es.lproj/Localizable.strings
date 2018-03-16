@@ -141,3 +141,5 @@
 "ToolTip_AutoPlay_OFF" = "El modo de reproducción automática esta desactivado. Para activarlo haz clic en el botón. Los comentarios de audio se reproducirán automáticamente cuando te encuentres cerca de un punto de interés.";
 "BtnTitle_StayOnMap" = "Seguir en el mapa";
 "BtnTitle_Exit" = "Salir";
+"Error_no_transport_map" = "There is no transport map available";
+"Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";

@@ -60,7 +60,7 @@
     <string name="AlertDesc_PackageUpdate">È disponibile un aggiornamento di questa Audioguida.\nVuoi scaricarlo adesso?</string>
     <string name="AlertTitle_PackageDelete">Vuoi cancellare?</string>
     <string name="AlertDesc_PackageDelete">Sei sicuro di voler eliminare i contenuti di questo Tour?\nQuesto Tour continuerà ad apparire nell\'elenco e potrai riscaricarne il contenuto in futuro.</string>
-    <string name="AlertDesc_LocationPermission">Per continuare attiva il servizio di localizzazione di POPGuide, così la mappa funzionerà offline senza alcun costo di roaming.</string>
+    <string name="AlertDesc_LocationPermission">Per continuare attiva il servizio di localizzazione, così la mappa funzionerà offline senza alcun costo di roaming.</string>
     <string name="AlertDesc_CameraPermissionRequired">È necessario autorizzare l\'uso della videocamera per la scansione dei codici QR. Per attivarla, vai alle impostazioni dell\'applicazione.</string>
     <string name="AlertTitle_ConfirmLogout">Vuoi terminare la sessione?</string>
     <string name="AlertDesc_ConfirmLogout">Sei sicuro di voler terminare la sessione? Anche le relative Audioguide verranno cancellate.</string>
@@ -143,4 +143,6 @@
     <string name="ToolTip_AutoPlay_OFF">La modalità AutoPlay è disattivata.\n Clicca sull\'icona per attivarla, se vuoi che le tracce audio vengano riprodotte automaticamente quando ti trovi in prossimità di un punto di interesse.</string>
     <string name="BtnTitle_StayOnMap">Rimani sulla mappa</string>
     <string name="BtnTitle_Exit">Esci</string>
+    <string name="Error_no_transport_map">Non è disponibile nessuna mappa dei trasporti</string>
+    <string name="Error_transport_map_unsupported_format">Impossibile mostrare la mappa dei trasporti: formato non supportato</string>
 </resources>

@@ -60,7 +60,7 @@
     <string name="AlertDesc_PackageUpdate">An update for this Audioguide is available for download.\nDo you want to download it now?</string>
     <string name="AlertTitle_PackageDelete">Delete?</string>
     <string name="AlertDesc_PackageDelete">Are you sure you want to delete the contents of this Tour?\nThe Tour entry will continue to be displayed in this list and you would be able to redownload the contents in the future.</string>
-    <string name="AlertDesc_LocationPermission">To continue, let your device turn on POPGuide\'s location service so the map works offline without incurring roaming charges</string>
+    <string name="AlertDesc_LocationPermission">To continue, let your device turn on location service so the map works offline without incurring roaming charges</string>
     <string name="AlertDesc_CameraPermissionRequired">Camera permission is required for the QR code scanner. Please enable it from the App\'s settings</string>
     <string name="AlertTitle_ConfirmLogout">Logout?</string>
     <string name="AlertDesc_ConfirmLogout">Do you really want to logout from this account?\nAll the related Audioguides would also be removed!</string>
@@ -143,4 +143,6 @@
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="BtnTitle_StayOnMap">Stay on Map</string>
     <string name="BtnTitle_Exit">Exit</string>
+    <string name="Error_no_transport_map">There is no transport map available</string>
+    <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
 </resources>

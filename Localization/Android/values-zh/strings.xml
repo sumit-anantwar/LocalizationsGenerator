@@ -143,4 +143,6 @@
     <string name="ToolTip_AutoPlay_OFF">自动播放模式已关闭 \n 点击图标可开启此模式，定位后将自动播放景点语音讲解</string>
     <string name="BtnTitle_StayOnMap">继续使用地图</string>
     <string name="BtnTitle_Exit">退出</string>
+    <string name="Error_no_transport_map">There is no transport map available</string>
+    <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
 </resources>

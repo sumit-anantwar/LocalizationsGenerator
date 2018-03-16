@@ -58,7 +58,7 @@
 "AlertDesc_PackageUpdate" = "È disponibile un aggiornamento di questa Audioguida.\nVuoi scaricarlo adesso?";
 "AlertTitle_PackageDelete" = "Vuoi cancellare?";
 "AlertDesc_PackageDelete" = "Sei sicuro di voler eliminare i contenuti di questo Tour?\nQuesto Tour continuerà ad apparire nell'elenco e potrai riscaricarne il contenuto in futuro.";
-"AlertDesc_LocationPermission" = "Per continuare attiva il servizio di localizzazione di POPGuide, così la mappa funzionerà offline senza alcun costo di roaming.";
+"AlertDesc_LocationPermission" = "Per continuare attiva il servizio di localizzazione, così la mappa funzionerà offline senza alcun costo di roaming.";
 "AlertDesc_CameraPermissionRequired" = "È necessario autorizzare l'uso della videocamera per la scansione dei codici QR. Per attivarla, vai alle impostazioni dell'applicazione.";
 "AlertTitle_ConfirmLogout" = "Vuoi terminare la sessione?";
 "AlertDesc_ConfirmLogout" = "Sei sicuro di voler terminare la sessione? Anche le relative Audioguide verranno cancellate.";
@@ -141,3 +141,5 @@
 "ToolTip_AutoPlay_OFF" = "La modalità AutoPlay è disattivata.\n Clicca sull'icona per attivarla, se vuoi che le tracce audio vengano riprodotte automaticamente quando ti trovi in prossimità di un punto di interesse.";
 "BtnTitle_StayOnMap" = "Rimani sulla mappa";
 "BtnTitle_Exit" = "Esci";
+"Error_no_transport_map" = "Non è disponibile nessuna mappa dei trasporti";
+"Error_transport_map_unsupported_format" = "Impossibile mostrare la mappa dei trasporti: formato non supportato";

@@ -141,3 +141,5 @@
 "ToolTip_AutoPlay_OFF" = "Der AutoPlay-Modus ist aus.\n Klicken Sie zur Aktivierung, wenn Sie möchten, dass die Audiospuren automatisch abgespielt werden, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.";
 "BtnTitle_StayOnMap" = "Bleiben auf der Karte";
 "BtnTitle_Exit" = "verlassen";
+"Error_no_transport_map" = "There is no transport map available";
+"Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
