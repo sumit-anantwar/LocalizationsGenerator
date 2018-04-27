@@ -20,7 +20,7 @@
 "BtnTitle_StartNavigation" = "ALLER";
 "BtnTitle_StopNavigation" = "STOP";
 "BtnTitle_CalculateRoute" = "CALCULER ROUTE";
-"BtnTitle_ClearRoute" = "DÉGAGER ROUTE";
+"BtnTitle_ClearRoute" = "Annuler l'itinéraire";
 "BtnTitle_Delete" = "SUPPRIMER";
 "Label_Username" = "Nom d'utilisateur";
 "Label_Password" = "Mot de passe";
@@ -141,5 +141,12 @@
 "ToolTip_AutoPlay_OFF" = "La modalité reproduction automatique (AutoPlay) est désactivé. Cliquez sur l'icône pour activer cette modalité. Les commentaires audios se lanceront automatiquement en proximité d'un point d'intérêt.";
 "BtnTitle_StayOnMap" = "Rester sur la carte";
 "BtnTitle_Exit" = "Quitter";
-"Error_no_transport_map" = "There is no transport map available";
-"Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
+"Error_no_transport_map" = "Aucune carte de transport disponible";
+"Error_transport_map_unsupported_format" = "Impossible d'afficher la carte de transport: format non pris en charge";
+"Label_FilterPoints" = "Filtrer les points";
+"Label_Unit_Km" = "Km";
+"Label_Unit_Miles" = "Mi";
+"AlertTitle_InvalidQRCode" = "Code Qr Invalide";
+"AlertDesc_InvalidQRCode" = "Le Code QR que vous essayez de scanner n'est pas valide. \n Merci d'utiliser le code qui vous a été fourni";
+"AlertTitle_MandatoryAppUpdate" = "Mise à jour de l'appli requise";
+"AlertDesc_TutorialDisplay" = "Afficher le Tutorial au prochain lancement?";

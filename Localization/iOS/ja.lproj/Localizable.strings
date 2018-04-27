@@ -143,3 +143,10 @@
 "BtnTitle_Exit" = "Exit";
 "Error_no_transport_map" = "There is no transport map available";
 "Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
+"Label_FilterPoints" = "Filter Points";
+"Label_Unit_Km" = "Km";
+"Label_Unit_Miles" = "Mi";
+"AlertTitle_InvalidQRCode" = "Invalid QR Code";
+"AlertDesc_InvalidQRCode" = "The QR Code that you are trying to scan is invalid. \n Please use the code provided to you.";
+"AlertTitle_MandatoryAppUpdate" = "App Update Required";
+"AlertDesc_TutorialDisplay" = "Show the Tutorial at next launch?";

@@ -22,7 +22,7 @@
     <string name="BtnTitle_StartNavigation">ALLER</string>
     <string name="BtnTitle_StopNavigation">STOP</string>
     <string name="BtnTitle_CalculateRoute">CALCULER ROUTE</string>
-    <string name="BtnTitle_ClearRoute">DÉGAGER ROUTE</string>
+    <string name="BtnTitle_ClearRoute">Annuler l\'itinéraire</string>
     <string name="BtnTitle_Delete">SUPPRIMER</string>
     <string name="Label_Username">Nom d\'utilisateur</string>
     <string name="Label_Password">Mot de passe</string>
@@ -143,6 +143,13 @@
     <string name="ToolTip_AutoPlay_OFF">La modalité reproduction automatique (AutoPlay) est désactivé. Cliquez sur l\'icône pour activer cette modalité. Les commentaires audios se lanceront automatiquement en proximité d\'un point d\'intérêt.</string>
     <string name="BtnTitle_StayOnMap">Rester sur la carte</string>
     <string name="BtnTitle_Exit">Quitter</string>
-    <string name="Error_no_transport_map">There is no transport map available</string>
-    <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
+    <string name="Error_no_transport_map">Aucune carte de transport disponible</string>
+    <string name="Error_transport_map_unsupported_format">Impossible d\'afficher la carte de transport: format non pris en charge</string>
+    <string name="Label_FilterPoints">Filtrer les points</string>
+    <string name="Label_Unit_Km">Km</string>
+    <string name="Label_Unit_Miles">Mi</string>
+    <string name="AlertTitle_InvalidQRCode">Code Qr Invalide</string>
+    <string name="AlertDesc_InvalidQRCode">Le Code QR que vous essayez de scanner n\'est pas valide. \n Merci d\'utiliser le code qui vous a été fourni</string>
+    <string name="AlertTitle_MandatoryAppUpdate">Mise à jour de l\'appli requise</string>
+    <string name="AlertDesc_TutorialDisplay">Afficher le Tutorial au prochain lancement?</string>
 </resources>

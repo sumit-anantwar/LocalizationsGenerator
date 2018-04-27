@@ -143,3 +143,10 @@
 "BtnTitle_Exit" = "Esci";
 "Error_no_transport_map" = "Non è disponibile nessuna mappa dei trasporti";
 "Error_transport_map_unsupported_format" = "Impossibile mostrare la mappa dei trasporti: formato non supportato";
+"Label_FilterPoints" = "Filtra punti";
+"Label_Unit_Km" = "km";
+"Label_Unit_Miles" = "mi";
+"AlertTitle_InvalidQRCode" = "Codice QR non valido";
+"AlertDesc_InvalidQRCode" = "Il codice QR che stai provando a leggere non è valido. \n Per favore usa il codice che ti è stato fornito.";
+"AlertTitle_MandatoryAppUpdate" = "Aggiornamento della App necessario";
+"AlertDesc_TutorialDisplay" = "Mostrare il tutorial al prossimo avvio?";

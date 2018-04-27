@@ -141,5 +141,12 @@
 "ToolTip_AutoPlay_OFF" = "El modo de reproducción automática esta desactivado. Para activarlo haz clic en el botón. Los comentarios de audio se reproducirán automáticamente cuando te encuentres cerca de un punto de interés.";
 "BtnTitle_StayOnMap" = "Seguir en el mapa";
 "BtnTitle_Exit" = "Salir";
-"Error_no_transport_map" = "There is no transport map available";
-"Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
+"Error_no_transport_map" = "Mapa de transporte no disponible";
+"Error_transport_map_unsupported_format" = "No se puede mostrar el mapa de transporte: Formato no compatible";
+"Label_FilterPoints" = "Filtro para Puntos de interés";
+"Label_Unit_Km" = "Km";
+"Label_Unit_Miles" = "Mi";
+"AlertTitle_InvalidQRCode" = "Código QR no válido";
+"AlertDesc_InvalidQRCode" = "El código QR que está intentando escanear no es válido. \n Por favor use el código proporcionado.";
+"AlertTitle_MandatoryAppUpdate" = "Actualización de la App requerida";
+"AlertDesc_TutorialDisplay" = "¿Mostrar el tutorial en el próximo inicio de sesión?";

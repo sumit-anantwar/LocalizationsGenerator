@@ -141,5 +141,12 @@
 "ToolTip_AutoPlay_OFF" = "Der AutoPlay-Modus ist aus.\n Klicken Sie zur Aktivierung, wenn Sie möchten, dass die Audiospuren automatisch abgespielt werden, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.";
 "BtnTitle_StayOnMap" = "Bleiben auf der Karte";
 "BtnTitle_Exit" = "verlassen";
-"Error_no_transport_map" = "There is no transport map available";
-"Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
+"Error_no_transport_map" = "Karte nicht verfügbar";
+"Error_transport_map_unsupported_format" = "Die Karte kann nicht angezeigt werden: Format nicht unterstützt";
+"Label_FilterPoints" = "Punkte filtern";
+"Label_Unit_Km" = "km";
+"Label_Unit_Miles" = "mi";
+"AlertTitle_InvalidQRCode" = "Ungültiger QR-Code";
+"AlertDesc_InvalidQRCode" = "Der QR-Code, den Sie zu scannen versuchen, ist ungültig. \n Bitte verwenden Sie den gegebenen QR-Code.";
+"AlertTitle_MandatoryAppUpdate" = "App-Aktualisierung erforderlich";
+"AlertDesc_TutorialDisplay" = "Möchten Sie das Tutorial beim nächsten Start anzeigen?";

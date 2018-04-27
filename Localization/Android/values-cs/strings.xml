@@ -145,4 +145,11 @@
     <string name="BtnTitle_Exit">Exit</string>
     <string name="Error_no_transport_map">There is no transport map available</string>
     <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
+    <string name="Label_FilterPoints">Filter Points</string>
+    <string name="Label_Unit_Km">Km</string>
+    <string name="Label_Unit_Miles">Mi</string>
+    <string name="AlertTitle_InvalidQRCode">Invalid QR Code</string>
+    <string name="AlertDesc_InvalidQRCode">The QR Code that you are trying to scan is invalid. \n Please use the code provided to you.</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
+    <string name="AlertDesc_TutorialDisplay">Show the Tutorial at next launch?</string>
 </resources>

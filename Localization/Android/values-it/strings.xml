@@ -145,4 +145,11 @@
     <string name="BtnTitle_Exit">Esci</string>
     <string name="Error_no_transport_map">Non è disponibile nessuna mappa dei trasporti</string>
     <string name="Error_transport_map_unsupported_format">Impossibile mostrare la mappa dei trasporti: formato non supportato</string>
+    <string name="Label_FilterPoints">Filtra punti</string>
+    <string name="Label_Unit_Km">km</string>
+    <string name="Label_Unit_Miles">mi</string>
+    <string name="AlertTitle_InvalidQRCode">Codice QR non valido</string>
+    <string name="AlertDesc_InvalidQRCode">Il codice QR che stai provando a leggere non è valido. \n Per favore usa il codice che ti è stato fornito.</string>
+    <string name="AlertTitle_MandatoryAppUpdate">Aggiornamento della App necessario</string>
+    <string name="AlertDesc_TutorialDisplay">Mostrare il tutorial al prossimo avvio?</string>
 </resources>

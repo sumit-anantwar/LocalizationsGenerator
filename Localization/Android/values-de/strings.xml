@@ -143,6 +143,13 @@
     <string name="ToolTip_AutoPlay_OFF">Der AutoPlay-Modus ist aus.\n Klicken Sie zur Aktivierung, wenn Sie möchten, dass die Audiospuren automatisch abgespielt werden, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.</string>
     <string name="BtnTitle_StayOnMap">Bleiben auf der Karte</string>
     <string name="BtnTitle_Exit">verlassen</string>
-    <string name="Error_no_transport_map">There is no transport map available</string>
-    <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
+    <string name="Error_no_transport_map">Karte nicht verfügbar</string>
+    <string name="Error_transport_map_unsupported_format">Die Karte kann nicht angezeigt werden: Format nicht unterstützt</string>
+    <string name="Label_FilterPoints">Punkte filtern</string>
+    <string name="Label_Unit_Km">km</string>
+    <string name="Label_Unit_Miles">mi</string>
+    <string name="AlertTitle_InvalidQRCode">Ungültiger QR-Code</string>
+    <string name="AlertDesc_InvalidQRCode">Der QR-Code, den Sie zu scannen versuchen, ist ungültig. \n Bitte verwenden Sie den gegebenen QR-Code.</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App-Aktualisierung erforderlich</string>
+    <string name="AlertDesc_TutorialDisplay">Möchten Sie das Tutorial beim nächsten Start anzeigen?</string>
 </resources>

@@ -143,6 +143,13 @@
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="BtnTitle_StayOnMap">Stay on Map</string>
     <string name="BtnTitle_Exit">Exit</string>
-    <string name="Error_no_transport_map">There is no transport map available</string>
-    <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
+    <string name="Error_no_transport_map">Карта городского транспорта не доступна</string>
+    <string name="Error_transport_map_unsupported_format">Невозможно отобразить карту: данный формат не поддерживается</string>
+    <string name="Label_FilterPoints">Фильтр</string>
+    <string name="Label_Unit_Km">Км</string>
+    <string name="Label_Unit_Miles">Мили</string>
+    <string name="AlertTitle_InvalidQRCode">Неверный QR-код</string>
+    <string name="AlertDesc_InvalidQRCode">QR-код, который вы пытаетесь использовать не действителен. \n Пожалуйста, используйте QR-код предоставленный вам.</string>
+    <string name="AlertTitle_MandatoryAppUpdate">Необходимо обновление приложения</string>
+    <string name="AlertDesc_TutorialDisplay">Показать инструкцию в следующий раз?</string>
 </resources>

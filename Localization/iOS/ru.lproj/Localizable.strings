@@ -141,5 +141,12 @@
 "ToolTip_AutoPlay_OFF" = "Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.";
 "BtnTitle_StayOnMap" = "Stay on Map";
 "BtnTitle_Exit" = "Exit";
-"Error_no_transport_map" = "There is no transport map available";
-"Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
+"Error_no_transport_map" = "Карта городского транспорта не доступна";
+"Error_transport_map_unsupported_format" = "Невозможно отобразить карту: данный формат не поддерживается";
+"Label_FilterPoints" = "Фильтр";
+"Label_Unit_Km" = "Км";
+"Label_Unit_Miles" = "Мили";
+"AlertTitle_InvalidQRCode" = "Неверный QR-код";
+"AlertDesc_InvalidQRCode" = "QR-код, который вы пытаетесь использовать не действителен. \n Пожалуйста, используйте QR-код предоставленный вам.";
+"AlertTitle_MandatoryAppUpdate" = "Необходимо обновление приложения";
+"AlertDesc_TutorialDisplay" = "Показать инструкцию в следующий раз?";
