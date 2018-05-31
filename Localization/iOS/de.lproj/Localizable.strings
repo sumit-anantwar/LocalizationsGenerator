@@ -150,3 +150,7 @@
 "AlertDesc_InvalidQRCode" = "Der QR-Code, den Sie zu scannen versuchen, ist ungültig. \n Bitte verwenden Sie den gegebenen QR-Code.";
 "AlertTitle_MandatoryAppUpdate" = "App-Aktualisierung erforderlich";
 "AlertDesc_TutorialDisplay" = "Möchten Sie das Tutorial beim nächsten Start anzeigen?";
+"Label_PrivacyIntro" = "Vox respektiert Ihr Recht, über die Datenverwendung bei unseren Dienstleistungen informiert zu werden.\nSie akzeptieren und bestätigen hiermit:";
+"Label_AcceptTerms" = "Geschäftsbedingungen %@ Service";
+"Label_AcceptPrivacy" = "die Datenschutzerklärung zum %@ Service gelesen zu haben";
+"Label_Mandatory" = "verpflichtend";

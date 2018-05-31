@@ -152,4 +152,8 @@
     <string name="AlertDesc_InvalidQRCode">The QR Code that you are trying to scan is invalid. \n Please use the code provided to you.</string>
     <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
     <string name="AlertDesc_TutorialDisplay">Show the Tutorial at next launch?</string>
+    <string name="Label_PrivacyIntro">Vox respects your right to be informed on the use of the data of our services.\n You hereby accept and acknowledge:</string>
+    <string name="Label_AcceptTerms">%s Service Terms and Conditions</string>
+    <string name="Label_AcceptPrivacy">to have read the %s Service Privacy Notice</string>
+    <string name="Label_Mandatory">mandatory</string>
 </resources>

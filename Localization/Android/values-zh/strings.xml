@@ -152,4 +152,9 @@
     <string name="AlertDesc_InvalidQRCode">The QR Code that you are trying to scan is invalid. \n Please use the code provided to you.</string>
     <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
     <string name="AlertDesc_TutorialDisplay">Show the Tutorial at next launch?</string>
+    <string name="Label_PrivacyIntro">个人数据
+您有权了解Vo如何使用个人数据。\n您在此接受：</string>
+    <string name="Label_AcceptTerms">%s服务条款和条件</string>
+    <string name="Label_AcceptPrivacy">已阅读%s服务隐私声明</string>
+    <string name="Label_Mandatory">继续</string>
 </resources>

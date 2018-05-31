@@ -152,4 +152,8 @@
     <string name="AlertDesc_InvalidQRCode">QR-код, который вы пытаетесь использовать не действителен. \n Пожалуйста, используйте QR-код предоставленный вам.</string>
     <string name="AlertTitle_MandatoryAppUpdate">Необходимо обновление приложения</string>
     <string name="AlertDesc_TutorialDisplay">Показать инструкцию в следующий раз?</string>
+    <string name="Label_PrivacyIntro">Vox respects your right to be informed on the use of the data of our services.\n You hereby accept and acknowledge:</string>
+    <string name="Label_AcceptTerms">%s Service Terms and Conditions</string>
+    <string name="Label_AcceptPrivacy">to have read the %s Service Privacy Notice</string>
+    <string name="Label_Mandatory">mandatory</string>
 </resources>

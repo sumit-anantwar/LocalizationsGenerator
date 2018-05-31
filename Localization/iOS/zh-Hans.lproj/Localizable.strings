@@ -150,3 +150,8 @@
 "AlertDesc_InvalidQRCode" = "The QR Code that you are trying to scan is invalid. \n Please use the code provided to you.";
 "AlertTitle_MandatoryAppUpdate" = "App Update Required";
 "AlertDesc_TutorialDisplay" = "Show the Tutorial at next launch?";
+"Label_PrivacyIntro" = "个人数据
+您有权了解Vo如何使用个人数据。\n您在此接受：";
+"Label_AcceptTerms" = "%@服务条款和条件";
+"Label_AcceptPrivacy" = "已阅读%@服务隐私声明";
+"Label_Mandatory" = "继续";

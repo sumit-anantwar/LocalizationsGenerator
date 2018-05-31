@@ -150,3 +150,7 @@
 "AlertDesc_InvalidQRCode" = "QR-код, который вы пытаетесь использовать не действителен. \n Пожалуйста, используйте QR-код предоставленный вам.";
 "AlertTitle_MandatoryAppUpdate" = "Необходимо обновление приложения";
 "AlertDesc_TutorialDisplay" = "Показать инструкцию в следующий раз?";
+"Label_PrivacyIntro" = "Vox respects your right to be informed on the use of the data of our services.\n You hereby accept and acknowledge:";
+"Label_AcceptTerms" = "%@ Service Terms and Conditions";
+"Label_AcceptPrivacy" = "to have read the %@ Service Privacy Notice";
+"Label_Mandatory" = "mandatory";

@@ -150,3 +150,7 @@
 "AlertDesc_InvalidQRCode" = "Il codice QR che stai provando a leggere non è valido. \n Per favore usa il codice che ti è stato fornito.";
 "AlertTitle_MandatoryAppUpdate" = "Aggiornamento della App necessario";
 "AlertDesc_TutorialDisplay" = "Mostrare il tutorial al prossimo avvio?";
+"Label_PrivacyIntro" = "Vox rispetta il tuo diritto di essere informato sull'utilizzo dei dati nei nostri servizi.\nUtilizzando l'App Vox City Pass accetti integralmente:";
+"Label_AcceptTerms" = "i nostri Termini e Condizioni del servizio %@";
+"Label_AcceptPrivacy" = "di avere preso visione della nostra Informativa Privacy";
+"Label_Mandatory" = "obbligatorio";
