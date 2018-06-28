@@ -44,7 +44,7 @@ public class LocalizationsGenerator {
         {
             File baseFolder = new File("Localization");
 //            baseFolder.mkdirs();
-            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V11.xlsx"));
+            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V12.xlsx"));
 
             XSSFWorkbook workbook = new XSSFWorkbook(file);
             //Create Workbook instance holding reference to .xlsx file

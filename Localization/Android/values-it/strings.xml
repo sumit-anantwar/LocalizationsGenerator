@@ -152,7 +152,7 @@
     <string name="AlertDesc_InvalidQRCode">Il codice QR che stai provando a leggere non è valido. \n Per favore usa il codice che ti è stato fornito.</string>
     <string name="AlertTitle_MandatoryAppUpdate">Aggiornamento della App necessario</string>
     <string name="AlertDesc_TutorialDisplay">Mostrare il tutorial al prossimo avvio?</string>
-    <string name="Label_PrivacyIntro">Vox rispetta il tuo diritto di essere informato sull\'utilizzo dei dati nei nostri servizi.\nUtilizzando l\'App Vox City Pass accetti integralmente:</string>
+    <string name="Label_PrivacyIntro">Vox rispetta il tuo diritto di essere informato sull\'utilizzo dei dati nei nostri servizi.\nUtilizzando la app accetti integralmente:</string>
     <string name="Label_AcceptTerms">i nostri Termini e Condizioni del servizio %s</string>
     <string name="Label_AcceptPrivacy">di avere preso visione della nostra Informativa Privacy</string>
     <string name="Label_Mandatory">obbligatorio</string>
