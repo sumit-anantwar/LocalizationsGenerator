@@ -29,7 +29,7 @@
 "Label_Or" = "OR";
 "BtnTitle_Retry" = "Réessayer";
 "BtnTitle_Settings" = "Options";
-"Label_MarketPlaceInternetError" = "Pour utiliser Market Place, une connexion Internet active est requise. \n Veuillez vérifier votre connexion \n et appuyez sur le bouton ci-dessous pour réessayer.";
+"Label_MarketPlaceInternetError" = "Pour utiliser Market Place, une connexion Internet active est requise.\nVeuillez vérifier votre connexion\net appuyez sur le bouton ci-dessous pour réessayer.";
 "Label_TermsAndConditionsTitle" = "Termes et conditions";
 "ToolTip_AutoPlay_ON" = "La modalité reproduction automatique (AutoPlay) est activé. Les commentaires audios se lanceront automatiquement en proximité d'un point d'intérêt. Cliquez sur l'icône pour la désactiver.";
 "ToolTip_AutoPlay_OFF" = "La modalité reproduction automatique (AutoPlay) est désactivé. Cliquez sur l'icône pour activer cette modalité. Les commentaires audios se lanceront automatiquement en proximité d'un point d'intérêt.";
@@ -45,7 +45,7 @@
 "TabTitle_My_Purchases" = "Achats";
 "BtnTitle_LoginNewAccount" = "SE CONNECTER À UN NOUVEAU COMPTE";
 "AlertTitle_ConfirmAccountDelete" = "Supprimer le compte";
-"AlertDesc_ConfirmAccountDelete" = "Voulez-vous vraiment supprimer ce compte ? \n Tous les guides audio associés seront également supprimés !";
+"AlertDesc_ConfirmAccountDelete" = "Voulez-vous vraiment supprimer ce compte ?\nTous les guides audio associés seront également supprimés !";
 "AlertTitle_ConfirmCustomPointDelete" = "Supprimer le point personnalisé";
 "AlertDesc_ConfirmCustomPointDelete" = "Voulez-vous réellement supprimer votre point personnalisé ?";
 "Label_UserSettings_Distance_Title" = "Distance";
@@ -65,7 +65,7 @@
 "SearchPoints_Hint" = "Filtrer les points";
 "SearchFlags_Hint" = "Filtrer les starpoints";
 "UserPoiName_Hint" = "Ajouter un nom de point personnalisé";
-"UserPoiDescription_Hint" = "Ajouter une description de point personnalisé // (optionnel)";
+"UserPoiDescription_Hint" = "Ajouter une description de point personnalisé \n(optionnel)";
 "AlertTitle_AddCustomPoint" = "Ajouter un point personnalisé";
 "AlertTitle_EditCustomPoint" = "Modifier le point personnalisé";
 "AlertTitle_DeleteCustomPoint" = "Supprimer le point personnalisé";
@@ -94,6 +94,6 @@
 "Label_PopMapTutorial_MapList" = "Cliquez ici pour voir la liste complète des points d'intérêt et des points étoile de la ville.";
 "Label_PopMapTutorial_Autoplay" = "Cliquez ici pour activer le mode lecture automatique. Lorsque vous vous trouverez dans le voisinage proche d'un point d'intérêt, le commentaire audio sera activé afin de démarrer automatiquement. Cliquez une nouvelle fois pour désactiver ce mode.";
 "Label_PopMapTutorial_Overflow" = "Cliquez ici pour obtenir des conseils et des fonctionnalités supplémentaires.";
-"BtnTitle_Save" = "Save";
-"AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
-"Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"BtnTitle_Save" = "Sauvegarder";
+"AlertDesc_ShowTutorialNextLaunch" = "Afficher le tutoriel au prochain lancement?";
+"Label_LanguageAlert" = "Si vous souhaitez modifier la langue, veuillez supprimer la carte de la zone de compte et la télécharger à nouveau";

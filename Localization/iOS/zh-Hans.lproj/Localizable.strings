@@ -45,7 +45,7 @@
 "TabTitle_My_Purchases" = "预订";
 "BtnTitle_LoginNewAccount" = "新用户登录";
 "AlertTitle_ConfirmAccountDelete" = "删除用户";
-"AlertDesc_ConfirmAccountDelete" = "确定要删除此帐户吗？\n 所有相关的语音讲解也将被删除";
+"AlertDesc_ConfirmAccountDelete" = "确定要删除此帐户吗？\n所有相关的语音讲解也将被删除！";
 "AlertTitle_ConfirmCustomPointDelete" = "删除自定义图钉";
 "AlertDesc_ConfirmCustomPointDelete" = "确定要删除此定义图钉？";
 "Label_UserSettings_Distance_Title" = "距离";
@@ -64,8 +64,8 @@
 "Search_Hint" = "景点和星标搜索";
 "SearchPoints_Hint" = "景点搜索";
 "SearchFlags_Hint" = "星标搜索";
-"UserPoiName_Hint" = "<i>添加自定义图钉名称...</i>";
-"UserPoiDescription_Hint" = "<i>添加自定义图钉描述...\n(可选)</i>";
+"UserPoiName_Hint" = "添加自定义图钉名称...";
+"UserPoiDescription_Hint" = "添加自定义图钉描述...\n(可选)";
 "AlertTitle_AddCustomPoint" = "添加自定义图钉";
 "AlertTitle_EditCustomPoint" = "编辑自定义图钉";
 "AlertTitle_DeleteCustomPoint" = "删除自定义图钉";
@@ -94,6 +94,6 @@
 "Label_PopMapTutorial_MapList" = "戳此处查看城市所有景点和星标完整列表";
 "Label_PopMapTutorial_Autoplay" = "戳此处切换自动播放模式，当靠近景点时，对应的语音讲解将自动播放。";
 "Label_PopMapTutorial_Overflow" = "戳此处了解更多提示和功能";
-"BtnTitle_Save" = "Save";
-"AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
-"Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"BtnTitle_Save" = "保存";
+"AlertDesc_ShowTutorialNextLaunch" = "下次打开显示教程吗？";
+"Label_LanguageAlert" = "如想更换语言，请在帐户后台删除地图后，回到主页可重新选择语言下载";

@@ -31,7 +31,7 @@
     <string name="Label_Or">OR</string>
     <string name="BtnTitle_Retry">Réessayer</string>
     <string name="BtnTitle_Settings">Options</string>
-    <string name="Label_MarketPlaceInternetError">Pour utiliser Market Place, une connexion Internet active est requise. \n Veuillez vérifier votre connexion \n et appuyez sur le bouton ci-dessous pour réessayer.</string>
+    <string name="Label_MarketPlaceInternetError">Pour utiliser Market Place, une connexion Internet active est requise.\nVeuillez vérifier votre connexion\net appuyez sur le bouton ci-dessous pour réessayer.</string>
     <string name="Label_TermsAndConditionsTitle">Termes et conditions</string>
     <string name="ToolTip_AutoPlay_ON">La modalité reproduction automatique (AutoPlay) est activé. Les commentaires audios se lanceront automatiquement en proximité d\'un point d\'intérêt. Cliquez sur l\'icône pour la désactiver.</string>
     <string name="ToolTip_AutoPlay_OFF">La modalité reproduction automatique (AutoPlay) est désactivé. Cliquez sur l\'icône pour activer cette modalité. Les commentaires audios se lanceront automatiquement en proximité d\'un point d\'intérêt.</string>
@@ -47,7 +47,7 @@
     <string name="TabTitle_My_Purchases">Achats</string>
     <string name="BtnTitle_LoginNewAccount">SE CONNECTER À UN NOUVEAU COMPTE</string>
     <string name="AlertTitle_ConfirmAccountDelete">Supprimer le compte</string>
-    <string name="AlertDesc_ConfirmAccountDelete">Voulez-vous vraiment supprimer ce compte ? \n Tous les guides audio associés seront également supprimés !</string>
+    <string name="AlertDesc_ConfirmAccountDelete">Voulez-vous vraiment supprimer ce compte ?\nTous les guides audio associés seront également supprimés !</string>
     <string name="AlertTitle_ConfirmCustomPointDelete">Supprimer le point personnalisé</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Voulez-vous réellement supprimer votre point personnalisé ?</string>
     <string name="Label_UserSettings_Distance_Title">Distance</string>
@@ -67,7 +67,7 @@
     <string name="SearchPoints_Hint">Filtrer les points</string>
     <string name="SearchFlags_Hint">Filtrer les starpoints</string>
     <string name="UserPoiName_Hint">Ajouter un nom de point personnalisé</string>
-    <string name="UserPoiDescription_Hint">Ajouter une description de point personnalisé // (optionnel)</string>
+    <string name="UserPoiDescription_Hint">Ajouter une description de point personnalisé \n(optionnel)</string>
     <string name="AlertTitle_AddCustomPoint">Ajouter un point personnalisé</string>
     <string name="AlertTitle_EditCustomPoint">Modifier le point personnalisé</string>
     <string name="AlertTitle_DeleteCustomPoint">Supprimer le point personnalisé</string>
@@ -96,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">Cliquez ici pour voir la liste complète des points d\'intérêt et des points étoile de la ville.</string>
     <string name="Label_PopMapTutorial_Autoplay">Cliquez ici pour activer le mode lecture automatique. Lorsque vous vous trouverez dans le voisinage proche d\'un point d\'intérêt, le commentaire audio sera activé afin de démarrer automatiquement. Cliquez une nouvelle fois pour désactiver ce mode.</string>
     <string name="Label_PopMapTutorial_Overflow">Cliquez ici pour obtenir des conseils et des fonctionnalités supplémentaires.</string>
-    <string name="BtnTitle_Save">Save</string>
-    <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
-    <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="BtnTitle_Save">Sauvegarder</string>
+    <string name="AlertDesc_ShowTutorialNextLaunch">Afficher le tutoriel au prochain lancement?</string>
+    <string name="Label_LanguageAlert">Si vous souhaitez modifier la langue, veuillez supprimer la carte de la zone de compte et la télécharger à nouveau</string>
 </resources>

@@ -31,9 +31,9 @@
     <string name="Label_Or">OR</string>
     <string name="BtnTitle_Retry">Retry</string>
     <string name="BtnTitle_Settings">Settings</string>
-    <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required. \n Please check your connection \n and tap the button below to retry</string>
+    <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required.\nPlease check your connection\nand tap the button below to retry</string>
     <string name="Label_TermsAndConditionsTitle">Terms &amp; Conditions</string>
-    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.</string>
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
     <string name="Label_Unit_Km">Km</string>
@@ -47,7 +47,7 @@
     <string name="TabTitle_My_Purchases">구매</string>
     <string name="BtnTitle_LoginNewAccount">새 계정으로 로그인하세요</string>
     <string name="AlertTitle_ConfirmAccountDelete">계정 삭제</string>
-    <string name="AlertDesc_ConfirmAccountDelete">정말로 이 계정을 삭제하시겠습니까? \n 모든 관련 음성가이드도 함께 제거됩니다!</string>
+    <string name="AlertDesc_ConfirmAccountDelete">정말로 이 계정을 삭제하시겠습니까?\n모든 관련 음성가이드도 함께 제거됩니다!</string>
     <string name="AlertTitle_ConfirmCustomPointDelete">사용자지정 포인트 삭제</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">정말로 귀하의 사용자지정 포인트를 삭제하시겠습니까?</string>
     <string name="Label_UserSettings_Distance_Title">거리</string>
@@ -67,7 +67,7 @@
     <string name="SearchPoints_Hint">포인트 필터링</string>
     <string name="SearchFlags_Hint">깃발 필터링</string>
     <string name="UserPoiName_Hint">사용자지정 포인트 이름 추가</string>
-    <string name="UserPoiDescription_Hint">사용자지정 포인트 설명 추가 // (선택)</string>
+    <string name="UserPoiDescription_Hint">사용자지정 포인트 설명 추가 \n(선택)</string>
     <string name="AlertTitle_AddCustomPoint">사용자지정 포인트 추가</string>
     <string name="AlertTitle_EditCustomPoint">사용자지정 포인트 편집</string>
     <string name="AlertTitle_DeleteCustomPoint">사용자지정 포인트 삭제</string>
@@ -96,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">여기를 클릭하여 도시의 흥미장소 및 스타포인트의 전체목록을 확인하세요</string>
     <string name="Label_PopMapTutorial_Autoplay">여기를 클릭하여 자동재생 모드를 활성화시키세요. 흥미장소 근처에 접근할 때, 음성해설이 자동으로 시작됩니다. 다시 클릭하여 이 모드를 비활성화시키세요</string>
     <string name="Label_PopMapTutorial_Overflow">여기를 클릭하여 추가 팁 및 특징들을 확인하세요</string>
-    <string name="BtnTitle_Save">Save</string>
-    <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
-    <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="BtnTitle_Save">저장</string>
+    <string name="AlertDesc_ShowTutorialNextLaunch">다음 실행 때 튜토리얼을 보시겠습니까?</string>
+    <string name="Label_LanguageAlert">언어를 변경하고 싶으신 경우, 계정 구역에서 맵을 삭제하신 후 맵을 다시 다운로드해 주십시오</string>
 </resources>

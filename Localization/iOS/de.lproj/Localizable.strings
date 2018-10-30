@@ -29,7 +29,7 @@
 "Label_Or" = "Oder";
 "BtnTitle_Retry" = "Wiederholen";
 "BtnTitle_Settings" = "Einstellungen";
-"Label_MarketPlaceInternetError" = "Um Market Place zu benutzen ist eine aktive Internetverbindung erforderlich. \n Prüfen Sie die Internetverbindung \n und klicken Sie, um erneut zu versuchen.";
+"Label_MarketPlaceInternetError" = "Um Market Place zu benutzen ist eine aktive Internetverbindung erforderlich.\nPrüfen Sie die Internetverbindung\nund klicken Sie, um erneut zu versuchen.";
 "Label_TermsAndConditionsTitle" = "AGB";
 "ToolTip_AutoPlay_ON" = "Der AutoPlay-Modus ist an.\n Die Audiospuren werden automatisch abgespielt, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden. Klicken Sie, um ihn zu deaktivieren.";
 "ToolTip_AutoPlay_OFF" = "Der AutoPlay-Modus ist aus.\n Klicken Sie zur Aktivierung, wenn Sie möchten, dass die Audiospuren automatisch abgespielt werden, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.";
@@ -45,7 +45,7 @@
 "TabTitle_My_Purchases" = "Einkäufe";
 "BtnTitle_LoginNewAccount" = "LOGIN ZU EINEM NEUEN ACCOUNT";
 "AlertTitle_ConfirmAccountDelete" = "Account löschen";
-"AlertDesc_ConfirmAccountDelete" = "Möchten Sie diesen Account wirklich löschen? \n Alle dazugehörigen Audioguides werden ebenfalls entfernt!";
+"AlertDesc_ConfirmAccountDelete" = "Möchten Sie diesen Account wirklich löschen?\nAlle dazugehörigen Audioguides werden ebenfalls entfernt!";
 "AlertTitle_ConfirmCustomPointDelete" = "Benutzerdefinierten Ort löschen";
 "AlertDesc_ConfirmCustomPointDelete" = "Möchten Sie Ihren benutzerdefinierten Ort wirklich löschen?";
 "Label_UserSettings_Distance_Title" = "Entfernung";
@@ -65,7 +65,7 @@
 "SearchPoints_Hint" = "Orte filtern";
 "SearchFlags_Hint" = "Starpoints filtern";
 "UserPoiName_Hint" = "Name für benutzerdefinierten Ort hinzufügen";
-"UserPoiDescription_Hint" = "Beschreibung für benutzerdefinierten Ort hinzufügen // (optional)";
+"UserPoiDescription_Hint" = "Beschreibung für benutzerdefinierten Ort hinzufügen \n(optional)";
 "AlertTitle_AddCustomPoint" = "Benutzerdefinierten Ort hinzufügen";
 "AlertTitle_EditCustomPoint" = "Benutzerdefinierten Ort bearbeiten";
 "AlertTitle_DeleteCustomPoint" = "Benutzerdefinierten Ort löschen";
@@ -94,6 +94,6 @@
 "Label_PopMapTutorial_MapList" = "Klicken Sie hier, um die vollständige Liste der Sehenswürdigkeiten und Stern-Orte der Stadt zu sehen";
 "Label_PopMapTutorial_Autoplay" = "Klicken Sie hier, um den Autoplay-Modus zu aktivieren. Wenn Sie sich in der Nähe eines interessanten Ortes befinden, wird der Audiokommentar automatisch gestartet. Klicken Sie erneut, um diesen Modus zu deaktivieren";
 "Label_PopMapTutorial_Overflow" = "Klicken Sie hier, um weitere Tipps und Funktionen zu erhalten";
-"BtnTitle_Save" = "Save";
-"AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
-"Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"BtnTitle_Save" = "Speichern";
+"AlertDesc_ShowTutorialNextLaunch" = "Das Tutorial beim nächsten Start anzeigen?";
+"Label_LanguageAlert" = "Wenn Sie die Sprache ändern möchten, löschen Sie bitte die Karte aus dem Kontobereich und laden Sie sie erneut herunter";

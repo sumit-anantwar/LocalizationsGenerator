@@ -29,9 +29,9 @@
 "Label_Or" = "OR";
 "BtnTitle_Retry" = "Retry";
 "BtnTitle_Settings" = "Settings";
-"Label_MarketPlaceInternetError" = "To use Market Place an active Internet connection is required. \n Please check your connection \n and tap the button below to retry";
+"Label_MarketPlaceInternetError" = "To use Market Place an active Internet connection is required.\nPlease check your connection\nand tap the button below to retry";
 "Label_TermsAndConditionsTitle" = "Terms & Conditions";
-"ToolTip_AutoPlay_ON" = "Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.";
+"ToolTip_AutoPlay_ON" = "Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.";
 "ToolTip_AutoPlay_OFF" = "Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.";
 "Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
 "Label_Unit_Km" = "Km";

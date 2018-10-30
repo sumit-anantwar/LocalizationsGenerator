@@ -31,7 +31,7 @@
 "BtnTitle_Settings" = "Nastavení";
 "Label_MarketPlaceInternetError" = "Pro používaní Obchodu musíte mít wi-fi připojení. \n Zkontrolujte si prosím připojení \n a stiskněte tlačítko dole pro pokračování";
 "Label_TermsAndConditionsTitle" = "Všeobecné obchodní podmínky";
-"ToolTip_AutoPlay_ON" = "Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.";
+"ToolTip_AutoPlay_ON" = "Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.";
 "ToolTip_AutoPlay_OFF" = "Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.";
 "Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
 "Label_Unit_Km" = "Km";
@@ -45,7 +45,7 @@
 "TabTitle_My_Purchases" = "Nákupy";
 "BtnTitle_LoginNewAccount" = "PŘIHLÁSIT SE K NOVÉMU ÚČTU";
 "AlertTitle_ConfirmAccountDelete" = "Odstranit účet";
-"AlertDesc_ConfirmAccountDelete" = "Opravdu chcete tento účet odstranit? \n Všichni vaši související zvukoví průvodci budou také odstraněni!";
+"AlertDesc_ConfirmAccountDelete" = "Opravdu chcete tento účet odstranit?\nVšichni vaši související zvukoví průvodci budou také odstraněni!";
 "AlertTitle_ConfirmCustomPointDelete" = "Odstranit vlastní bod";
 "AlertDesc_ConfirmCustomPointDelete" = "Opravdu chcete odstranit vlastní bod?";
 "Label_UserSettings_Distance_Title" = "Vzdálenost";
@@ -65,7 +65,7 @@
 "SearchPoints_Hint" = "Filtrovat body";
 "SearchFlags_Hint" = "Filtrovat vlajky";
 "UserPoiName_Hint" = "Přidat název vlastního bodu";
-"UserPoiDescription_Hint" = "Přidat popis vlastního bodu // (volitelné)";
+"UserPoiDescription_Hint" = "Přidat popis vlastního bodu \n(volitelné)";
 "AlertTitle_AddCustomPoint" = "Přidat vlastní bod";
 "AlertTitle_EditCustomPoint" = "Upravit vlastní bod";
 "AlertTitle_DeleteCustomPoint" = "Odstranit vlastní bod";
@@ -94,6 +94,6 @@
 "Label_PopMapTutorial_MapList" = "Kliknutím sem zobrazíte úplný seznam zajímavých bodů a bodů s hvězdičkami ve městě";
 "Label_PopMapTutorial_Autoplay" = "Kliknutím sem aktivujete režim automatického přehrávání. Když se ocitnete v blízkém okolí místa zájmu, dojde k automatickému spuštění zvukového komentáře. Opětovným kliknutím tento režim deaktivujete";
 "Label_PopMapTutorial_Overflow" = "Další tipy a funkce naleznete zde";
-"BtnTitle_Save" = "Save";
-"AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
-"Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"BtnTitle_Save" = "Uložit";
+"AlertDesc_ShowTutorialNextLaunch" = "Chcete zobrazit výukový kurz při příštím spuštění?";
+"Label_LanguageAlert" = "Pokud chcete změnit jazyk, odstraňte prosím mapu z oblasti účtu a stáhněte ji znovu";

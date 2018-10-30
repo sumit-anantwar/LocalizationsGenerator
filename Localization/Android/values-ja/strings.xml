@@ -31,9 +31,9 @@
     <string name="Label_Or">OR</string>
     <string name="BtnTitle_Retry">Retry</string>
     <string name="BtnTitle_Settings">Settings</string>
-    <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required. \n Please check your connection \n and tap the button below to retry</string>
+    <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required.\nPlease check your connection\nand tap the button below to retry</string>
     <string name="Label_TermsAndConditionsTitle">Terms &amp; Conditions</string>
-    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.</string>
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
     <string name="Label_Unit_Km">Km</string>
@@ -47,7 +47,7 @@
     <string name="TabTitle_My_Purchases">購入</string>
     <string name="BtnTitle_LoginNewAccount">新しいアカウントにログインしてください</string>
     <string name="AlertTitle_ConfirmAccountDelete">アカウントを削除する</string>
-    <string name="AlertDesc_ConfirmAccountDelete">本当にこのアカウントを削除しますか? \n 関連する全てのオーディオガイドも削除されます!</string>
+    <string name="AlertDesc_ConfirmAccountDelete">本当にこのアカウントを削除しますか?\n関連する全てのオーディオガイドも削除されます!</string>
     <string name="AlertTitle_ConfirmCustomPointDelete">登録地点を削除する</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">本当に登録地点を削除しますか?</string>
     <string name="Label_UserSettings_Distance_Title">距離</string>
@@ -67,7 +67,7 @@
     <string name="SearchPoints_Hint">地点の検索条件を追加する</string>
     <string name="SearchFlags_Hint">目印の検索条件を追加する</string>
     <string name="UserPoiName_Hint">登録地点名を追加する</string>
-    <string name="UserPoiDescription_Hint">登録地点説明を追加する // (任意)</string>
+    <string name="UserPoiDescription_Hint">登録地点説明を追加する \n(任意)</string>
     <string name="AlertTitle_AddCustomPoint">登録地点を追加する</string>
     <string name="AlertTitle_EditCustomPoint">登録地点を編集する</string>
     <string name="AlertTitle_DeleteCustomPoint">登録地点を削除する</string>
@@ -96,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">街の全ての目的地及び星印付き地点一覧を見るにはここをクリックしてください</string>
     <string name="Label_PopMapTutorial_Autoplay">オートプレイモードを起動させるにはここをクリックしてください。目的地近くに来たら音声ガイドが自動的に開始します。このモードを停止させるにはもう一度クリックしてください</string>
     <string name="Label_PopMapTutorial_Overflow">より詳しい情報、機能についてはここをクリックしてください。</string>
-    <string name="BtnTitle_Save">Save</string>
-    <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
-    <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="BtnTitle_Save">保存する</string>
+    <string name="AlertDesc_ShowTutorialNextLaunch">次回起動時にチュートリアルを表示しますか。</string>
+    <string name="Label_LanguageAlert">言語を変更したい場合は、アカウントページからマップを削除し、再ダウンロードして下さい</string>
 </resources>

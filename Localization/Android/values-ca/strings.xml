@@ -33,7 +33,7 @@
     <string name="BtnTitle_Settings">Ajustaments</string>
     <string name="Label_MarketPlaceInternetError">Per utilitzar Market Place es requereix una connexió internet activa. \n Comprova la teva connexió \n i pressiona el botó per tornar a intentar.</string>
     <string name="Label_TermsAndConditionsTitle">Termes i condicions</string>
-    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.</string>
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
     <string name="Label_Unit_Km">Km</string>

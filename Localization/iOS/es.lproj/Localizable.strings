@@ -29,7 +29,7 @@
 "Label_Or" = "O";
 "BtnTitle_Retry" = "Reintentar";
 "BtnTitle_Settings" = "Ajustes";
-"Label_MarketPlaceInternetError" = "Para utilizar Market Place se requiere una conexión internet activa. \n Comprueba tu conexión \n y presiona el botón para volver a intentar.";
+"Label_MarketPlaceInternetError" = "Para utilizar Market Place se requiere una conexión internet activa.\nComprueba tu conexión\ny presiona el botón para volver a intentar.";
 "Label_TermsAndConditionsTitle" = "Términos y condiciones";
 "ToolTip_AutoPlay_ON" = "El modo de reproducción automática esta activado. Los comentarios de audio se reproducirán automáticamente cuando te encuentres cerca de un punto de interés. Para desactivarlo haz clic en el botón.";
 "ToolTip_AutoPlay_OFF" = "El modo de reproducción automática esta desactivado. Para activarlo haz clic en el botón. Los comentarios de audio se reproducirán automáticamente cuando te encuentres cerca de un punto de interés.";
@@ -45,7 +45,7 @@
 "TabTitle_My_Purchases" = "Compras";
 "BtnTitle_LoginNewAccount" = "INICIAR SESIÓN A UNA NUEVA CUENTA";
 "AlertTitle_ConfirmAccountDelete" = "Borrar cuenta";
-"AlertDesc_ConfirmAccountDelete" = "¿Realmente quieres borrar esta cuenta? \n ¡Todas las audioguías relacionadas también serán eliminadas!";
+"AlertDesc_ConfirmAccountDelete" = "¿Realmente quieres borrar esta cuenta?\n¡Todas las audioguías relacionadas también serán eliminadas!";
 "AlertTitle_ConfirmCustomPointDelete" = "Elimina punto personalizado";
 "AlertDesc_ConfirmCustomPointDelete" = "¿Realmente quieres borrar tu punto personalizado?";
 "Label_UserSettings_Distance_Title" = "Distancia";
@@ -94,6 +94,6 @@
 "Label_PopMapTutorial_MapList" = "Haga clic aquí para ver la lista completa de los puntos de interés y los starpoints de la ciudad";
 "Label_PopMapTutorial_Autoplay" = "Haga clic aquí para activar el modo de reproducción automática. Cuando se encuentre cerca de un punto de interés, los comentarios de audio se activarán para que se inicien automáticamente. Haga clic de nuevo para desactivar este modo";
 "Label_PopMapTutorial_Overflow" = "Haga clic aquí para obtener más consejos y características";
-"BtnTitle_Save" = "Save";
-"AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
-"Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"BtnTitle_Save" = "Guarda";
+"AlertDesc_ShowTutorialNextLaunch" = "¿Mostrar el tutorial en el próximo lanzamiento?";
+"Label_LanguageAlert" = "Si desea cambiar el idioma, elimine el mapa del área de la cuenta y descárguelo nuevamente";

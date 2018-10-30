@@ -29,7 +29,7 @@
 "Label_Or" = "O";
 "BtnTitle_Retry" = "Riprova";
 "BtnTitle_Settings" = "Impostazioni";
-"Label_MarketPlaceInternetError" = "Per utilizzare questa funzionalità è necessaria una connessione internet attiva. \n Controlla la connessione internet \n e tocca per riprovare.";
+"Label_MarketPlaceInternetError" = "Per utilizzare questa funzionalità è necessaria una connessione internet attiva.\nControlla la connessione internet\ne tocca per riprovare.";
 "Label_TermsAndConditionsTitle" = "Termini e condizioni";
 "ToolTip_AutoPlay_ON" = "La modalità AutoPlay è attiva.\n Le tracce audio verranno riprodotte automaticamente quando ti trovi in prossimità di un punto di interesse. Clicca sull'icona per disattivarla.";
 "ToolTip_AutoPlay_OFF" = "La modalità AutoPlay è disattivata.\n Clicca sull'icona per attivarla, se vuoi che le tracce audio vengano riprodotte automaticamente quando ti trovi in prossimità di un punto di interesse.";
@@ -45,7 +45,7 @@
 "TabTitle_My_Purchases" = "Acquisti";
 "BtnTitle_LoginNewAccount" = "ACCEDI A UN NUOVO PROFILO";
 "AlertTitle_ConfirmAccountDelete" = "Elimina profilo";
-"AlertDesc_ConfirmAccountDelete" = "Vuoi davvero cancellare questo profilo? \n Saranno anche rimosse tutte le Audioguide correlate!";
+"AlertDesc_ConfirmAccountDelete" = "Vuoi davvero cancellare questo profilo?\nSaranno anche rimosse tutte le Audioguide correlate!";
 "AlertTitle_ConfirmCustomPointDelete" = "Elimina il punto personalizzato";
 "AlertDesc_ConfirmCustomPointDelete" = "Vuoi davvero eliminare il tuo punto personalizzato?";
 "Label_UserSettings_Distance_Title" = "Distanza";
@@ -94,6 +94,6 @@
 "Label_PopMapTutorial_MapList" = "Cliccando qui potrai visualizzare l'elenco di tutti i punti di interesse e gli star points della città.";
 "Label_PopMapTutorial_Autoplay" = "Clicca qui per attivare la modalità autoplay. Cliccando su questa icona nella tua città, le tracce si riprodurranno automaticamente quando sarai in prossimità di un punto d'interesse. Cliccando di nuovo su questo bottone la disattiverai.";
 "Label_PopMapTutorial_Overflow" = "Clicca qui per avere informazioni aggiuntive.";
-"BtnTitle_Save" = "Save";
-"AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
-"Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"BtnTitle_Save" = "Salva";
+"AlertDesc_ShowTutorialNextLaunch" = "Mostrare il tutorial al prossimo avvio?";
+"Label_LanguageAlert" = "Se desideri cambiare la lingua, elimina la mappa dall'area dell'account e scaricala nuovamente";

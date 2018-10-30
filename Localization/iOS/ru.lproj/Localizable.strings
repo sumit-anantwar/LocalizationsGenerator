@@ -31,7 +31,7 @@
 "BtnTitle_Settings" = "Настройки";
 "Label_MarketPlaceInternetError" = "Для использования раздела "Магазин" требуется соединение с Интернет. \n Проверьте соединение \n и нажмите кнопку ниже для повторной попытки";
 "Label_TermsAndConditionsTitle" = "Правила и условия";
-"ToolTip_AutoPlay_ON" = "Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.";
+"ToolTip_AutoPlay_ON" = "Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.";
 "ToolTip_AutoPlay_OFF" = "Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.";
 "Error_transport_map_unsupported_format" = "Невозможно отобразить карту: данный формат не поддерживается";
 "Label_Unit_Km" = "Км";
@@ -45,7 +45,7 @@
 "TabTitle_My_Purchases" = "Покупки";
 "BtnTitle_LoginNewAccount" = "ВОЙТИ В СИСТЕМУ ЧЕРЕЗ НОВУЮ УЧЕТНУЮ ЗАПИСЬ";
 "AlertTitle_ConfirmAccountDelete" = "Удалить аккаунт";
-"AlertDesc_ConfirmAccountDelete" = "Вы действительно хотите удалить эту учетную запись? \n Все связанные с ней аудиогиды также будут удалены!";
+"AlertDesc_ConfirmAccountDelete" = "Вы действительно хотите удалить эту учетную запись?\nВсе связанные с ней аудиогиды также будут удалены!";
 "AlertTitle_ConfirmCustomPointDelete" = "Удалить пользовательскую точку";
 "AlertDesc_ConfirmCustomPointDelete" = "Вы действительно хотите удалить свою точку?";
 "Label_UserSettings_Distance_Title" = "Расстояние";
@@ -65,7 +65,7 @@
 "SearchPoints_Hint" = "Фильтр по точкам";
 "SearchFlags_Hint" = "Фильтр по флагам";
 "UserPoiName_Hint" = "Добавить имя пользовательской точки";
-"UserPoiDescription_Hint" = "Добавить описание пользовательской точки // (необязательно)";
+"UserPoiDescription_Hint" = "Добавить описание пользовательской точки \n(необязательно)";
 "AlertTitle_AddCustomPoint" = "Добавить пользовательскую точку";
 "AlertTitle_EditCustomPoint" = "Редактировать пользовательскую точку";
 "AlertTitle_DeleteCustomPoint" = "Удалить пользовательскую точку";
@@ -94,6 +94,6 @@
 "Label_PopMapTutorial_MapList" = "Нажмите здесь, чтобы увидеть полный список достопримечательностей и главных мест";
 "Label_PopMapTutorial_Autoplay" = "Нажмите здесь, чтобы активировать режим автоматического воспроизведения. Когда вы находитесь в непосредственной близости от интересующей вас достопримечательности, звуковой комментарий запустится автоматически. Нажмите еще раз, чтобы отключить этот режим.";
 "Label_PopMapTutorial_Overflow" = "Нажмите здесь для получения дополнительных советов и информации о специальных функциях.";
-"BtnTitle_Save" = "Save";
-"AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
-"Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"BtnTitle_Save" = "Сохранить";
+"AlertDesc_ShowTutorialNextLaunch" = "Провести обучение в следующий раз?";
+"Label_LanguageAlert" = "Если вы хотите изменить язык, пожалуйста, загрузите карту заново, предварительно удалив ее из аккаунта";

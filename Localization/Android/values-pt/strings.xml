@@ -31,9 +31,9 @@
     <string name="Label_Or">OR</string>
     <string name="BtnTitle_Retry">Retry</string>
     <string name="BtnTitle_Settings">Settings</string>
-    <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required. \n Please check your connection \n and tap the button below to retry</string>
+    <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required.\nPlease check your connection\nand tap the button below to retry</string>
     <string name="Label_TermsAndConditionsTitle">Terms &amp; Conditions</string>
-    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.</string>
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
     <string name="Label_Unit_Km">Km</string>
@@ -47,7 +47,7 @@
     <string name="TabTitle_My_Purchases">Compras</string>
     <string name="BtnTitle_LoginNewAccount">FAZER LOGIN EM UMA NOVA CONTA</string>
     <string name="AlertTitle_ConfirmAccountDelete">Apagar conta</string>
-    <string name="AlertDesc_ConfirmAccountDelete">Você realmente quer apagar esta conta? \n Todos os audioguias também serão apagados!</string>
+    <string name="AlertDesc_ConfirmAccountDelete">Você realmente quer apagar esta conta?\nTodos os audioguias também serão apagados!</string>
     <string name="AlertTitle_ConfirmCustomPointDelete">Apagar ponto personalizado</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Você realmente quer apagar seu ponto personalizado?</string>
     <string name="Label_UserSettings_Distance_Title">Distância</string>
@@ -67,7 +67,7 @@
     <string name="SearchPoints_Hint">Filtrar pontos</string>
     <string name="SearchFlags_Hint">Filtrar starpoints</string>
     <string name="UserPoiName_Hint">Adicionar um nome ao ponto personalizado</string>
-    <string name="UserPoiDescription_Hint">Adicionar uma descrição ao ponto personalizado // (opcional)</string>
+    <string name="UserPoiDescription_Hint">Adicionar uma descrição ao ponto personalizado \n(opcional)</string>
     <string name="AlertTitle_AddCustomPoint">Adicionar ponto personalizado</string>
     <string name="AlertTitle_EditCustomPoint">Editar ponto personalizado</string>
     <string name="AlertTitle_DeleteCustomPoint">Apagar ponto personalizado</string>
@@ -96,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">Clique aqui para ver a lista de pontos de interesse e pontos estrelados da cidade</string>
     <string name="Label_PopMapTutorial_Autoplay">Clique aqui para ativar o modo de reprodução automática. Quando você estiver nos arredores de um ponto de interesse, o comentário em áudio será ativado para iniciar automaticamente. Clique novamente para desativar esse modo</string>
     <string name="Label_PopMapTutorial_Overflow">Clique aqui para mais dicas e recursos</string>
-    <string name="BtnTitle_Save">Save</string>
-    <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
-    <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="BtnTitle_Save">Salvar</string>
+    <string name="AlertDesc_ShowTutorialNextLaunch">Exibir o Tutorial na próxima inicialização?</string>
+    <string name="Label_LanguageAlert">Caso deseje alterar o idioma, por favor, exclua o mapa a partir da área da conta e baixe-o novamente</string>
 </resources>

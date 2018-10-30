@@ -33,7 +33,7 @@
     <string name="BtnTitle_Settings">Nastavení</string>
     <string name="Label_MarketPlaceInternetError">Pro používaní Obchodu musíte mít wi-fi připojení. \n Zkontrolujte si prosím připojení \n a stiskněte tlačítko dole pro pokračování</string>
     <string name="Label_TermsAndConditionsTitle">Všeobecné obchodní podmínky</string>
-    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.</string>
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
     <string name="Label_Unit_Km">Km</string>
@@ -47,7 +47,7 @@
     <string name="TabTitle_My_Purchases">Nákupy</string>
     <string name="BtnTitle_LoginNewAccount">PŘIHLÁSIT SE K NOVÉMU ÚČTU</string>
     <string name="AlertTitle_ConfirmAccountDelete">Odstranit účet</string>
-    <string name="AlertDesc_ConfirmAccountDelete">Opravdu chcete tento účet odstranit? \n Všichni vaši související zvukoví průvodci budou také odstraněni!</string>
+    <string name="AlertDesc_ConfirmAccountDelete">Opravdu chcete tento účet odstranit?\nVšichni vaši související zvukoví průvodci budou také odstraněni!</string>
     <string name="AlertTitle_ConfirmCustomPointDelete">Odstranit vlastní bod</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Opravdu chcete odstranit vlastní bod?</string>
     <string name="Label_UserSettings_Distance_Title">Vzdálenost</string>
@@ -67,7 +67,7 @@
     <string name="SearchPoints_Hint">Filtrovat body</string>
     <string name="SearchFlags_Hint">Filtrovat vlajky</string>
     <string name="UserPoiName_Hint">Přidat název vlastního bodu</string>
-    <string name="UserPoiDescription_Hint">Přidat popis vlastního bodu // (volitelné)</string>
+    <string name="UserPoiDescription_Hint">Přidat popis vlastního bodu \n(volitelné)</string>
     <string name="AlertTitle_AddCustomPoint">Přidat vlastní bod</string>
     <string name="AlertTitle_EditCustomPoint">Upravit vlastní bod</string>
     <string name="AlertTitle_DeleteCustomPoint">Odstranit vlastní bod</string>
@@ -96,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">Kliknutím sem zobrazíte úplný seznam zajímavých bodů a bodů s hvězdičkami ve městě</string>
     <string name="Label_PopMapTutorial_Autoplay">Kliknutím sem aktivujete režim automatického přehrávání. Když se ocitnete v blízkém okolí místa zájmu, dojde k automatickému spuštění zvukového komentáře. Opětovným kliknutím tento režim deaktivujete</string>
     <string name="Label_PopMapTutorial_Overflow">Další tipy a funkce naleznete zde</string>
-    <string name="BtnTitle_Save">Save</string>
-    <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
-    <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="BtnTitle_Save">Uložit</string>
+    <string name="AlertDesc_ShowTutorialNextLaunch">Chcete zobrazit výukový kurz při příštím spuštění?</string>
+    <string name="Label_LanguageAlert">Pokud chcete změnit jazyk, odstraňte prosím mapu z oblasti účtu a stáhněte ji znovu</string>
 </resources>

@@ -36,6 +36,7 @@ public class LocalizationsGenerator {
         iosMap.put("zh", "zh-Hans");
         iosMap.put("cs", "cs");
         iosMap.put("ca", "ca");
+        iosMap.put("hi", "hi-IN");
     }
 
     public static void main(String[] args)
@@ -43,12 +44,11 @@ public class LocalizationsGenerator {
         try
         {
             File baseFolder = new File("Localization");
-//            baseFolder.mkdirs();
+
             FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V13.xlsx"));
 
-            XSSFWorkbook workbook = new XSSFWorkbook(file);
             //Create Workbook instance holding reference to .xlsx file
-//            XSSFWorkbook workbook = new XSSFWorkbook(file);
+            XSSFWorkbook workbook = new XSSFWorkbook(file);
 
             //Get first/desired sheet from the workbook
             XSSFSheet sheet = workbook.getSheetAt(0);

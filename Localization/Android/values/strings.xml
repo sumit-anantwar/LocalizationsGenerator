@@ -31,9 +31,9 @@
     <string name="Label_Or">OR</string>
     <string name="BtnTitle_Retry">Retry</string>
     <string name="BtnTitle_Settings">Settings</string>
-    <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required. \n Please check your connection \n and tap the button below to retry</string>
+    <string name="Label_MarketPlaceInternetError">To use Market Place an active Internet connection is required.\nPlease check your connection\nand tap the button below to retry</string>
     <string name="Label_TermsAndConditionsTitle">Terms &amp; Conditions</string>
-    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.</string>
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
     <string name="Label_Unit_Km">Km</string>

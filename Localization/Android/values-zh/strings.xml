@@ -47,7 +47,7 @@
     <string name="TabTitle_My_Purchases">预订</string>
     <string name="BtnTitle_LoginNewAccount">新用户登录</string>
     <string name="AlertTitle_ConfirmAccountDelete">删除用户</string>
-    <string name="AlertDesc_ConfirmAccountDelete">确定要删除此帐户吗？\n 所有相关的语音讲解也将被删除</string>
+    <string name="AlertDesc_ConfirmAccountDelete">确定要删除此帐户吗？\n所有相关的语音讲解也将被删除！</string>
     <string name="AlertTitle_ConfirmCustomPointDelete">删除自定义图钉</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">确定要删除此定义图钉？</string>
     <string name="Label_UserSettings_Distance_Title">距离</string>
@@ -66,8 +66,8 @@
     <string name="Search_Hint">景点和星标搜索</string>
     <string name="SearchPoints_Hint">景点搜索</string>
     <string name="SearchFlags_Hint">星标搜索</string>
-    <string name="UserPoiName_Hint"><i>添加自定义图钉名称...</i></string>
-    <string name="UserPoiDescription_Hint"><i>添加自定义图钉描述...\n(可选)</i></string>
+    <string name="UserPoiName_Hint">添加自定义图钉名称...</string>
+    <string name="UserPoiDescription_Hint">添加自定义图钉描述...\n(可选)</string>
     <string name="AlertTitle_AddCustomPoint">添加自定义图钉</string>
     <string name="AlertTitle_EditCustomPoint">编辑自定义图钉</string>
     <string name="AlertTitle_DeleteCustomPoint">删除自定义图钉</string>
@@ -96,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">戳此处查看城市所有景点和星标完整列表</string>
     <string name="Label_PopMapTutorial_Autoplay">戳此处切换自动播放模式，当靠近景点时，对应的语音讲解将自动播放。</string>
     <string name="Label_PopMapTutorial_Overflow">戳此处了解更多提示和功能</string>
-    <string name="BtnTitle_Save">Save</string>
-    <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
-    <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="BtnTitle_Save">保存</string>
+    <string name="AlertDesc_ShowTutorialNextLaunch">下次打开显示教程吗？</string>
+    <string name="Label_LanguageAlert">如想更换语言，请在帐户后台删除地图后，回到主页可重新选择语言下载</string>
 </resources>

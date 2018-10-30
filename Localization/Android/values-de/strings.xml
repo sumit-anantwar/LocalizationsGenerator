@@ -31,7 +31,7 @@
     <string name="Label_Or">Oder</string>
     <string name="BtnTitle_Retry">Wiederholen</string>
     <string name="BtnTitle_Settings">Einstellungen</string>
-    <string name="Label_MarketPlaceInternetError">Um Market Place zu benutzen ist eine aktive Internetverbindung erforderlich. \n Prüfen Sie die Internetverbindung \n und klicken Sie, um erneut zu versuchen.</string>
+    <string name="Label_MarketPlaceInternetError">Um Market Place zu benutzen ist eine aktive Internetverbindung erforderlich.\nPrüfen Sie die Internetverbindung\nund klicken Sie, um erneut zu versuchen.</string>
     <string name="Label_TermsAndConditionsTitle">AGB</string>
     <string name="ToolTip_AutoPlay_ON">Der AutoPlay-Modus ist an.\n Die Audiospuren werden automatisch abgespielt, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden. Klicken Sie, um ihn zu deaktivieren.</string>
     <string name="ToolTip_AutoPlay_OFF">Der AutoPlay-Modus ist aus.\n Klicken Sie zur Aktivierung, wenn Sie möchten, dass die Audiospuren automatisch abgespielt werden, sobald Sie sich in der Nähe einer Sehenswürdigkeit befinden.</string>
@@ -47,7 +47,7 @@
     <string name="TabTitle_My_Purchases">Einkäufe</string>
     <string name="BtnTitle_LoginNewAccount">LOGIN ZU EINEM NEUEN ACCOUNT</string>
     <string name="AlertTitle_ConfirmAccountDelete">Account löschen</string>
-    <string name="AlertDesc_ConfirmAccountDelete">Möchten Sie diesen Account wirklich löschen? \n Alle dazugehörigen Audioguides werden ebenfalls entfernt!</string>
+    <string name="AlertDesc_ConfirmAccountDelete">Möchten Sie diesen Account wirklich löschen?\nAlle dazugehörigen Audioguides werden ebenfalls entfernt!</string>
     <string name="AlertTitle_ConfirmCustomPointDelete">Benutzerdefinierten Ort löschen</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Möchten Sie Ihren benutzerdefinierten Ort wirklich löschen?</string>
     <string name="Label_UserSettings_Distance_Title">Entfernung</string>
@@ -67,7 +67,7 @@
     <string name="SearchPoints_Hint">Orte filtern</string>
     <string name="SearchFlags_Hint">Starpoints filtern</string>
     <string name="UserPoiName_Hint">Name für benutzerdefinierten Ort hinzufügen</string>
-    <string name="UserPoiDescription_Hint">Beschreibung für benutzerdefinierten Ort hinzufügen // (optional)</string>
+    <string name="UserPoiDescription_Hint">Beschreibung für benutzerdefinierten Ort hinzufügen \n(optional)</string>
     <string name="AlertTitle_AddCustomPoint">Benutzerdefinierten Ort hinzufügen</string>
     <string name="AlertTitle_EditCustomPoint">Benutzerdefinierten Ort bearbeiten</string>
     <string name="AlertTitle_DeleteCustomPoint">Benutzerdefinierten Ort löschen</string>
@@ -96,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">Klicken Sie hier, um die vollständige Liste der Sehenswürdigkeiten und Stern-Orte der Stadt zu sehen</string>
     <string name="Label_PopMapTutorial_Autoplay">Klicken Sie hier, um den Autoplay-Modus zu aktivieren. Wenn Sie sich in der Nähe eines interessanten Ortes befinden, wird der Audiokommentar automatisch gestartet. Klicken Sie erneut, um diesen Modus zu deaktivieren</string>
     <string name="Label_PopMapTutorial_Overflow">Klicken Sie hier, um weitere Tipps und Funktionen zu erhalten</string>
-    <string name="BtnTitle_Save">Save</string>
-    <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
-    <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="BtnTitle_Save">Speichern</string>
+    <string name="AlertDesc_ShowTutorialNextLaunch">Das Tutorial beim nächsten Start anzeigen?</string>
+    <string name="Label_LanguageAlert">Wenn Sie die Sprache ändern möchten, löschen Sie bitte die Karte aus dem Kontobereich und laden Sie sie erneut herunter</string>
 </resources>

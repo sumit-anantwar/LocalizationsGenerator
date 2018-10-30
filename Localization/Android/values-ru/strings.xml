@@ -33,7 +33,7 @@
     <string name="BtnTitle_Settings">Настройки</string>
     <string name="Label_MarketPlaceInternetError">Для использования раздела "Магазин" требуется соединение с Интернет. \n Проверьте соединение \n и нажмите кнопку ниже для повторной попытки</string>
     <string name="Label_TermsAndConditionsTitle">Правила и условия</string>
-    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI. \n Tap on the button to switch it off.</string>
+    <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.</string>
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
     <string name="Error_transport_map_unsupported_format">Невозможно отобразить карту: данный формат не поддерживается</string>
     <string name="Label_Unit_Km">Км</string>
@@ -47,7 +47,7 @@
     <string name="TabTitle_My_Purchases">Покупки</string>
     <string name="BtnTitle_LoginNewAccount">ВОЙТИ В СИСТЕМУ ЧЕРЕЗ НОВУЮ УЧЕТНУЮ ЗАПИСЬ</string>
     <string name="AlertTitle_ConfirmAccountDelete">Удалить аккаунт</string>
-    <string name="AlertDesc_ConfirmAccountDelete">Вы действительно хотите удалить эту учетную запись? \n Все связанные с ней аудиогиды также будут удалены!</string>
+    <string name="AlertDesc_ConfirmAccountDelete">Вы действительно хотите удалить эту учетную запись?\nВсе связанные с ней аудиогиды также будут удалены!</string>
     <string name="AlertTitle_ConfirmCustomPointDelete">Удалить пользовательскую точку</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Вы действительно хотите удалить свою точку?</string>
     <string name="Label_UserSettings_Distance_Title">Расстояние</string>
@@ -67,7 +67,7 @@
     <string name="SearchPoints_Hint">Фильтр по точкам</string>
     <string name="SearchFlags_Hint">Фильтр по флагам</string>
     <string name="UserPoiName_Hint">Добавить имя пользовательской точки</string>
-    <string name="UserPoiDescription_Hint">Добавить описание пользовательской точки // (необязательно)</string>
+    <string name="UserPoiDescription_Hint">Добавить описание пользовательской точки \n(необязательно)</string>
     <string name="AlertTitle_AddCustomPoint">Добавить пользовательскую точку</string>
     <string name="AlertTitle_EditCustomPoint">Редактировать пользовательскую точку</string>
     <string name="AlertTitle_DeleteCustomPoint">Удалить пользовательскую точку</string>
@@ -96,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">Нажмите здесь, чтобы увидеть полный список достопримечательностей и главных мест</string>
     <string name="Label_PopMapTutorial_Autoplay">Нажмите здесь, чтобы активировать режим автоматического воспроизведения. Когда вы находитесь в непосредственной близости от интересующей вас достопримечательности, звуковой комментарий запустится автоматически. Нажмите еще раз, чтобы отключить этот режим.</string>
     <string name="Label_PopMapTutorial_Overflow">Нажмите здесь для получения дополнительных советов и информации о специальных функциях.</string>
-    <string name="BtnTitle_Save">Save</string>
-    <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
-    <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="BtnTitle_Save">Сохранить</string>
+    <string name="AlertDesc_ShowTutorialNextLaunch">Провести обучение в следующий раз?</string>
+    <string name="Label_LanguageAlert">Если вы хотите изменить язык, пожалуйста, загрузите карту заново, предварительно удалив ее из аккаунта</string>
 </resources>
