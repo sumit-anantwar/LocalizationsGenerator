@@ -99,4 +99,10 @@
     <string name="BtnTitle_Save">Save</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
     <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="AlertTitle_BonVoyage">HAVE A GOOD JOURNEY!</string>
+    <string name="AlertDesc_BonVoyage">Your customized Tour Guides from\n%s\n are now available for you to explore!</string>
+    <string name="AlertDesc_LocationPermission">To continue, let your device turn on location service so the map works offline without incurring roaming charges</string>
+    <string name="AlertTitle_OutOfCityLimits">Out of City Limits</string>
+    <string name="AlertTitle_ConfirmLogout">Logout?</string>
+    <string name="AlertDesc_ConfirmLogout">Do you really want to logout from this account?\nAll the related Audioguides would also be removed!</string>
 </resources>

@@ -99,4 +99,10 @@
     <string name="BtnTitle_Save">Guarda</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">¿Mostrar el tutorial en el próximo lanzamiento?</string>
     <string name="Label_LanguageAlert">Si desea cambiar el idioma, elimine el mapa del área de la cuenta y descárguelo nuevamente</string>
+    <string name="AlertTitle_BonVoyage">¡BUEN VIAJE!</string>
+    <string name="AlertDesc_BonVoyage">¡Sus Tours personalizados \n%s\n ya están disponibles!</string>
+    <string name="AlertDesc_LocationPermission">Permita que PopGuide acceda a su ubicación para estar en modo offline y sin costes de roaming.</string>
+    <string name="AlertTitle_OutOfCityLimits">Fuera de los límites de la ciudad</string>
+    <string name="AlertTitle_ConfirmLogout">¿Desea salir?</string>
+    <string name="AlertDesc_ConfirmLogout">¿Desea salir de esta cuenta? \n¡Todas las Audioguías serán eliminadas!</string>
 </resources>

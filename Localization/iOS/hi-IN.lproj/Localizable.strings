@@ -98,3 +98,9 @@
 "BtnTitle_Save" = "Save";
 "AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
 "Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"AlertTitle_BonVoyage" = "आपकी यात्रा मंगलमय हो!";
+"AlertDesc_BonVoyage" = "\n%@\n  से आपके कस्टमाइज्ड टूर गाइड अब आपके लिए एक्सप्लोर करने के लिए उपलब्ध हैं!";
+"AlertDesc_LocationPermission" = "जारी रखने के लिए, अपने डिवाइस को स्थान सेवा चालू करने दें ताकि नक्शा रोमिंग शुल्क के बिना ऑफलाइन काम करता है";
+"AlertTitle_OutOfCityLimits" = "शहर सीमा से बाहर";
+"AlertTitle_ConfirmLogout" = "लोग आउट ?";
+"AlertDesc_ConfirmLogout" = "क्या आप वास्तव में इस खाते से लॉगआउट करना चाहते हैं?\nसभी संबंधित ऑडियो गाइड भी हटा दिए जाएंगे!";

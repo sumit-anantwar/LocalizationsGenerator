@@ -31,7 +31,7 @@
     <string name="Label_Or">ИЛИ</string>
     <string name="BtnTitle_Retry">Повторить</string>
     <string name="BtnTitle_Settings">Настройки</string>
-    <string name="Label_MarketPlaceInternetError">Для использования раздела "Магазин" требуется соединение с Интернет. \n Проверьте соединение \n и нажмите кнопку ниже для повторной попытки</string>
+    <string name="Label_MarketPlaceInternetError">Для использования раздела \'Магазин\' требуется соединение с Интернет. \n Проверьте соединение \n и нажмите кнопку ниже для повторной попытки</string>
     <string name="Label_TermsAndConditionsTitle">Правила и условия</string>
     <string name="ToolTip_AutoPlay_ON">Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.</string>
     <string name="ToolTip_AutoPlay_OFF">Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.</string>
@@ -99,4 +99,10 @@
     <string name="BtnTitle_Save">Сохранить</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Провести обучение в следующий раз?</string>
     <string name="Label_LanguageAlert">Если вы хотите изменить язык, пожалуйста, загрузите карту заново, предварительно удалив ее из аккаунта</string>
+    <string name="AlertTitle_BonVoyage">ХОРОШЕГО ПУТЕШЕСТВИЯ!</string>
+    <string name="AlertDesc_BonVoyage">Услуги местных гидов из \n%s\n доступны для Вас уже сегодня!</string>
+    <string name="AlertDesc_LocationPermission">Для продолжения использования приложения включите сервис местоположения. Дальнейшая работа с приложением в режиме офлайн позволит Вам избежать затрат на роуминг</string>
+    <string name="AlertTitle_OutOfCityLimits">За пределами города</string>
+    <string name="AlertTitle_ConfirmLogout">Выйти?</string>
+    <string name="AlertDesc_ConfirmLogout">Вы действительно хотите выйти из учетной записи?\nПри этом все аудиогиды из нее будут удалены!</string>
 </resources>

@@ -29,7 +29,7 @@
 "Label_Or" = "ИЛИ";
 "BtnTitle_Retry" = "Повторить";
 "BtnTitle_Settings" = "Настройки";
-"Label_MarketPlaceInternetError" = "Для использования раздела "Магазин" требуется соединение с Интернет. \n Проверьте соединение \n и нажмите кнопку ниже для повторной попытки";
+"Label_MarketPlaceInternetError" = "Для использования раздела 'Магазин' требуется соединение с Интернет. \n Проверьте соединение \n и нажмите кнопку ниже для повторной попытки";
 "Label_TermsAndConditionsTitle" = "Правила и условия";
 "ToolTip_AutoPlay_ON" = "Auto Play mode is ON.\n Tracks will play automatically when you are in the proximity of a POI.\nTap on the button to switch it off.";
 "ToolTip_AutoPlay_OFF" = "Auto Play mode is OFF.\n Tap the button to switch it ON, if you want the tracks to play automatically when you are in the proximity of a POI.";
@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Сохранить";
 "AlertDesc_ShowTutorialNextLaunch" = "Провести обучение в следующий раз?";
 "Label_LanguageAlert" = "Если вы хотите изменить язык, пожалуйста, загрузите карту заново, предварительно удалив ее из аккаунта";
+"AlertTitle_BonVoyage" = "ХОРОШЕГО ПУТЕШЕСТВИЯ!";
+"AlertDesc_BonVoyage" = "Услуги местных гидов из \n%@\n доступны для Вас уже сегодня!";
+"AlertDesc_LocationPermission" = "Для продолжения использования приложения включите сервис местоположения. Дальнейшая работа с приложением в режиме офлайн позволит Вам избежать затрат на роуминг";
+"AlertTitle_OutOfCityLimits" = "За пределами города";
+"AlertTitle_ConfirmLogout" = "Выйти?";
+"AlertDesc_ConfirmLogout" = "Вы действительно хотите выйти из учетной записи?\nПри этом все аудиогиды из нее будут удалены!";

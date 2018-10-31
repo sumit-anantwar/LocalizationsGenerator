@@ -99,4 +99,10 @@
     <string name="BtnTitle_Save">Save</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
     <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="AlertTitle_BonVoyage">BON VIATGE!</string>
+    <string name="AlertDesc_BonVoyage">Els seus Tours personalitzats\n%s\n ja estan disponibles!</string>
+    <string name="AlertDesc_LocationPermission">Permeti que PopGuide accedeixi a la seva ubicació per estar en mode offline i sense costos de roaming.</string>
+    <string name="AlertTitle_OutOfCityLimits">Fora dels límits de la ciutat</string>
+    <string name="AlertTitle_ConfirmLogout">Voleu sortir?</string>
+    <string name="AlertDesc_ConfirmLogout">Voleu sortir d\'aquest compte?\n S\'eliminaran totes les Audioguies!</string>
 </resources>

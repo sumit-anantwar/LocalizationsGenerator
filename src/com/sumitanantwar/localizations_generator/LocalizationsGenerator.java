@@ -94,6 +94,7 @@ public class LocalizationsGenerator {
                         else { // if (cell.getCellType() == Cell.CELL_TYPE_STRING) {
                             if (iosMap.containsKey(column)) {
                                 String value = cell.getStringCellValue().trim();
+                                value = value.replace("\"", "'"); // Replace all the Quotes Ticks with an Apostrophe
                                 value = value.replace("’", "'"); // Replace all the Back Ticks with an Apostrophe
                                 value = value.replace("…", "..."); // Replace ellipsis character with three dots
                                 value = value.replace("%s", "%@"); // Replace format specifiers for iOS

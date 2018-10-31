@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Save";
 "AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
 "Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"AlertTitle_BonVoyage" = "HAVE A GOOD JOURNEY!";
+"AlertDesc_BonVoyage" = "Your customized Tour Guides from\n%@\n are now available for you to explore!";
+"AlertDesc_LocationPermission" = "To continue, let your device turn on location service so the map works offline without incurring roaming charges";
+"AlertTitle_OutOfCityLimits" = "Out of City Limits";
+"AlertTitle_ConfirmLogout" = "Logout?";
+"AlertDesc_ConfirmLogout" = "Do you really want to logout from this account?\nAll the related Audioguides would also be removed!";

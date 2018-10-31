@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Speichern";
 "AlertDesc_ShowTutorialNextLaunch" = "Das Tutorial beim nächsten Start anzeigen?";
 "Label_LanguageAlert" = "Wenn Sie die Sprache ändern möchten, löschen Sie bitte die Karte aus dem Kontobereich und laden Sie sie erneut herunter";
+"AlertTitle_BonVoyage" = "GUTE REISE!";
+"AlertDesc_BonVoyage" = "Ihre individuell angepassten Tour Guides von\n%@\nsind nun verfügbar, um von Ihnen entdeckt zu werden!";
+"AlertDesc_LocationPermission" = "Um weiterzumachen, erlauben Sie POPGuide die Ortungsfunktion zu aktivieren, damit die Karte offline funktioniert und keine Kosten für Roaming entstehen.";
+"AlertTitle_OutOfCityLimits" = "Außerhalb der Stadtgrenzen";
+"AlertTitle_ConfirmLogout" = "ABMELDEN?";
+"AlertDesc_ConfirmLogout" = "Möchten Sie sich wirklich abmelden?\nAllem mit diesem Benutzerkonto verbundenen Audioguides werden entfernt";

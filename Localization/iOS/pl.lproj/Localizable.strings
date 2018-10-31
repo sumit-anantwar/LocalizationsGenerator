@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Zapisz";
 "AlertDesc_ShowTutorialNextLaunch" = "Pokazać samouczek przy następnym uruchomieniu?";
 "Label_LanguageAlert" = "Jeśli chcesz zmienić język, usuń mapę z obszaru konta i pobierz ją ponownie";
+"AlertTitle_BonVoyage" = "UDANEJ PODRÓŻY!";
+"AlertDesc_BonVoyage" = "Twoje spersonalizowane Przewodniki z\n%@\n są teraz dostępne!";
+"AlertDesc_LocationPermission" = "Zaakceptuj proszę geolokalizację, aby używać mapy w trybie offline zapobiegając kosztom roamingu";
+"AlertTitle_OutOfCityLimits" = "Poza obrębem miasta";
+"AlertTitle_ConfirmLogout" = "Wylogować?";
+"AlertDesc_ConfirmLogout" = "Czy na pewno chcesz wylogować się z tego konta?\nWszystkie dane zostaną usunięte.";

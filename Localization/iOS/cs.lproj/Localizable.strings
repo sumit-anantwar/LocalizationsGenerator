@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Uložit";
 "AlertDesc_ShowTutorialNextLaunch" = "Chcete zobrazit výukový kurz při příštím spuštění?";
 "Label_LanguageAlert" = "Pokud chcete změnit jazyk, odstraňte prosím mapu z oblasti účtu a stáhněte ji znovu";
+"AlertTitle_BonVoyage" = "ŠŤASTNOU CESTU!";
+"AlertDesc_BonVoyage" = "Služby místních průvodců z\n%@\njsou Vám plně k dispozici!";
+"AlertDesc_LocationPermission" = "Pro pokračování povolte služby určování polohy pro aplikace POPGuide, po povolení budete mít k dispozici mapy i v režimu offline bez poplatků za roaming.";
+"AlertTitle_OutOfCityLimits" = "Mimo město";
+"AlertTitle_ConfirmLogout" = "Odhlásit se?";
+"AlertDesc_ConfirmLogout" = "Opravdu se chcete odhlásit z tohoto účtu?\nVeškeré souvísející Audioprůvodce budou smazaná!";

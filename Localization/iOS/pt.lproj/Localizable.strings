@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Salvar";
 "AlertDesc_ShowTutorialNextLaunch" = "Exibir o Tutorial na próxima inicialização?";
 "Label_LanguageAlert" = "Caso deseje alterar o idioma, por favor, exclua o mapa a partir da área da conta e baixe-o novamente";
+"AlertTitle_BonVoyage" = "Faça uma boa viagem!";
+"AlertDesc_BonVoyage" = "Seus guias turísticos personalizados de \n%@\n estão agora disponíveis para você explorar!";
+"AlertDesc_LocationPermission" = "Para continuar deixe seu dispositivo ativar o serviço de localização do POPGuide para que o mapa funcione offline e sem custos de roaming";
+"AlertTitle_OutOfCityLimits" = "Fora dos limites da cidade";
+"AlertTitle_ConfirmLogout" = "Sair?";
+"AlertDesc_ConfirmLogout" = "Você deseja realmente sair dessa conta?\n Todos os Audioguides relacionados também serão removidos!";

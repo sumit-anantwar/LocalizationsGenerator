@@ -99,4 +99,10 @@
     <string name="BtnTitle_Save">Salva</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Mostrare il tutorial al prossimo avvio?</string>
     <string name="Label_LanguageAlert">Se desideri cambiare la lingua, elimina la mappa dall\'area dell\'account e scaricala nuovamente</string>
+    <string name="AlertTitle_BonVoyage">BUON VIAGGIO!</string>
+    <string name="AlertDesc_BonVoyage">Le tue Tour Guides personalizzate da\n%s\n sono pronte per essere esplorate.</string>
+    <string name="AlertDesc_LocationPermission">Per continuare attiva il servizio di localizzazione, così la mappa funzionerà offline senza alcun costo di roaming.</string>
+    <string name="AlertTitle_OutOfCityLimits">Area extraurbana</string>
+    <string name="AlertTitle_ConfirmLogout">Vuoi terminare la sessione?</string>
+    <string name="AlertDesc_ConfirmLogout">Sei sicuro di voler terminare la sessione? Anche le relative Audioguide verranno cancellate.</string>
 </resources>

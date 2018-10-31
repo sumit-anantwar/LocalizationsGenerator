@@ -100,4 +100,10 @@
     <string name="BtnTitle_Save">Save</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
     <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
+    <string name="AlertTitle_BonVoyage">आपकी यात्रा मंगलमय हो!</string>
+    <string name="AlertDesc_BonVoyage">\n%s\n  से आपके कस्टमाइज्ड टूर गाइड अब आपके लिए एक्सप्लोर करने के लिए उपलब्ध हैं!</string>
+    <string name="AlertDesc_LocationPermission">जारी रखने के लिए, अपने डिवाइस को स्थान सेवा चालू करने दें ताकि नक्शा रोमिंग शुल्क के बिना ऑफलाइन काम करता है</string>
+    <string name="AlertTitle_OutOfCityLimits">शहर सीमा से बाहर</string>
+    <string name="AlertTitle_ConfirmLogout">लोग आउट ?</string>
+    <string name="AlertDesc_ConfirmLogout">क्या आप वास्तव में इस खाते से लॉगआउट करना चाहते हैं?\nसभी संबंधित ऑडियो गाइड भी हटा दिए जाएंगे!</string>
 </resources>

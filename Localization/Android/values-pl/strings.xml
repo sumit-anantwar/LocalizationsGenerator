@@ -99,4 +99,10 @@
     <string name="BtnTitle_Save">Zapisz</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Pokazać samouczek przy następnym uruchomieniu?</string>
     <string name="Label_LanguageAlert">Jeśli chcesz zmienić język, usuń mapę z obszaru konta i pobierz ją ponownie</string>
+    <string name="AlertTitle_BonVoyage">UDANEJ PODRÓŻY!</string>
+    <string name="AlertDesc_BonVoyage">Twoje spersonalizowane Przewodniki z\n%s\n są teraz dostępne!</string>
+    <string name="AlertDesc_LocationPermission">Zaakceptuj proszę geolokalizację, aby używać mapy w trybie offline zapobiegając kosztom roamingu</string>
+    <string name="AlertTitle_OutOfCityLimits">Poza obrębem miasta</string>
+    <string name="AlertTitle_ConfirmLogout">Wylogować?</string>
+    <string name="AlertDesc_ConfirmLogout">Czy na pewno chcesz wylogować się z tego konta?\nWszystkie dane zostaną usunięte.</string>
 </resources>

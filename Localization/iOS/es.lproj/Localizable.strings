@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Guarda";
 "AlertDesc_ShowTutorialNextLaunch" = "¿Mostrar el tutorial en el próximo lanzamiento?";
 "Label_LanguageAlert" = "Si desea cambiar el idioma, elimine el mapa del área de la cuenta y descárguelo nuevamente";
+"AlertTitle_BonVoyage" = "¡BUEN VIAJE!";
+"AlertDesc_BonVoyage" = "¡Sus Tours personalizados \n%@\n ya están disponibles!";
+"AlertDesc_LocationPermission" = "Permita que PopGuide acceda a su ubicación para estar en modo offline y sin costes de roaming.";
+"AlertTitle_OutOfCityLimits" = "Fuera de los límites de la ciudad";
+"AlertTitle_ConfirmLogout" = "¿Desea salir?";
+"AlertDesc_ConfirmLogout" = "¿Desea salir de esta cuenta? \n¡Todas las Audioguías serán eliminadas!";

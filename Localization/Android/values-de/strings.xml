@@ -99,4 +99,10 @@
     <string name="BtnTitle_Save">Speichern</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Das Tutorial beim nächsten Start anzeigen?</string>
     <string name="Label_LanguageAlert">Wenn Sie die Sprache ändern möchten, löschen Sie bitte die Karte aus dem Kontobereich und laden Sie sie erneut herunter</string>
+    <string name="AlertTitle_BonVoyage">GUTE REISE!</string>
+    <string name="AlertDesc_BonVoyage">Ihre individuell angepassten Tour Guides von\n%s\nsind nun verfügbar, um von Ihnen entdeckt zu werden!</string>
+    <string name="AlertDesc_LocationPermission">Um weiterzumachen, erlauben Sie POPGuide die Ortungsfunktion zu aktivieren, damit die Karte offline funktioniert und keine Kosten für Roaming entstehen.</string>
+    <string name="AlertTitle_OutOfCityLimits">Außerhalb der Stadtgrenzen</string>
+    <string name="AlertTitle_ConfirmLogout">ABMELDEN?</string>
+    <string name="AlertDesc_ConfirmLogout">Möchten Sie sich wirklich abmelden?\nAllem mit diesem Benutzerkonto verbundenen Audioguides werden entfernt</string>
 </resources>

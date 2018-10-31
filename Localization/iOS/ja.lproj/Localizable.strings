@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "保存する";
 "AlertDesc_ShowTutorialNextLaunch" = "次回起動時にチュートリアルを表示しますか。";
 "Label_LanguageAlert" = "言語を変更したい場合は、アカウントページからマップを削除し、再ダウンロードして下さい";
+"AlertTitle_BonVoyage" = "BON VOYAGE! 良い旅を！";
+"AlertDesc_BonVoyage" = "あなたが設定したツアーガイドは\n%@\nからご利用頂けます。";
+"AlertDesc_LocationPermission" = "続行するには、POPGuideのロケーションサービスをオンにして、地図がローミング料金を発生させずにオフラインで機能するようにします。";
+"AlertTitle_OutOfCityLimits" = "圏外";
+"AlertTitle_ConfirmLogout" = "ログアウト";
+"AlertDesc_ConfirmLogout" = "このアカウントから本当にログアウトしますか？\n関連するすべてのオーディオガイドも削除されます！";

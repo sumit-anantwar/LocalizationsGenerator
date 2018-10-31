@@ -99,4 +99,10 @@
     <string name="BtnTitle_Save">저장</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">다음 실행 때 튜토리얼을 보시겠습니까?</string>
     <string name="Label_LanguageAlert">언어를 변경하고 싶으신 경우, 계정 구역에서 맵을 삭제하신 후 맵을 다시 다운로드해 주십시오</string>
+    <string name="AlertTitle_BonVoyage">좋은 여행이 되십시오!</string>
+    <string name="AlertDesc_BonVoyage">당신의 \n%s\n 맞춤 여행 가이드를 지금 검색 할 수 있습니다!</string>
+    <string name="AlertDesc_LocationPermission">계속하려면 POPGuide가 위치 서비스를 사용하도록 설정해 로밍 요금을 부과 없이 지도를 오프라인으로 작동할 수 있게 합니다.</string>
+    <string name="AlertTitle_OutOfCityLimits">도시제한</string>
+    <string name="AlertTitle_ConfirmLogout">로그아웃 하시겠습니까?</string>
+    <string name="AlertDesc_ConfirmLogout">이 계정에서 정말 로그아웃하시겠습니까? \n 관련된 오디오 가이드도 모두 제거됩니다.</string>
 </resources>

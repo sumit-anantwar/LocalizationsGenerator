@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "保存";
 "AlertDesc_ShowTutorialNextLaunch" = "下次打开显示教程吗？";
 "Label_LanguageAlert" = "如想更换语言，请在帐户后台删除地图后，回到主页可重新选择语言下载";
+"AlertTitle_BonVoyage" = "Bon Vogae 旅途愉快！";
+"AlertDesc_BonVoyage" = "％@\n为您的私人订制已就绪！";
+"AlertDesc_LocationPermission" = "为了继续，请您允许设备打开POPGuide的位置服务，以便使地图可离线工作，从而不会产生漫游费用";
+"AlertTitle_OutOfCityLimits" = "超出城区范围";
+"AlertTitle_ConfirmLogout" = "退出？";
+"AlertDesc_ConfirmLogout" = "您真的要从此账号退出吗？\n 所有相关的语音导览也将被清除";

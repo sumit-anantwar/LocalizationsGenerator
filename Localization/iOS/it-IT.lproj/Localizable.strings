@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Salva";
 "AlertDesc_ShowTutorialNextLaunch" = "Mostrare il tutorial al prossimo avvio?";
 "Label_LanguageAlert" = "Se desideri cambiare la lingua, elimina la mappa dall'area dell'account e scaricala nuovamente";
+"AlertTitle_BonVoyage" = "BUON VIAGGIO!";
+"AlertDesc_BonVoyage" = "Le tue Tour Guides personalizzate da\n%@\n sono pronte per essere esplorate.";
+"AlertDesc_LocationPermission" = "Per continuare attiva il servizio di localizzazione, così la mappa funzionerà offline senza alcun costo di roaming.";
+"AlertTitle_OutOfCityLimits" = "Area extraurbana";
+"AlertTitle_ConfirmLogout" = "Vuoi terminare la sessione?";
+"AlertDesc_ConfirmLogout" = "Sei sicuro di voler terminare la sessione? Anche le relative Audioguide verranno cancellate.";

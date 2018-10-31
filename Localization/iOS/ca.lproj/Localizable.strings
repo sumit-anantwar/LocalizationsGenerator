@@ -97,3 +97,9 @@
 "BtnTitle_Save" = "Save";
 "AlertDesc_ShowTutorialNextLaunch" = "Show the Tutorial at the next launch?";
 "Label_LanguageAlert" = "If you want to change language, please delete the map from the account area and download it again";
+"AlertTitle_BonVoyage" = "BON VIATGE!";
+"AlertDesc_BonVoyage" = "Els seus Tours personalitzats\n%@\n ja estan disponibles!";
+"AlertDesc_LocationPermission" = "Permeti que PopGuide accedeixi a la seva ubicació per estar en mode offline i sense costos de roaming.";
+"AlertTitle_OutOfCityLimits" = "Fora dels límits de la ciutat";
+"AlertTitle_ConfirmLogout" = "Voleu sortir?";
+"AlertDesc_ConfirmLogout" = "Voleu sortir d'aquest compte?\n S'eliminaran totes les Audioguies!";
