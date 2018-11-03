@@ -105,4 +105,6 @@
     <string name="AlertTitle_OutOfCityLimits">Mimo město</string>
     <string name="AlertTitle_ConfirmLogout">Odhlásit se?</string>
     <string name="AlertDesc_ConfirmLogout">Opravdu se chcete odhlásit z tohoto účtu?\nVeškeré souvísející Audioprůvodce budou smazaná!</string>
+    <string name="AlertTitle_PackageUpdate">Obnovení k dispozici</string>
+    <string name="AlertDesc_PackageUpdate">Je k dispozici obnovení pro tento Audioprůvodce .\nStáhnout nyní?</string>
 </resources>

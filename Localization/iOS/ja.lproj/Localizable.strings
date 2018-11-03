@@ -103,3 +103,5 @@
 "AlertTitle_OutOfCityLimits" = "圏外";
 "AlertTitle_ConfirmLogout" = "ログアウト";
 "AlertDesc_ConfirmLogout" = "このアカウントから本当にログアウトしますか？\n関連するすべてのオーディオガイドも削除されます！";
+"AlertTitle_PackageUpdate" = "更新可能";
+"AlertDesc_PackageUpdate" = "オーディオガイドの更新が可能です。\n今すぐダウンロードしますか？";

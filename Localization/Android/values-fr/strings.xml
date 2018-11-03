@@ -105,4 +105,6 @@
     <string name="AlertTitle_OutOfCityLimits">En dehors des limites de la ville</string>
     <string name="AlertTitle_ConfirmLogout">Déconnexion?</string>
     <string name="AlertDesc_ConfirmLogout">La déconnexion supprimera toutes les données téléchargées pour ce compte!</string>
+    <string name="AlertTitle_PackageUpdate">Mise à jour disponible</string>
+    <string name="AlertDesc_PackageUpdate">Une mise à jour est disponible.\n Souhaitez-vous la télécharger dès à présent?</string>
 </resources>

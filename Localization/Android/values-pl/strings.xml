@@ -105,4 +105,6 @@
     <string name="AlertTitle_OutOfCityLimits">Poza obrębem miasta</string>
     <string name="AlertTitle_ConfirmLogout">Wylogować?</string>
     <string name="AlertDesc_ConfirmLogout">Czy na pewno chcesz wylogować się z tego konta?\nWszystkie dane zostaną usunięte.</string>
+    <string name="AlertTitle_PackageUpdate">Dostępna aktualizacja</string>
+    <string name="AlertDesc_PackageUpdate">Jest dostępna aktualizacja dla tego Audioprzewodnika.\nCzy chcesz ją teraz pobrać?</string>
 </resources>

@@ -103,3 +103,5 @@
 "AlertTitle_OutOfCityLimits" = "Area extraurbana";
 "AlertTitle_ConfirmLogout" = "Vuoi terminare la sessione?";
 "AlertDesc_ConfirmLogout" = "Sei sicuro di voler terminare la sessione? Anche le relative Audioguide verranno cancellate.";
+"AlertTitle_PackageUpdate" = "Aggiornamento disponibile";
+"AlertDesc_PackageUpdate" = "È disponibile un aggiornamento di questa Audioguida.\nVuoi scaricarlo adesso?";

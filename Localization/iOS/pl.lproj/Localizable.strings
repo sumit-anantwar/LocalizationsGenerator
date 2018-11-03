@@ -103,3 +103,5 @@
 "AlertTitle_OutOfCityLimits" = "Poza obrębem miasta";
 "AlertTitle_ConfirmLogout" = "Wylogować?";
 "AlertDesc_ConfirmLogout" = "Czy na pewno chcesz wylogować się z tego konta?\nWszystkie dane zostaną usunięte.";
+"AlertTitle_PackageUpdate" = "Dostępna aktualizacja";
+"AlertDesc_PackageUpdate" = "Jest dostępna aktualizacja dla tego Audioprzewodnika.\nCzy chcesz ją teraz pobrać?";

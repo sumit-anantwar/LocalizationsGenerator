@@ -76,7 +76,7 @@
     <string name="Label_PopMapOverflowMenu_TravelDocuments">Travel documents</string>
     <string name="Label_PopMapOverflowMenu_OperatorInfo">Operator details</string>
     <string name="Label_PopMapList_Pois">Points of interest</string>
-    <string name="Label_PopMapList_FlagPoints">Flag points</string>
+    <string name="Label_PopMapList_FlagPoints">Star points</string>
     <string name="Label_PopMapList_CustomPoints">Custom points</string>
     <string name="Label_PopMapList_HomePoint">Home</string>
     <string name="Label_OutdoorMap_MyPosition">My position</string>
@@ -105,4 +105,6 @@
     <string name="AlertTitle_OutOfCityLimits">Out of City Limits</string>
     <string name="AlertTitle_ConfirmLogout">Logout?</string>
     <string name="AlertDesc_ConfirmLogout">Do you really want to logout from this account?\nAll the related Audioguides would also be removed!</string>
+    <string name="AlertTitle_PackageUpdate">Update Available</string>
+    <string name="AlertDesc_PackageUpdate">An update for this Audioguide is available for download.\nDo you want to download it now?</string>
 </resources>

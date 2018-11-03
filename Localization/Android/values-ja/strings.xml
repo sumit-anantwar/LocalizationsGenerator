@@ -105,4 +105,6 @@
     <string name="AlertTitle_OutOfCityLimits">圏外</string>
     <string name="AlertTitle_ConfirmLogout">ログアウト</string>
     <string name="AlertDesc_ConfirmLogout">このアカウントから本当にログアウトしますか？\n関連するすべてのオーディオガイドも削除されます！</string>
+    <string name="AlertTitle_PackageUpdate">更新可能</string>
+    <string name="AlertDesc_PackageUpdate">オーディオガイドの更新が可能です。\n今すぐダウンロードしますか？</string>
 </resources>

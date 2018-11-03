@@ -76,7 +76,7 @@
     <string name="Label_PopMapOverflowMenu_TravelDocuments">Travel documents</string>
     <string name="Label_PopMapOverflowMenu_OperatorInfo">Operator details</string>
     <string name="Label_PopMapList_Pois">Points of interest</string>
-    <string name="Label_PopMapList_FlagPoints">Flag points</string>
+    <string name="Label_PopMapList_FlagPoints">Star points</string>
     <string name="Label_PopMapList_CustomPoints">Custom points</string>
     <string name="Label_PopMapList_HomePoint">Home</string>
     <string name="Label_OutdoorMap_MyPosition">My position</string>
@@ -104,5 +104,7 @@
     <string name="AlertDesc_LocationPermission">Permeti que PopGuide accedeixi a la seva ubicació per estar en mode offline i sense costos de roaming.</string>
     <string name="AlertTitle_OutOfCityLimits">Fora dels límits de la ciutat</string>
     <string name="AlertTitle_ConfirmLogout">Voleu sortir?</string>
-    <string name="AlertDesc_ConfirmLogout">Voleu sortir d\'aquest compte?\n S\'eliminaran totes les Audioguies!</string>
+    <string name="AlertDesc_ConfirmLogout">Voleu sortir d\'aquest compte?\nS\'eliminaran totes les Audioguies!</string>
+    <string name="AlertTitle_PackageUpdate">Actualització disponible</string>
+    <string name="AlertDesc_PackageUpdate">Hi ha una actualització disponible.\n¿Descargar ara?</string>
 </resources>

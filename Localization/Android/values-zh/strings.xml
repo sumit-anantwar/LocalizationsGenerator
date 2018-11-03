@@ -105,4 +105,6 @@
     <string name="AlertTitle_OutOfCityLimits">超出城区范围</string>
     <string name="AlertTitle_ConfirmLogout">退出？</string>
     <string name="AlertDesc_ConfirmLogout">您真的要从此账号退出吗？\n 所有相关的语音导览也将被清除</string>
+    <string name="AlertTitle_PackageUpdate">可更新</string>
+    <string name="AlertDesc_PackageUpdate">此语音导览的更新可以下载。\n是否要立即下载？</string>
 </resources>

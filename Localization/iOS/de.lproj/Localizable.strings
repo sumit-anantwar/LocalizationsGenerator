@@ -103,3 +103,5 @@
 "AlertTitle_OutOfCityLimits" = "Außerhalb der Stadtgrenzen";
 "AlertTitle_ConfirmLogout" = "ABMELDEN?";
 "AlertDesc_ConfirmLogout" = "Möchten Sie sich wirklich abmelden?\nAllem mit diesem Benutzerkonto verbundenen Audioguides werden entfernt";
+"AlertTitle_PackageUpdate" = "Update verfügbar";
+"AlertDesc_PackageUpdate" = "Es ist eine Aktualisierung für diesen Audioguide verfügbar.\nJetzt herunterladen?";

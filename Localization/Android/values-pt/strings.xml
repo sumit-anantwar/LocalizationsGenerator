@@ -105,4 +105,6 @@
     <string name="AlertTitle_OutOfCityLimits">Fora dos limites da cidade</string>
     <string name="AlertTitle_ConfirmLogout">Sair?</string>
     <string name="AlertDesc_ConfirmLogout">Você deseja realmente sair dessa conta?\n Todos os Audioguides relacionados também serão removidos!</string>
+    <string name="AlertTitle_PackageUpdate">Atualização disponível</string>
+    <string name="AlertDesc_PackageUpdate">Há uma atualização disponível.\n Você deseja baixa-la agora?</string>
 </resources>

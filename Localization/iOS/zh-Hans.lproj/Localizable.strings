@@ -103,3 +103,5 @@
 "AlertTitle_OutOfCityLimits" = "超出城区范围";
 "AlertTitle_ConfirmLogout" = "退出？";
 "AlertDesc_ConfirmLogout" = "您真的要从此账号退出吗？\n 所有相关的语音导览也将被清除";
+"AlertTitle_PackageUpdate" = "可更新";
+"AlertDesc_PackageUpdate" = "此语音导览的更新可以下载。\n是否要立即下载？";

@@ -74,7 +74,7 @@
 "Label_PopMapOverflowMenu_TravelDocuments" = "Travel documents";
 "Label_PopMapOverflowMenu_OperatorInfo" = "Operator details";
 "Label_PopMapList_Pois" = "Points of interest";
-"Label_PopMapList_FlagPoints" = "Flag points";
+"Label_PopMapList_FlagPoints" = "Star points";
 "Label_PopMapList_CustomPoints" = "Custom points";
 "Label_PopMapList_HomePoint" = "Home";
 "Label_OutdoorMap_MyPosition" = "My position";
@@ -102,4 +102,6 @@
 "AlertDesc_LocationPermission" = "Permeti que PopGuide accedeixi a la seva ubicació per estar en mode offline i sense costos de roaming.";
 "AlertTitle_OutOfCityLimits" = "Fora dels límits de la ciutat";
 "AlertTitle_ConfirmLogout" = "Voleu sortir?";
-"AlertDesc_ConfirmLogout" = "Voleu sortir d'aquest compte?\n S'eliminaran totes les Audioguies!";
+"AlertDesc_ConfirmLogout" = "Voleu sortir d'aquest compte?\nS'eliminaran totes les Audioguies!";
+"AlertTitle_PackageUpdate" = "Actualització disponible";
+"AlertDesc_PackageUpdate" = "Hi ha una actualització disponible.\n¿Descargar ara?";

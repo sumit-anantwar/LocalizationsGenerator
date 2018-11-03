@@ -103,3 +103,5 @@
 "AlertTitle_OutOfCityLimits" = "En dehors des limites de la ville";
 "AlertTitle_ConfirmLogout" = "Déconnexion?";
 "AlertDesc_ConfirmLogout" = "La déconnexion supprimera toutes les données téléchargées pour ce compte!";
+"AlertTitle_PackageUpdate" = "Mise à jour disponible";
+"AlertDesc_PackageUpdate" = "Une mise à jour est disponible.\n Souhaitez-vous la télécharger dès à présent?";

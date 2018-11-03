@@ -105,4 +105,6 @@
     <string name="AlertTitle_OutOfCityLimits">Area extraurbana</string>
     <string name="AlertTitle_ConfirmLogout">Vuoi terminare la sessione?</string>
     <string name="AlertDesc_ConfirmLogout">Sei sicuro di voler terminare la sessione? Anche le relative Audioguide verranno cancellate.</string>
+    <string name="AlertTitle_PackageUpdate">Aggiornamento disponibile</string>
+    <string name="AlertDesc_PackageUpdate">È disponibile un aggiornamento di questa Audioguida.\nVuoi scaricarlo adesso?</string>
 </resources>
