@@ -105,3 +105,5 @@
 "AlertDesc_ConfirmLogout" = "La déconnexion supprimera toutes les données téléchargées pour ce compte!";
 "AlertTitle_PackageUpdate" = "Mise à jour disponible";
 "AlertDesc_PackageUpdate" = "Une mise à jour est disponible.\n Souhaitez-vous la télécharger dès à présent?";
+"AlertDesc_PopMapDownloadSize" = "The total download size for %@ is \n %@MB \n Do you want to continue downloading?";
+"BtnTitle_Go" = "ALLER";

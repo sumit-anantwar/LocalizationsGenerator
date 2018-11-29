@@ -59,7 +59,7 @@
 "Label_UserSettings_Terms_Title" = "Terms &amp; Conditions";
 "Label_UserSettings_Terms_Description" = "Read the POPGuide Service Terms and Conditions";
 "Label_Distance_Miles" = "Miles";
-"BtnTitle_DriveMeHere" = "Drive me here";
+"BtnTitle_DriveMeHere" = "Take me here";
 "Label_Details" = "Details";
 "Search_Hint" = "Filter points and flags...";
 "SearchPoints_Hint" = "Filter points...";
@@ -105,3 +105,5 @@
 "AlertDesc_ConfirmLogout" = "Voleu sortir d'aquest compte?\nS'eliminaran totes les Audioguies!";
 "AlertTitle_PackageUpdate" = "Actualització disponible";
 "AlertDesc_PackageUpdate" = "Hi ha una actualització disponible.\n¿Descargar ara?";
+"AlertDesc_PopMapDownloadSize" = "The total download size for %@ is \n %@MB \n Do you want to continue downloading?";
+"BtnTitle_Go" = "Anar";

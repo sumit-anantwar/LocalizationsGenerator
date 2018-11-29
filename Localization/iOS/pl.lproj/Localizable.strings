@@ -105,3 +105,5 @@
 "AlertDesc_ConfirmLogout" = "Czy na pewno chcesz wylogować się z tego konta?\nWszystkie dane zostaną usunięte.";
 "AlertTitle_PackageUpdate" = "Dostępna aktualizacja";
 "AlertDesc_PackageUpdate" = "Jest dostępna aktualizacja dla tego Audioprzewodnika.\nCzy chcesz ją teraz pobrać?";
+"AlertDesc_PopMapDownloadSize" = "The total download size for %@ is \n %@MB \n Do you want to continue downloading?";
+"BtnTitle_Go" = "NAWIGUJ";

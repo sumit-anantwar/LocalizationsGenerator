@@ -18,7 +18,7 @@
     <string name="AlertTitle_NetworkError">नेटवर्क त्रुटि!</string>
     <string name="AlertDesc_NetworkError">सक्रिय इंटरनेट कनेक्शन नहीं मिला था।\nबाद में पुन: प्रयास करें</string>
     <string name="AlertDesc_MandatoryAppUpdate">इसका उपयोग जारी रखने में सक्षम होने के लिए आपको ऐप को अपडेट करना चाहिए</string>
-    <string name="AlertDesc_OutOfCityLimits">आपका वर्तमान स्थान शहर सीमा से बाहर है \nमार्ग गणना और नेविगेशन संभव नहीं है</string>
+    <string name="AlertDesc_OutOfCityLimits">आपका वर्तमान स्थान शहर सीमा से बाहर है। \nमार्ग गणना और नेविगेशन संभव नहीं है</string>
     <string name="AlertDesc_EmptyCredentials">कृपया उपयोगकर्ता नाम और पासवर्ड दर्ज करें</string>
     <string name="AlertTitle_AuthenticationError">प्रमाणीकरण त्रुटि</string>
     <string name="AlertDesc_AuthenticationError">कृपया उपयोगकर्ता नाम और पासवर्ड जांचें और पुनः प्रयास करें</string>
@@ -104,7 +104,9 @@
     <string name="AlertDesc_LocationPermission">जारी रखने के लिए, अपने डिवाइस को स्थान सेवा चालू करने दें ताकि नक्शा रोमिंग शुल्क के बिना ऑफलाइन काम करता है</string>
     <string name="AlertTitle_OutOfCityLimits">शहर सीमा से बाहर</string>
     <string name="AlertTitle_ConfirmLogout">लोग आउट ?</string>
-    <string name="AlertDesc_ConfirmLogout">क्या आप वास्तव में इस खाते से लॉगआउट करना चाहते हैं?\nसभी संबंधित ऑडियो गाइड भी हटा दिए जाएंगे!</string>
+    <string name="AlertDesc_ConfirmLogout">क्या आप वास्तव में इस खाते से लॉगआउट करना चाहते हैं? \nसभी संबंधित ऑडियो गाइड भी हटा दिए जाएंगे!</string>
     <string name="AlertTitle_PackageUpdate">अपडेट उपलब्ध</string>
-    <string name="AlertDesc_PackageUpdate">इस ऑडीओगाइड के लिए एक अद्यतन डाउनलोड के लिए उपलब्ध है।\nक्या आप इसे अभी डाउनलोड करना चाहते हैं?</string>
+    <string name="AlertDesc_PackageUpdate">इस ऑडीओगाइड के लिए एक अद्यतन डाउनलोड के लिए उपलब्ध है। \nक्या आप इसे अभी डाउनलोड करना चाहते हैं?</string>
+    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="BtnTitle_Go">चलो</string>
 </resources>

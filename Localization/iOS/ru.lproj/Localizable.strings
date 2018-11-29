@@ -105,3 +105,5 @@
 "AlertDesc_ConfirmLogout" = "Вы действительно хотите выйти из учетной записи?\nПри этом все аудиогиды из нее будут удалены!";
 "AlertTitle_PackageUpdate" = "Доступно обновление";
 "AlertDesc_PackageUpdate" = "Доступно обновление для этого аудиотура. Хотите скачать его?";
+"AlertDesc_PopMapDownloadSize" = "The total download size for %@ is \n %@MB \n Do you want to continue downloading?";
+"BtnTitle_Go" = "ВПЕРЕД";

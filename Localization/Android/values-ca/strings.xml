@@ -61,7 +61,7 @@
     <string name="Label_UserSettings_Terms_Title">Terms &amp;amp; Conditions</string>
     <string name="Label_UserSettings_Terms_Description">Read the POPGuide Service Terms and Conditions</string>
     <string name="Label_Distance_Miles">Miles</string>
-    <string name="BtnTitle_DriveMeHere">Drive me here</string>
+    <string name="BtnTitle_DriveMeHere">Take me here</string>
     <string name="Label_Details">Details</string>
     <string name="Search_Hint">Filter points and flags...</string>
     <string name="SearchPoints_Hint">Filter points...</string>
@@ -107,4 +107,6 @@
     <string name="AlertDesc_ConfirmLogout">Voleu sortir d\'aquest compte?\nS\'eliminaran totes les Audioguies!</string>
     <string name="AlertTitle_PackageUpdate">Actualització disponible</string>
     <string name="AlertDesc_PackageUpdate">Hi ha una actualització disponible.\n¿Descargar ara?</string>
+    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="BtnTitle_Go">Anar</string>
 </resources>

@@ -105,3 +105,5 @@
 "AlertDesc_ConfirmLogout" = "Você deseja realmente sair dessa conta?\n Todos os Audioguides relacionados também serão removidos!";
 "AlertTitle_PackageUpdate" = "Atualização disponível";
 "AlertDesc_PackageUpdate" = "Há uma atualização disponível.\n Você deseja baixa-la agora?";
+"AlertDesc_PopMapDownloadSize" = "The total download size for %@ is \n %@MB \n Do you want to continue downloading?";
+"BtnTitle_Go" = "Ir";

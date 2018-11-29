@@ -107,4 +107,6 @@
     <string name="AlertDesc_ConfirmLogout">Möchten Sie sich wirklich abmelden?\nAllem mit diesem Benutzerkonto verbundenen Audioguides werden entfernt</string>
     <string name="AlertTitle_PackageUpdate">Update verfügbar</string>
     <string name="AlertDesc_PackageUpdate">Es ist eine Aktualisierung für diesen Audioguide verfügbar.\nJetzt herunterladen?</string>
+    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="BtnTitle_Go">LOS</string>
 </resources>

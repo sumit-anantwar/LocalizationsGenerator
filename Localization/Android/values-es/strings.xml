@@ -107,4 +107,6 @@
     <string name="AlertDesc_ConfirmLogout">¿Desea salir de esta cuenta? \n¡Todas las Audioguías serán eliminadas!</string>
     <string name="AlertTitle_PackageUpdate">Actualización disponible</string>
     <string name="AlertDesc_PackageUpdate">Hay una actualización disponible.\n¿Descargar ahora?</string>
+    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="BtnTitle_Go">IR</string>
 </resources>

@@ -107,4 +107,6 @@
     <string name="AlertDesc_ConfirmLogout">您真的要从此账号退出吗？\n 所有相关的语音导览也将被清除</string>
     <string name="AlertTitle_PackageUpdate">可更新</string>
     <string name="AlertDesc_PackageUpdate">此语音导览的更新可以下载。\n是否要立即下载？</string>
+    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="BtnTitle_Go">前去</string>
 </resources>

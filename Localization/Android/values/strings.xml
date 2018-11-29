@@ -61,7 +61,7 @@
     <string name="Label_UserSettings_Terms_Title">Terms &amp;amp; Conditions</string>
     <string name="Label_UserSettings_Terms_Description">Read the POPGuide Service Terms and Conditions</string>
     <string name="Label_Distance_Miles">Miles</string>
-    <string name="BtnTitle_DriveMeHere">Drive me here</string>
+    <string name="BtnTitle_DriveMeHere">Take me here</string>
     <string name="Label_Details">Details</string>
     <string name="Search_Hint">Filter points and flags...</string>
     <string name="SearchPoints_Hint">Filter points...</string>
@@ -107,4 +107,6 @@
     <string name="AlertDesc_ConfirmLogout">Do you really want to logout from this account?\nAll the related Audioguides would also be removed!</string>
     <string name="AlertTitle_PackageUpdate">Update Available</string>
     <string name="AlertDesc_PackageUpdate">An update for this Audioguide is available for download.\nDo you want to download it now?</string>
+    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="BtnTitle_Go">GO</string>
 </resources>
