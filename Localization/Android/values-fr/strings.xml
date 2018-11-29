@@ -51,15 +51,15 @@
     <string name="AlertTitle_ConfirmCustomPointDelete">Supprimer le point personnalisé</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Voulez-vous réellement supprimer votre point personnalisé ?</string>
     <string name="Label_UserSettings_Distance_Title">Distance</string>
-    <string name="Label_UserSettings_Distance_Description">Sélectionner la manière dont POPGuide mesure les distances sur les cartes</string>
+    <string name="Label_UserSettings_Distance_Description">Sélectionner la manière dont %s mesure les distances sur les cartes</string>
     <string name="Label_UserSettings_Autoplay_Title">Lecture automatique</string>
     <string name="Label_UserSettings_Autoplay_Description">Vous pouvez décider si oui ou non vous voulez que la fonction de lecture automatique soit votre paramètre par défaut lorsque vous utilisez l\'application.</string>
     <string name="Label_UserSettings_Tutorial_Title">Tutoriel</string>
     <string name="Label_UserSettings_Tutorial_Description">Vous pouvez décider si oui ou non vous voulez que le tutoriel soit montré lors du prochain démarrage.</string>
     <string name="Label_UserSettings_Privacy_Title">Avis de confidentialité</string>
-    <string name="Label_UserSettings_Privacy_Description">Lire l\'avis de confidentialité du service POPGuide</string>
+    <string name="Label_UserSettings_Privacy_Description">Lire l\'avis de confidentialité du service %s</string>
     <string name="Label_UserSettings_Terms_Title">Conditions générales</string>
-    <string name="Label_UserSettings_Terms_Description">Lire les conditions générales du service POPGuide</string>
+    <string name="Label_UserSettings_Terms_Description">Lire les conditions générales du service %s</string>
     <string name="Label_Distance_Miles">Miles</string>
     <string name="BtnTitle_DriveMeHere">Me conduire ici</string>
     <string name="Label_Details">Détails</string>
@@ -83,9 +83,9 @@
     <string name="Alert_OutdoorMap_RouteCalculationFailed">Échec du calcul de l\'itinéraire.</string>
     <string name="Alert_OutdoorMap_CurrentPositionUnavailable">Position actuelle non disponible.</string>
     <string name="AlertDesc_NavigationAbort">La navigation est en cours. Voulez-vous réellement l\'arrêter et quitter l\'application ?</string>
-    <string name="Label_Terms_Intro">POPGuide est créé par Vox, qui respecte votre droit à être informé sur l\'utilisation des données de nos services. Par la présente, vous reconnaissez et acceptez</string>
-    <string name="Label_Terms_Checkbox">Les conditions générales du service POPGuide</string>
-    <string name="Label_Privacy_Checkbox">L\'avis de confidentialité du service POPGuide</string>
+    <string name="Label_Terms_Intro">%s est créé par Vox, qui respecte votre droit à être informé sur l\'utilisation des données de nos services. Par la présente, vous reconnaissez et acceptez</string>
+    <string name="Label_Terms_Checkbox">Les conditions générales du service %s</string>
+    <string name="Label_Privacy_Checkbox">L\'avis de confidentialité du service %s</string>
     <string name="Label_Read">Lire</string>
     <string name="BtnTitle_Decline">REFUSER</string>
     <string name="BtnTitle_Accept">ACCEPTER</string>
@@ -101,12 +101,12 @@
     <string name="Label_LanguageAlert">Si vous souhaitez modifier la langue, veuillez supprimer la carte de la zone de compte et la télécharger à nouveau</string>
     <string name="AlertTitle_BonVoyage">BON VOYAGE!</string>
     <string name="AlertDesc_BonVoyage">Vos Guides Touristiques personnalisés de\n%s\n sont désormais disponibles pour votre exploration!</string>
-    <string name="AlertDesc_LocationPermission">Pour continuer, veuillez accepter le système de géolocalisation afin que la carte puise fonctionner hors ligne sans frais d\'itinérance</string>
+    <string name="AlertDesc_LocationPermission">Pour continuer, laissez %s accepter le système de géolocalisation afin que la carte puise fonctionner hors ligne sans frais d\'itinérance</string>
     <string name="AlertTitle_OutOfCityLimits">En dehors des limites de la ville</string>
     <string name="AlertTitle_ConfirmLogout">Déconnexion?</string>
     <string name="AlertDesc_ConfirmLogout">La déconnexion supprimera toutes les données téléchargées pour ce compte!</string>
     <string name="AlertTitle_PackageUpdate">Mise à jour disponible</string>
     <string name="AlertDesc_PackageUpdate">Une mise à jour est disponible.\n Souhaitez-vous la télécharger dès à présent?</string>
-    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
-    <string name="BtnTitle_Go">ALLER</string>
+    <string name="AlertDesc_PopMapDownloadSize">La taille totale de téléchargement pour %s est \n %sMB \n Voulez-vous continuer le téléchargement?</string>
+    <string name="BtnTitle_Go">Aller</string>
 </resources>

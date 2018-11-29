@@ -57,9 +57,9 @@
     <string name="Label_UserSettings_Tutorial_Title">教程</string>
     <string name="Label_UserSettings_Tutorial_Description">设置下次开启程序时是否显示教程</string>
     <string name="Label_UserSettings_Privacy_Title">隐私声明</string>
-    <string name="Label_UserSettings_Privacy_Description">阅读POPGuide服务隐私声明</string>
+    <string name="Label_UserSettings_Privacy_Description">阅读%s服务隐私声明</string>
     <string name="Label_UserSettings_Terms_Title">条款和条件</string>
-    <string name="Label_UserSettings_Terms_Description">阅读POPGuide服务的条款和条件</string>
+    <string name="Label_UserSettings_Terms_Description">阅读%s服务的条款和条件</string>
     <string name="Label_Distance_Miles">英里</string>
     <string name="BtnTitle_DriveMeHere">目的地</string>
     <string name="Label_Details">详情</string>
@@ -83,9 +83,9 @@
     <string name="Alert_OutdoorMap_RouteCalculationFailed">线路计算失败</string>
     <string name="Alert_OutdoorMap_CurrentPositionUnavailable">当前位置不可用</string>
     <string name="AlertDesc_NavigationAbort">导航正在使用中，确定退出？</string>
-    <string name="Label_Terms_Intro">POPGuide归属Vox，您有权了解我们如何使用您在享用我们服务期间所收集的信息。您在此了解并同意：</string>
-    <string name="Label_Terms_Checkbox">POPGuide服务条款和条件</string>
-    <string name="Label_Privacy_Checkbox">POPGuide服务隐私声明</string>
+    <string name="Label_Terms_Intro">%s归属Vox，您有权了解我们如何使用您在享用我们服务期间所收集的信息。您在此了解并同意：</string>
+    <string name="Label_Terms_Checkbox">%s服务条款和条件</string>
+    <string name="Label_Privacy_Checkbox">%s服务隐私声明</string>
     <string name="Label_Read">阅读</string>
     <string name="BtnTitle_Decline">取消</string>
     <string name="BtnTitle_Accept">同意</string>
@@ -101,12 +101,12 @@
     <string name="Label_LanguageAlert">如想更换语言，请在帐户后台删除地图后，回到主页可重新选择语言下载</string>
     <string name="AlertTitle_BonVoyage">Bon Vogae 旅途愉快！</string>
     <string name="AlertDesc_BonVoyage">％@\n为您的私人订制已就绪！</string>
-    <string name="AlertDesc_LocationPermission">为了继续，请您允许设备打开POPGuide的位置服务，以便使地图可离线工作，从而不会产生漫游费用</string>
+    <string name="AlertDesc_LocationPermission">为了继续，请您允许设备打开%s的位置服务，以便使地图可离线工作，从而不会产生漫游费用</string>
     <string name="AlertTitle_OutOfCityLimits">超出城区范围</string>
     <string name="AlertTitle_ConfirmLogout">退出？</string>
     <string name="AlertDesc_ConfirmLogout">您真的要从此账号退出吗？\n 所有相关的语音导览也将被清除</string>
     <string name="AlertTitle_PackageUpdate">可更新</string>
     <string name="AlertDesc_PackageUpdate">此语音导览的更新可以下载。\n是否要立即下载？</string>
-    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="AlertDesc_PopMapDownloadSize">下载%s的体积为%sMB，确定下载？</string>
     <string name="BtnTitle_Go">前去</string>
 </resources>

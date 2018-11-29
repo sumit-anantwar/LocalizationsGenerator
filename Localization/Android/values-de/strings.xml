@@ -51,15 +51,15 @@
     <string name="AlertTitle_ConfirmCustomPointDelete">Benutzerdefinierten Ort löschen</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Möchten Sie Ihren benutzerdefinierten Ort wirklich löschen?</string>
     <string name="Label_UserSettings_Distance_Title">Entfernung</string>
-    <string name="Label_UserSettings_Distance_Description">Wählen Sie aus, wie POPGuide die Entfernungen auf den Karten messen soll</string>
+    <string name="Label_UserSettings_Distance_Description">Wählen Sie aus, wie %s die Entfernungen auf den Karten messen soll</string>
     <string name="Label_UserSettings_Autoplay_Title">Autoplay</string>
     <string name="Label_UserSettings_Autoplay_Description">Legen Sie fest, ob die Autoplay-Funktion bei Nutzung der App als Standard eingestellt sein soll</string>
     <string name="Label_UserSettings_Tutorial_Title">Anleitung</string>
     <string name="Label_UserSettings_Tutorial_Description">Legen Sie fest, ob die Anleitung beim nächsten Start angezeigt werden soll</string>
     <string name="Label_UserSettings_Privacy_Title">Datenschutzerklärung</string>
-    <string name="Label_UserSettings_Privacy_Description">Lesen Sie die Datenschutzerklärung für den POPGuide-Service</string>
+    <string name="Label_UserSettings_Privacy_Description">Lesen Sie die Datenschutzerklärung für den %s-Service</string>
     <string name="Label_UserSettings_Terms_Title">Nutzungsbedingungen</string>
-    <string name="Label_UserSettings_Terms_Description">Lesen Sie die Nutzungsbedingungen für den POPGuide-Service</string>
+    <string name="Label_UserSettings_Terms_Description">Lesen Sie die Nutzungsbedingungen für den %s-Service</string>
     <string name="Label_Distance_Miles">Meilen</string>
     <string name="BtnTitle_DriveMeHere">Fahr mich hier hin</string>
     <string name="Label_Details">Details</string>
@@ -83,9 +83,9 @@
     <string name="Alert_OutdoorMap_RouteCalculationFailed">Routenberechnung fehlgeschlagen.</string>
     <string name="Alert_OutdoorMap_CurrentPositionUnavailable">Aktuelle Position nicht verfügbar.</string>
     <string name="AlertDesc_NavigationAbort">Der Navigationsvorgang ist in Bearbeitung. Möchten Sie wirklich abbrechen und die Seite verlassen?</string>
-    <string name="Label_Terms_Intro">POPGuide wurde von Vox entwickelt und respektiert Ihr Recht, sich über die Nutzung Ihrer Daten seitens unserer Dienste zu informieren. Sie akzeptieren und bestätigen hiermit</string>
-    <string name="Label_Terms_Checkbox">Nutzungsbedingungen für die POPGuide-Services</string>
-    <string name="Label_Privacy_Checkbox">Datenschutzerklärung zum POPGuide-Service</string>
+    <string name="Label_Terms_Intro">%s wurde von Vox entwickelt und respektiert Ihr Recht, sich über die Nutzung Ihrer Daten seitens unserer Dienste zu informieren. Sie akzeptieren und bestätigen hiermit</string>
+    <string name="Label_Terms_Checkbox">Nutzungsbedingungen für die %s-Services</string>
+    <string name="Label_Privacy_Checkbox">Datenschutzerklärung zum %s-Service</string>
     <string name="Label_Read">Lesen</string>
     <string name="BtnTitle_Decline">ABLEHNEN</string>
     <string name="BtnTitle_Accept">AKZEPTIEREN</string>
@@ -101,12 +101,12 @@
     <string name="Label_LanguageAlert">Wenn Sie die Sprache ändern möchten, löschen Sie bitte die Karte aus dem Kontobereich und laden Sie sie erneut herunter</string>
     <string name="AlertTitle_BonVoyage">GUTE REISE!</string>
     <string name="AlertDesc_BonVoyage">Ihre individuell angepassten Tour Guides von\n%s\nsind nun verfügbar, um von Ihnen entdeckt zu werden!</string>
-    <string name="AlertDesc_LocationPermission">Um weiterzumachen, erlauben Sie POPGuide die Ortungsfunktion zu aktivieren, damit die Karte offline funktioniert und keine Kosten für Roaming entstehen.</string>
+    <string name="AlertDesc_LocationPermission">Um weiterzumachen, erlauben Sie %s die Ortungsfunktion zu aktivieren, damit die Karte offline funktioniert und keine Kosten für Roaming entstehen.</string>
     <string name="AlertTitle_OutOfCityLimits">Außerhalb der Stadtgrenzen</string>
     <string name="AlertTitle_ConfirmLogout">ABMELDEN?</string>
     <string name="AlertDesc_ConfirmLogout">Möchten Sie sich wirklich abmelden?\nAllem mit diesem Benutzerkonto verbundenen Audioguides werden entfernt</string>
     <string name="AlertTitle_PackageUpdate">Update verfügbar</string>
     <string name="AlertDesc_PackageUpdate">Es ist eine Aktualisierung für diesen Audioguide verfügbar.\nJetzt herunterladen?</string>
-    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
-    <string name="BtnTitle_Go">LOS</string>
+    <string name="AlertDesc_PopMapDownloadSize">Die Gesamtgröße des Herunterladens für %s beträgt \n %sMB \n Möchten Sie das Herunterladen fortsetzen?</string>
+    <string name="BtnTitle_Go">Route</string>
 </resources>

@@ -51,15 +51,15 @@
     <string name="AlertTitle_ConfirmCustomPointDelete">Usuń własny punkt</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Czy na pewno chcesz usunąć swój własny punkt?</string>
     <string name="Label_UserSettings_Distance_Title">Odległość</string>
-    <string name="Label_UserSettings_Distance_Description">Wybierz, w jaki sposób POPGuide ma mierzyć odległości na mapach</string>
+    <string name="Label_UserSettings_Distance_Description">Wybierz, w jaki sposób %s ma mierzyć odległości na mapach</string>
     <string name="Label_UserSettings_Autoplay_Title">Automatyczne odtwarzanie</string>
     <string name="Label_UserSettings_Autoplay_Description">Ustaw, jeśli chcesz, żeby automatyczne odtwarzanie było domyślną funkcją podczas używania aplikacji</string>
     <string name="Label_UserSettings_Tutorial_Title">Samouczek</string>
     <string name="Label_UserSettings_Tutorial_Description">Ustaw, jeśli chcesz, żeby samouczek wyświetlił się przy następnym uruchomieniu</string>
     <string name="Label_UserSettings_Privacy_Title">Polityka prywatności</string>
-    <string name="Label_UserSettings_Privacy_Description">Przeczytaj Politykę prywatności serwisu POPGuide</string>
+    <string name="Label_UserSettings_Privacy_Description">Przeczytaj Politykę prywatności serwisu %s</string>
     <string name="Label_UserSettings_Terms_Title">Warunki</string>
-    <string name="Label_UserSettings_Terms_Description">Przeczytaj Warunki serwisu POPGuide</string>
+    <string name="Label_UserSettings_Terms_Description">Przeczytaj Warunki serwisu %s</string>
     <string name="Label_Distance_Miles">Mile</string>
     <string name="BtnTitle_DriveMeHere">Przywieź mnie tu</string>
     <string name="Label_Details">Szczegóły</string>
@@ -83,9 +83,9 @@
     <string name="Alert_OutdoorMap_RouteCalculationFailed">Obliczanie trasy nie powiodło się.</string>
     <string name="Alert_OutdoorMap_CurrentPositionUnavailable">Aktualne położenie jest niedostępne.</string>
     <string name="AlertDesc_NavigationAbort">Trwa nawigowanie. Czy na pewno chcesz przerwać i wyjść?</string>
-    <string name="Label_Terms_Intro">Aplikacja POPGuide została stworzona przez firmę Vox, która szanuje Twoje prawo do informacji o wykorzystywaniu danych związanych z naszymi usługami. Niniejszym akceptujesz i wyrażasz zgodę na</string>
-    <string name="Label_Terms_Checkbox">Warunki serwisu POPGuide</string>
-    <string name="Label_Privacy_Checkbox">Politykę prywatności serwisu POPGuide</string>
+    <string name="Label_Terms_Intro">Aplikacja %s została stworzona przez firmę Vox, która szanuje Twoje prawo do informacji o wykorzystywaniu danych związanych z naszymi usługami. Niniejszym akceptujesz i wyrażasz zgodę na</string>
+    <string name="Label_Terms_Checkbox">Warunki serwisu %s</string>
+    <string name="Label_Privacy_Checkbox">Politykę prywatności serwisu %s</string>
     <string name="Label_Read">Czytaj</string>
     <string name="BtnTitle_Decline">ODRZUĆ</string>
     <string name="BtnTitle_Accept">ZAAKCEPTUJ</string>
@@ -101,12 +101,12 @@
     <string name="Label_LanguageAlert">Jeśli chcesz zmienić język, usuń mapę z obszaru konta i pobierz ją ponownie</string>
     <string name="AlertTitle_BonVoyage">UDANEJ PODRÓŻY!</string>
     <string name="AlertDesc_BonVoyage">Twoje spersonalizowane Przewodniki z\n%s\n są teraz dostępne!</string>
-    <string name="AlertDesc_LocationPermission">Zaakceptuj proszę geolokalizację, aby używać mapy w trybie offline zapobiegając kosztom roamingu</string>
+    <string name="AlertDesc_LocationPermission">Zaakceptuj proszę %s geolokalizację, aby używać mapy w trybie offline zapobiegając kosztom roamingu</string>
     <string name="AlertTitle_OutOfCityLimits">Poza obrębem miasta</string>
     <string name="AlertTitle_ConfirmLogout">Wylogować?</string>
     <string name="AlertDesc_ConfirmLogout">Czy na pewno chcesz wylogować się z tego konta?\nWszystkie dane zostaną usunięte.</string>
     <string name="AlertTitle_PackageUpdate">Dostępna aktualizacja</string>
     <string name="AlertDesc_PackageUpdate">Jest dostępna aktualizacja dla tego Audioprzewodnika.\nCzy chcesz ją teraz pobrać?</string>
-    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="AlertDesc_PopMapDownloadSize">Całkowity rozmiar pobrania dla %s wynosi \n %sMb \n . Czy chcesz kontynuować pobieranie?</string>
     <string name="BtnTitle_Go">NAWIGUJ</string>
 </resources>

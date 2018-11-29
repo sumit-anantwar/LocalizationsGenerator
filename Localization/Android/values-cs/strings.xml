@@ -51,15 +51,15 @@
     <string name="AlertTitle_ConfirmCustomPointDelete">Odstranit vlastní bod</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Opravdu chcete odstranit vlastní bod?</string>
     <string name="Label_UserSettings_Distance_Title">Vzdálenost</string>
-    <string name="Label_UserSettings_Distance_Description">Vyberte způsob, jakým bude POPGuide měřit vzdálenosti na mapách</string>
+    <string name="Label_UserSettings_Distance_Description">Vyberte způsob, jakým bude %s měřit vzdálenosti na mapách</string>
     <string name="Label_UserSettings_Autoplay_Title">Automatické spuštění</string>
     <string name="Label_UserSettings_Autoplay_Description">Nastavte, zda chcete používat funkci automatického spouštění jako výchozí při používání aplikace</string>
     <string name="Label_UserSettings_Tutorial_Title">Průvodce</string>
     <string name="Label_UserSettings_Tutorial_Description">Nastavte, zda chcete, aby se při příštím spuštění aplikace zobrazil průvodce</string>
     <string name="Label_UserSettings_Privacy_Title">Upozornění o ochraně osobních údajů</string>
-    <string name="Label_UserSettings_Privacy_Description">Přečtěte si upozornění o ochraně osobních údajů při používání služeb POPGuide</string>
+    <string name="Label_UserSettings_Privacy_Description">Přečtěte si upozornění o ochraně osobních údajů při používání služeb %s</string>
     <string name="Label_UserSettings_Terms_Title">Podmínky služby</string>
-    <string name="Label_UserSettings_Terms_Description">Přečtěte si podmínky služby POPGuide</string>
+    <string name="Label_UserSettings_Terms_Description">Přečtěte si podmínky služby %s</string>
     <string name="Label_Distance_Miles">Míle</string>
     <string name="BtnTitle_DriveMeHere">Dovez mě sem</string>
     <string name="Label_Details">Podrobnosti</string>
@@ -83,9 +83,9 @@
     <string name="Alert_OutdoorMap_RouteCalculationFailed">Výpočet trasy selhal.</string>
     <string name="Alert_OutdoorMap_CurrentPositionUnavailable">Aktuální poloha není k dispozici.</string>
     <string name="AlertDesc_NavigationAbort">Probíhá navigace. Opravdu ji chcete ukončit a odejít?</string>
-    <string name="Label_Terms_Intro">Aplikaci POPGuide vytvořila společnost Vox, která respektuje vaše práva na informace o využití údajů o našich službách. Tímto souhlasíte a potvrzujete</string>
-    <string name="Label_Terms_Checkbox">Podmínky služby POPGuide</string>
-    <string name="Label_Privacy_Checkbox">Upozornění na ochranu osobních údajů služby POPGuide</string>
+    <string name="Label_Terms_Intro">Aplikaci %s vytvořila společnost Vox, která respektuje vaše práva na informace o využití údajů o našich službách. Tímto souhlasíte a potvrzujete</string>
+    <string name="Label_Terms_Checkbox">Podmínky služby %s</string>
+    <string name="Label_Privacy_Checkbox">Upozornění na ochranu osobních údajů služby %s</string>
     <string name="Label_Read">Přečetl/a</string>
     <string name="BtnTitle_Decline">ODMÍTNOUT</string>
     <string name="BtnTitle_Accept">PŘIJMOUT</string>
@@ -101,12 +101,12 @@
     <string name="Label_LanguageAlert">Pokud chcete změnit jazyk, odstraňte prosím mapu z oblasti účtu a stáhněte ji znovu</string>
     <string name="AlertTitle_BonVoyage">ŠŤASTNOU CESTU!</string>
     <string name="AlertDesc_BonVoyage">Služby místních průvodců z\n%s\njsou Vám plně k dispozici!</string>
-    <string name="AlertDesc_LocationPermission">Pro pokračování povolte služby určování polohy pro aplikace POPGuide, po povolení budete mít k dispozici mapy i v režimu offline bez poplatků za roaming.</string>
+    <string name="AlertDesc_LocationPermission">Pro pokračování povolte služby určování polohy pro aplikace %s, po povolení budete mít k dispozici mapy i v režimu offline bez poplatků za roaming.</string>
     <string name="AlertTitle_OutOfCityLimits">Mimo město</string>
     <string name="AlertTitle_ConfirmLogout">Odhlásit se?</string>
     <string name="AlertDesc_ConfirmLogout">Opravdu se chcete odhlásit z tohoto účtu?\nVeškeré souvísející Audioprůvodce budou smazaná!</string>
     <string name="AlertTitle_PackageUpdate">Obnovení k dispozici</string>
     <string name="AlertDesc_PackageUpdate">Je k dispozici obnovení pro tento Audioprůvodce .\nStáhnout nyní?</string>
-    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="AlertDesc_PopMapDownloadSize">Celková velikost  %s je \n %sMb \n . Chcete pokračovat ve stahování?</string>
     <string name="BtnTitle_Go">ZAČÍT</string>
 </resources>

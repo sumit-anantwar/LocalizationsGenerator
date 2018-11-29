@@ -51,15 +51,15 @@
     <string name="AlertTitle_ConfirmCustomPointDelete">Elimina punto personalizado</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">¿Realmente quieres borrar tu punto personalizado?</string>
     <string name="Label_UserSettings_Distance_Title">Distancia</string>
-    <string name="Label_UserSettings_Distance_Description">Elige cómo POPGuide mide las distancias en los mapas</string>
+    <string name="Label_UserSettings_Distance_Description">Elige cómo %s mide las distancias en los mapas</string>
     <string name="Label_UserSettings_Autoplay_Title">Auto-reproducción</string>
     <string name="Label_UserSettings_Autoplay_Description">Configúrelo si la función de reproducción automática debe estar habilitada de manera predeterminada al usar la aplicación</string>
     <string name="Label_UserSettings_Tutorial_Title">Tutoría</string>
     <string name="Label_UserSettings_Tutorial_Description">Configúrelo si el tutorial debe mostrarse en el próximo inicio</string>
     <string name="Label_UserSettings_Privacy_Title">Aviso de Privacidad</string>
-    <string name="Label_UserSettings_Privacy_Description">Lee el Aviso de Privacidad del Servicio POPGuide</string>
+    <string name="Label_UserSettings_Privacy_Description">Lee el Aviso de Privacidad del Servicio %s</string>
     <string name="Label_UserSettings_Terms_Title">Términos y Condiciones</string>
-    <string name="Label_UserSettings_Terms_Description">Lee los Términos y Condiciones del Servicio POPGuide</string>
+    <string name="Label_UserSettings_Terms_Description">Lee los Términos y Condiciones del Servicio %s</string>
     <string name="Label_Distance_Miles">Millas</string>
     <string name="BtnTitle_DriveMeHere">Traeme aqui</string>
     <string name="Label_Details">Detalles</string>
@@ -83,9 +83,9 @@
     <string name="Alert_OutdoorMap_RouteCalculationFailed">Cálculo de ruta ha fallado</string>
     <string name="Alert_OutdoorMap_CurrentPositionUnavailable">Posición actual no disponible</string>
     <string name="AlertDesc_NavigationAbort">La navegación está en curso. ¿De verdad quieres pararlo y salir?</string>
-    <string name="Label_Terms_Intro">POPGuide es creado por Vox que respeta su derecho a ser informado sobre el uso de los datos de nuestros servicios. Por la presente usted acepta y reconoce</string>
-    <string name="Label_Terms_Checkbox">Términos y condiciones del servicio POPGuide</string>
-    <string name="Label_Privacy_Checkbox">Aviso de privacidad del servicio POPGuide</string>
+    <string name="Label_Terms_Intro">%s es creado por Vox que respeta su derecho a ser informado sobre el uso de los datos de nuestros servicios. Por la presente usted acepta y reconoce</string>
+    <string name="Label_Terms_Checkbox">Términos y condiciones del servicio %s</string>
+    <string name="Label_Privacy_Checkbox">Aviso de privacidad del servicio %s</string>
     <string name="Label_Read">Lee</string>
     <string name="BtnTitle_Decline">DECLINA</string>
     <string name="BtnTitle_Accept">ACEPTA</string>
@@ -101,12 +101,12 @@
     <string name="Label_LanguageAlert">Si desea cambiar el idioma, elimine el mapa del área de la cuenta y descárguelo nuevamente</string>
     <string name="AlertTitle_BonVoyage">¡BUEN VIAJE!</string>
     <string name="AlertDesc_BonVoyage">¡Sus Tours personalizados \n%s\n ya están disponibles!</string>
-    <string name="AlertDesc_LocationPermission">Permita que PopGuide acceda a su ubicación para estar en modo offline y sin costes de roaming.</string>
+    <string name="AlertDesc_LocationPermission">Permita que %s acceda a su ubicación para estar en modo offline y sin costes de roaming.</string>
     <string name="AlertTitle_OutOfCityLimits">Fuera de los límites de la ciudad</string>
     <string name="AlertTitle_ConfirmLogout">¿Desea salir?</string>
     <string name="AlertDesc_ConfirmLogout">¿Desea salir de esta cuenta? \n¡Todas las Audioguías serán eliminadas!</string>
     <string name="AlertTitle_PackageUpdate">Actualización disponible</string>
     <string name="AlertDesc_PackageUpdate">Hay una actualización disponible.\n¿Descargar ahora?</string>
-    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
-    <string name="BtnTitle_Go">IR</string>
+    <string name="AlertDesc_PopMapDownloadSize">El tamaño total de descarga para %s es \n %sMB \n ¿Iniciar la descarga?</string>
+    <string name="BtnTitle_Go">Ir</string>
 </resources>

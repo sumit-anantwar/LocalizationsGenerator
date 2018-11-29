@@ -51,15 +51,15 @@
     <string name="AlertTitle_ConfirmCustomPointDelete">Удалить пользовательскую точку</string>
     <string name="AlertDesc_ConfirmCustomPointDelete">Вы действительно хотите удалить свою точку?</string>
     <string name="Label_UserSettings_Distance_Title">Расстояние</string>
-    <string name="Label_UserSettings_Distance_Description">Выберите, как POPGuide будет измерять расстояния на картах</string>
+    <string name="Label_UserSettings_Distance_Description">Выберите, как %s будет измерять расстояния на картах</string>
     <string name="Label_UserSettings_Autoplay_Title">Автовоспроизведение</string>
     <string name="Label_UserSettings_Autoplay_Description">Нажмите, если при использовании приложения вы хотите использовать функцию автовоспроизведения по умолчанию</string>
     <string name="Label_UserSettings_Tutorial_Title">Подсказки</string>
     <string name="Label_UserSettings_Tutorial_Description">Нажмите, если вы хотите, чтобы подсказки появились при следующем запуске</string>
     <string name="Label_UserSettings_Privacy_Title">Уведомление о конфиденциальности</string>
-    <string name="Label_UserSettings_Privacy_Description">Ознакомьтесь с уведомлением о конфиденциальности POPGuide</string>
+    <string name="Label_UserSettings_Privacy_Description">Ознакомьтесь с уведомлением о конфиденциальности %s</string>
     <string name="Label_UserSettings_Terms_Title">Условия использования</string>
-    <string name="Label_UserSettings_Terms_Description">Ознакомьтесь с положениями и условиями POPGuide</string>
+    <string name="Label_UserSettings_Terms_Description">Ознакомьтесь с положениями и условиями %s</string>
     <string name="Label_Distance_Miles">Мили</string>
     <string name="BtnTitle_DriveMeHere">Как добраться</string>
     <string name="Label_Details">Детали</string>
@@ -83,9 +83,9 @@
     <string name="Alert_OutdoorMap_RouteCalculationFailed">Сбой в расчете маршрута.</string>
     <string name="Alert_OutdoorMap_CurrentPositionUnavailable">Текущая позиция недоступна.</string>
     <string name="AlertDesc_NavigationAbort">Навигация продолжается. Вы действительно хотите прервать ее и выйти из программы?</string>
-    <string name="Label_Terms_Intro">POPGuide создан Vox, который уважает ваше право быть информированным об использовании данных наших пользователей. Настоящим вы принимаете и подтверждаете</string>
-    <string name="Label_Terms_Checkbox">Условия использования POPGuide</string>
-    <string name="Label_Privacy_Checkbox">Уведомление о конфиденциальности POPGuide</string>
+    <string name="Label_Terms_Intro">%s создан Vox, который уважает ваше право быть информированным об использовании данных наших пользователей. Настоящим вы принимаете и подтверждаете</string>
+    <string name="Label_Terms_Checkbox">Условия использования %s</string>
+    <string name="Label_Privacy_Checkbox">Уведомление о конфиденциальности %s</string>
     <string name="Label_Read">Читать</string>
     <string name="BtnTitle_Decline">ОТКЛОНИТЬ</string>
     <string name="BtnTitle_Accept">ПРИНЯТЬ</string>
@@ -101,12 +101,12 @@
     <string name="Label_LanguageAlert">Если вы хотите изменить язык, пожалуйста, загрузите карту заново, предварительно удалив ее из аккаунта</string>
     <string name="AlertTitle_BonVoyage">ХОРОШЕГО ПУТЕШЕСТВИЯ!</string>
     <string name="AlertDesc_BonVoyage">Услуги местных гидов из \n%s\n доступны для Вас уже сегодня!</string>
-    <string name="AlertDesc_LocationPermission">Для продолжения использования приложения включите сервис местоположения. Дальнейшая работа с приложением в режиме офлайн позволит Вам избежать затрат на роуминг</string>
+    <string name="AlertDesc_LocationPermission">Для продолжения использования, позвольте %s включить сервис местоположения. Дальнейшая работа с приложением в режиме офлайн позволит Вам избежать затрат на роуминг</string>
     <string name="AlertTitle_OutOfCityLimits">За пределами города</string>
     <string name="AlertTitle_ConfirmLogout">Выйти?</string>
     <string name="AlertDesc_ConfirmLogout">Вы действительно хотите выйти из учетной записи?\nПри этом все аудиогиды из нее будут удалены!</string>
     <string name="AlertTitle_PackageUpdate">Доступно обновление</string>
     <string name="AlertDesc_PackageUpdate">Доступно обновление для этого аудиотура. Хотите скачать его?</string>
-    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="AlertDesc_PopMapDownloadSize">Общий размер загрузки для %s - \n %sМб \n Вы хотите продолжить загрузку?</string>
     <string name="BtnTitle_Go">ВПЕРЕД</string>
 </resources>
