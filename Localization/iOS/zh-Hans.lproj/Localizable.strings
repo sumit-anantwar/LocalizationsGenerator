@@ -1,3 +1,4 @@
+"LanguageCode_API" = "6";
 "ScreenTitle_MyAccounts" = "我的账户";
 "BtnTitle_Skip" = "跳过";
 "BtnTitle_Allow" = "允许";
@@ -107,3 +108,6 @@
 "AlertDesc_PackageUpdate" = "此语音导览的更新可以下载。\n是否要立即下载？";
 "AlertDesc_PopMapDownloadSize" = "下载%@的体积为%@MB，确定下载？";
 "BtnTitle_Go" = "前去";
+"BtnTitle_Quit" = "退出";
+"BtnTitle_Update" = "更新";
+"AlertTitle_MandatoryAppUpdate" = "App Update Required";

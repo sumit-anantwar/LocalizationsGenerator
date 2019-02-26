@@ -1,3 +1,4 @@
+"LanguageCode_API" = "4";
 "ScreenTitle_MyAccounts" = "Mes comptes";
 "BtnTitle_Skip" = "Ignorer";
 "BtnTitle_Allow" = "Autoriser";
@@ -107,3 +108,6 @@
 "AlertDesc_PackageUpdate" = "Une mise à jour est disponible.\n Souhaitez-vous la télécharger dès à présent?";
 "AlertDesc_PopMapDownloadSize" = "La taille totale de téléchargement pour %@ est \n %@MB \n Voulez-vous continuer le téléchargement?";
 "BtnTitle_Go" = "Aller";
+"BtnTitle_Quit" = "Quitter";
+"BtnTitle_Update" = "Mettre à jour";
+"AlertTitle_MandatoryAppUpdate" = "Mise à jour de l'appli requise";

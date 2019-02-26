@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">23</string>
     <string name="ScreenTitle_MyAccounts">मेरा खाता</string>
     <string name="BtnTitle_Skip">छोड़ें</string>
     <string name="BtnTitle_Allow">अनुमति दें</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">इस ऑडीओगाइड के लिए एक अद्यतन डाउनलोड के लिए उपलब्ध है। \nक्या आप इसे अभी डाउनलोड करना चाहते हैं?</string>
     <string name="AlertDesc_PopMapDownloadSize">%s के लिए कुल डाउनलोड का परिमाण \n %sMB \n है क्या आप डाउनलोड जारी करना चाहते हैं?</string>
     <string name="BtnTitle_Go">चलो</string>
+    <string name="BtnTitle_Quit">Quit</string>
+    <string name="BtnTitle_Update">Update</string>
+    <string name="AlertTitle_MandatoryAppUpdate">ऐप अपडेट आवश्यक है</string>
 </resources>

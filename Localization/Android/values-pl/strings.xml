@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">7</string>
     <string name="ScreenTitle_MyAccounts">MOJE KONTA</string>
     <string name="BtnTitle_Skip">Pomiń</string>
     <string name="BtnTitle_Allow">Zezwόl</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">Jest dostępna aktualizacja dla tego Audioprzewodnika.\nCzy chcesz ją teraz pobrać?</string>
     <string name="AlertDesc_PopMapDownloadSize">Całkowity rozmiar pobrania dla %s wynosi \n %sMb \n . Czy chcesz kontynuować pobieranie?</string>
     <string name="BtnTitle_Go">NAWIGUJ</string>
+    <string name="BtnTitle_Quit">Wyjdź</string>
+    <string name="BtnTitle_Update">Aktualizuj</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
 </resources>

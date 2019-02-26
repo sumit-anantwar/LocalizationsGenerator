@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">4</string>
     <string name="ScreenTitle_MyAccounts">Mes comptes</string>
     <string name="BtnTitle_Skip">Ignorer</string>
     <string name="BtnTitle_Allow">Autoriser</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">Une mise à jour est disponible.\n Souhaitez-vous la télécharger dès à présent?</string>
     <string name="AlertDesc_PopMapDownloadSize">La taille totale de téléchargement pour %s est \n %sMB \n Voulez-vous continuer le téléchargement?</string>
     <string name="BtnTitle_Go">Aller</string>
+    <string name="BtnTitle_Quit">Quitter</string>
+    <string name="BtnTitle_Update">Mettre à jour</string>
+    <string name="AlertTitle_MandatoryAppUpdate">Mise à jour de l\'appli requise</string>
 </resources>

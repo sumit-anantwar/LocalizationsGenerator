@@ -1,3 +1,4 @@
+"LanguageCode_API" = "16";
 "ScreenTitle_MyAccounts" = "MOJE UŽIVATELSKÉ ÚČTY";
 "BtnTitle_Skip" = "Přeskočit";
 "BtnTitle_Allow" = "Povolit";
@@ -107,3 +108,6 @@
 "AlertDesc_PackageUpdate" = "Je k dispozici obnovení pro tento Audioprůvodce .\nStáhnout nyní?";
 "AlertDesc_PopMapDownloadSize" = "Celková velikost  %@ je \n %@Mb \n . Chcete pokračovat ve stahování?";
 "BtnTitle_Go" = "ZAČÍT";
+"BtnTitle_Quit" = "Odejít";
+"BtnTitle_Update" = "Obnovit";
+"AlertTitle_MandatoryAppUpdate" = "App Update Required";

@@ -1,3 +1,4 @@
+"LanguageCode_API" = "11";
 "ScreenTitle_MyAccounts" = "내 계정";
 "BtnTitle_Skip" = "건너뛰기";
 "BtnTitle_Allow" = "허용";
@@ -107,3 +108,6 @@
 "AlertDesc_PackageUpdate" = "오디오 가이드의 업데이트를 다운로드 할 수 있습니다. \n 지금 다운로드하시겠습니까?";
 "AlertDesc_PopMapDownloadSize" = "%@의 총 다운로드 용량은 %@입니다. 다운로드를 계속하시겠습니까?";
 "BtnTitle_Go" = "가기";
+"BtnTitle_Quit" = "나가기";
+"BtnTitle_Update" = "업데이트";
+"AlertTitle_MandatoryAppUpdate" = "App Update Required";

@@ -1,3 +1,4 @@
+"LanguageCode_API" = "3";
 "ScreenTitle_MyAccounts" = "Mis cuentas";
 "BtnTitle_Skip" = "Omitir";
 "BtnTitle_Allow" = "Permitir";
@@ -107,3 +108,6 @@
 "AlertDesc_PackageUpdate" = "Hay una actualización disponible.\n¿Descargar ahora?";
 "AlertDesc_PopMapDownloadSize" = "El tamaño total de descarga para %@ es \n %@MB \n ¿Iniciar la descarga?";
 "BtnTitle_Go" = "Ir";
+"BtnTitle_Quit" = "Salir";
+"BtnTitle_Update" = "Actualizar";
+"AlertTitle_MandatoryAppUpdate" = "Actualización de la App requerida";

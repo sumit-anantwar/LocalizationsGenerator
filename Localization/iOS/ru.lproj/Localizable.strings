@@ -1,3 +1,4 @@
+"LanguageCode_API" = "8";
 "ScreenTitle_MyAccounts" = "МОИ УЧЕТНЫЕ ЗАПИСИ";
 "BtnTitle_Skip" = "Пропустить";
 "BtnTitle_Allow" = "Разрешить";
@@ -107,3 +108,6 @@
 "AlertDesc_PackageUpdate" = "Доступно обновление для этого аудиотура. Хотите скачать его?";
 "AlertDesc_PopMapDownloadSize" = "Общий размер загрузки для %@ - \n %@Мб \n Вы хотите продолжить загрузку?";
 "BtnTitle_Go" = "ВПЕРЕД";
+"BtnTitle_Quit" = "Выйти";
+"BtnTitle_Update" = "Обновить";
+"AlertTitle_MandatoryAppUpdate" = "Необходимо обновление приложения";

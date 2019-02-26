@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">1</string>
     <string name="ScreenTitle_MyAccounts">I MIEI ACCOUNT</string>
     <string name="BtnTitle_Skip">Salta</string>
     <string name="BtnTitle_Allow">Autorizza</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">È disponibile un aggiornamento di questa Audioguida.\nVuoi scaricarlo adesso?</string>
     <string name="AlertDesc_PopMapDownloadSize">La dimensione totale del download per %s è \n %sMB \n Vuoi procedere con il download?</string>
     <string name="BtnTitle_Go">Vai</string>
+    <string name="BtnTitle_Quit">Esci</string>
+    <string name="BtnTitle_Update">Aggiorna</string>
+    <string name="AlertTitle_MandatoryAppUpdate">Aggiornamento della App necessario</string>
 </resources>

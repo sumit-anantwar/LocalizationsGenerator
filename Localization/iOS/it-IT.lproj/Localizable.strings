@@ -1,3 +1,4 @@
+"LanguageCode_API" = "1";
 "ScreenTitle_MyAccounts" = "I MIEI ACCOUNT";
 "BtnTitle_Skip" = "Salta";
 "BtnTitle_Allow" = "Autorizza";
@@ -107,3 +108,6 @@
 "AlertDesc_PackageUpdate" = "È disponibile un aggiornamento di questa Audioguida.\nVuoi scaricarlo adesso?";
 "AlertDesc_PopMapDownloadSize" = "La dimensione totale del download per %@ è \n %@MB \n Vuoi procedere con il download?";
 "BtnTitle_Go" = "Vai";
+"BtnTitle_Quit" = "Esci";
+"BtnTitle_Update" = "Aggiorna";
+"AlertTitle_MandatoryAppUpdate" = "Aggiornamento della App necessario";

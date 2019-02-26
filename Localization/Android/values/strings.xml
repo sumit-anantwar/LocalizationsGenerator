@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">2</string>
     <string name="ScreenTitle_MyAccounts">MY ACCOUNTS</string>
     <string name="BtnTitle_Skip">Skip</string>
     <string name="BtnTitle_Allow">Allow</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">An update for this Audioguide is available for download.\nDo you want to download it now?</string>
     <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
     <string name="BtnTitle_Go">Go</string>
+    <string name="BtnTitle_Quit">Quit</string>
+    <string name="BtnTitle_Update">Update</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
 </resources>

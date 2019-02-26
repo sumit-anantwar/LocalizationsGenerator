@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">10</string>
     <string name="ScreenTitle_MyAccounts">マイアカウント</string>
     <string name="BtnTitle_Skip">スキップ</string>
     <string name="BtnTitle_Allow">承諾</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">オーディオガイドの更新が可能です。\n今すぐダウンロードしますか？</string>
     <string name="AlertDesc_PopMapDownloadSize">%s のダウンロードサイズは計 \n %s \n です。ダウンロードを続けますか？</string>
     <string name="BtnTitle_Go">進め</string>
+    <string name="BtnTitle_Quit">終了</string>
+    <string name="BtnTitle_Update">更新</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
 </resources>

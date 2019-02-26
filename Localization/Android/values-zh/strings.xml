@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">6</string>
     <string name="ScreenTitle_MyAccounts">我的账户</string>
     <string name="BtnTitle_Skip">跳过</string>
     <string name="BtnTitle_Allow">允许</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">此语音导览的更新可以下载。\n是否要立即下载？</string>
     <string name="AlertDesc_PopMapDownloadSize">下载%s的体积为%sMB，确定下载？</string>
     <string name="BtnTitle_Go">前去</string>
+    <string name="BtnTitle_Quit">退出</string>
+    <string name="BtnTitle_Update">更新</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
 </resources>

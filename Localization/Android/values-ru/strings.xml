@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">8</string>
     <string name="ScreenTitle_MyAccounts">МОИ УЧЕТНЫЕ ЗАПИСИ</string>
     <string name="BtnTitle_Skip">Пропустить</string>
     <string name="BtnTitle_Allow">Разрешить</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">Доступно обновление для этого аудиотура. Хотите скачать его?</string>
     <string name="AlertDesc_PopMapDownloadSize">Общий размер загрузки для %s - \n %sМб \n Вы хотите продолжить загрузку?</string>
     <string name="BtnTitle_Go">ВПЕРЕД</string>
+    <string name="BtnTitle_Quit">Выйти</string>
+    <string name="BtnTitle_Update">Обновить</string>
+    <string name="AlertTitle_MandatoryAppUpdate">Необходимо обновление приложения</string>
 </resources>

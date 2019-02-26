@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">3</string>
     <string name="ScreenTitle_MyAccounts">Mis cuentas</string>
     <string name="BtnTitle_Skip">Omitir</string>
     <string name="BtnTitle_Allow">Permitir</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">Hay una actualización disponible.\n¿Descargar ahora?</string>
     <string name="AlertDesc_PopMapDownloadSize">El tamaño total de descarga para %s es \n %sMB \n ¿Iniciar la descarga?</string>
     <string name="BtnTitle_Go">Ir</string>
+    <string name="BtnTitle_Quit">Salir</string>
+    <string name="BtnTitle_Update">Actualizar</string>
+    <string name="AlertTitle_MandatoryAppUpdate">Actualización de la App requerida</string>
 </resources>

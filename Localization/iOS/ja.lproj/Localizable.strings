@@ -1,3 +1,4 @@
+"LanguageCode_API" = "10";
 "ScreenTitle_MyAccounts" = "マイアカウント";
 "BtnTitle_Skip" = "スキップ";
 "BtnTitle_Allow" = "承諾";
@@ -107,3 +108,6 @@
 "AlertDesc_PackageUpdate" = "オーディオガイドの更新が可能です。\n今すぐダウンロードしますか？";
 "AlertDesc_PopMapDownloadSize" = "%@ のダウンロードサイズは計 \n %@ \n です。ダウンロードを続けますか？";
 "BtnTitle_Go" = "進め";
+"BtnTitle_Quit" = "終了";
+"BtnTitle_Update" = "更新";
+"AlertTitle_MandatoryAppUpdate" = "App Update Required";

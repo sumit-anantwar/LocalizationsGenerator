@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">16</string>
     <string name="ScreenTitle_MyAccounts">MOJE UŽIVATELSKÉ ÚČTY</string>
     <string name="BtnTitle_Skip">Přeskočit</string>
     <string name="BtnTitle_Allow">Povolit</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">Je k dispozici obnovení pro tento Audioprůvodce .\nStáhnout nyní?</string>
     <string name="AlertDesc_PopMapDownloadSize">Celková velikost  %s je \n %sMb \n . Chcete pokračovat ve stahování?</string>
     <string name="BtnTitle_Go">ZAČÍT</string>
+    <string name="BtnTitle_Quit">Odejít</string>
+    <string name="BtnTitle_Update">Obnovit</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
 </resources>

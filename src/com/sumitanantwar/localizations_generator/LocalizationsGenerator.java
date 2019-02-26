@@ -45,7 +45,7 @@ public class LocalizationsGenerator {
         {
             File baseFolder = new File("Localization");
 
-            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V15.xlsx"));
+            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V16.xlsx"));
 
             //Create Workbook instance holding reference to .xlsx file
             XSSFWorkbook workbook = new XSSFWorkbook(file);
@@ -93,7 +93,8 @@ public class LocalizationsGenerator {
                         }
                         else { // if (cell.getCellType() == Cell.CELL_TYPE_STRING) {
                             if (iosMap.containsKey(column)) {
-                                String value = cell.getStringCellValue().trim();
+                                int cellType = cell.getCellType();
+                                String value = (cellType == 0) ? ("" + ((int)cell.getNumericCellValue())) : cell.getStringCellValue().trim();
                                 value = value.replace("\"", "'"); // Replace all the Quotes Ticks with an Apostrophe
                                 value = value.replace("’", "'"); // Replace all the Back Ticks with an Apostrophe
                                 value = value.replace("…", "..."); // Replace ellipsis character with three dots

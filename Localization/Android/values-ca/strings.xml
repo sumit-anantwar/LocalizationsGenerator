@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="LanguageCode_API">22</string>
     <string name="ScreenTitle_MyAccounts">Els meus comptes</string>
     <string name="BtnTitle_Skip">Omet</string>
     <string name="BtnTitle_Allow">Permetre</string>
@@ -109,4 +110,7 @@
     <string name="AlertDesc_PackageUpdate">Hi ha una actualització disponible.\n¿Descargar ara?</string>
     <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
     <string name="BtnTitle_Go">Anar</string>
+    <string name="BtnTitle_Quit">Sortir</string>
+    <string name="BtnTitle_Update">Actualitzar</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
 </resources>
