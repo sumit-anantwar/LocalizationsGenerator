@@ -97,6 +97,7 @@
     <string name="Label_PopMapTutorial_MapList">街の全ての目的地及び星印付き地点一覧を見るにはここをクリックしてください</string>
     <string name="Label_PopMapTutorial_Autoplay">オートプレイモードを起動させるにはここをクリックしてください。目的地近くに来たら音声ガイドが自動的に開始します。このモードを停止させるにはもう一度クリックしてください</string>
     <string name="Label_PopMapTutorial_Overflow">より詳しい情報、機能についてはここをクリックしてください。</string>
+    <string name="Label_PopMapTutorial_Camera">Click here to snap your timeless memories!</string>
     <string name="BtnTitle_Save">保存する</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">次回起動時にチュートリアルを表示しますか。</string>
     <string name="Label_LanguageAlert">言語を変更したい場合は、アカウントページからマップを削除し、再ダウンロードして下さい</string>
@@ -113,4 +114,21 @@
     <string name="BtnTitle_Quit">終了</string>
     <string name="BtnTitle_Update">更新</string>
     <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
+    <string name="UserPoiName_Hint">Add custom point name...</string>
+    <string name="UserPoiDescription_Hint">Add custom point description...\n(optional)</string>
+    <string name="Toast_Login_QR_Code_Invalid">Scanned QR code is invalid</string>
+    <string name="Alert_Title_Attention">Attention</string>
+    <string name="Label_AccountPopMap_Calculating">Calculating...</string>
+    <string name="Error_Network_Unknown">Unknown Error</string>
+    <string name="Error_Network_Failed_download">Unknown error. Failed to download Maps</string>
+    <string name="Label_UserSettings_TensorFlow_Title">Camera object recognition</string>
+    <string name="Label_UserSettings_TensorFlow_Description">Set if the camera must be enabled as default while using app</string>
+    <string name="Label_CameraTF_Dialog_AddPersonalPoint">Add Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Add to an existing Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Share">Share</string>
+    <string name="Label_CameraTF_Dialog_Title_PersonalPoint">Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Discard">Discard</string>
+    <string name="Label_CameraTF_Dialog_Save">Save</string>
+    <string name="Label_CameraTF_Dialog_Type_Name">type the name...</string>
+    <string name="Label_CameraTF_Title_Recognizing">Recognizing works of art...</string>
 </resources>

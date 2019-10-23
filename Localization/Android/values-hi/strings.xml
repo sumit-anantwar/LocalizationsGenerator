@@ -97,6 +97,7 @@
     <string name="Label_PopMapTutorial_MapList">शहर के ब्याज और स्टार पॉइंट्स की पूरी सूची देखने के लिए यहां क्लिक करें</string>
     <string name="Label_PopMapTutorial_Autoplay">ऑटो-प्ले मोड को सक्रिय करने के लिए यहां क्लिक करें। जब आप रुचि के बिंदु के नजदीक में होते हैं तो ऑडियो कमेंट्री स्वचालित रूप से शुरू होने के लिए ट्रिगर की जाएगी। इस मोड को निष्क्रिय करने के लिए फिर से क्लिक करें</string>
     <string name="Label_PopMapTutorial_Overflow">आगे की युक्तियों और विशेषताओं के लिए यहां क्लिक करें</string>
+    <string name="Label_PopMapTutorial_Camera">Click here to snap your timeless memories!</string>
     <string name="BtnTitle_Save">Save</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
     <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
@@ -112,5 +113,22 @@
     <string name="BtnTitle_Go">चलो</string>
     <string name="BtnTitle_Quit">Quit</string>
     <string name="BtnTitle_Update">Update</string>
-    <string name="AlertTitle_MandatoryAppUpdate">ऐप अपडेट आवश्यक है</string>
+    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
+    <string name="UserPoiName_Hint">Add custom point name...</string>
+    <string name="UserPoiDescription_Hint">Add custom point description...\n(optional)</string>
+    <string name="Toast_Login_QR_Code_Invalid">Scanned QR code is invalid</string>
+    <string name="Alert_Title_Attention">Attention</string>
+    <string name="Label_AccountPopMap_Calculating">Calculating...</string>
+    <string name="Error_Network_Unknown">Unknown Error</string>
+    <string name="Error_Network_Failed_download">Unknown error. Failed to download Maps</string>
+    <string name="Label_UserSettings_TensorFlow_Title">Camera object recognition</string>
+    <string name="Label_UserSettings_TensorFlow_Description">Set if the camera must be enabled as default while using app</string>
+    <string name="Label_CameraTF_Dialog_AddPersonalPoint">Add Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Add to an existing Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Share">Share</string>
+    <string name="Label_CameraTF_Dialog_Title_PersonalPoint">Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Discard">Discard</string>
+    <string name="Label_CameraTF_Dialog_Save">Save</string>
+    <string name="Label_CameraTF_Dialog_Type_Name">type the name...</string>
+    <string name="Label_CameraTF_Title_Recognizing">Recognizing works of art...</string>
 </resources>

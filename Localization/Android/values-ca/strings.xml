@@ -97,6 +97,7 @@
     <string name="Label_PopMapTutorial_MapList">Click here to see the full list of the city\'s points of interest and star points.</string>
     <string name="Label_PopMapTutorial_Autoplay">Click here to activate the auto-play mode. When you are in the near vicinity of a point of interest the audio commentary will be triggered to start automatically. Click again to deactivate this mode.</string>
     <string name="Label_PopMapTutorial_Overflow">Click here for further tips and features.</string>
+    <string name="Label_PopMapTutorial_Camera">Click here to snap your timeless memories!</string>
     <string name="BtnTitle_Save">Save</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Show the Tutorial at the next launch?</string>
     <string name="Label_LanguageAlert">If you want to change language, please delete the map from the account area and download it again</string>
@@ -110,7 +111,24 @@
     <string name="AlertDesc_PackageUpdate">Hi ha una actualització disponible.\n¿Descargar ara?</string>
     <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
     <string name="BtnTitle_Go">Anar</string>
-    <string name="BtnTitle_Quit">Sortir</string>
-    <string name="BtnTitle_Update">Actualitzar</string>
+    <string name="BtnTitle_Quit">Quit</string>
+    <string name="BtnTitle_Update">Update</string>
     <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
+    <string name="UserPoiName_Hint">Add custom point name...</string>
+    <string name="UserPoiDescription_Hint">Add custom point description...\n(optional)</string>
+    <string name="Toast_Login_QR_Code_Invalid">Scanned QR code is invalid</string>
+    <string name="Alert_Title_Attention">Attention</string>
+    <string name="Label_AccountPopMap_Calculating">Calculating...</string>
+    <string name="Error_Network_Unknown">Unknown Error</string>
+    <string name="Error_Network_Failed_download">Unknown error. Failed to download Maps</string>
+    <string name="Label_UserSettings_TensorFlow_Title">Camera object recognition</string>
+    <string name="Label_UserSettings_TensorFlow_Description">Set if the camera must be enabled as default while using app</string>
+    <string name="Label_CameraTF_Dialog_AddPersonalPoint">Add Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Add to an existing Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Share">Share</string>
+    <string name="Label_CameraTF_Dialog_Title_PersonalPoint">Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Discard">Discard</string>
+    <string name="Label_CameraTF_Dialog_Save">Save</string>
+    <string name="Label_CameraTF_Dialog_Type_Name">type the name...</string>
+    <string name="Label_CameraTF_Title_Recognizing">Recognizing works of art...</string>
 </resources>

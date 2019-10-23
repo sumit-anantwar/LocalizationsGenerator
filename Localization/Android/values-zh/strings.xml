@@ -97,6 +97,7 @@
     <string name="Label_PopMapTutorial_MapList">戳此处查看城市所有景点和星标完整列表</string>
     <string name="Label_PopMapTutorial_Autoplay">戳此处切换自动播放模式，当靠近景点时，对应的语音讲解将自动播放。</string>
     <string name="Label_PopMapTutorial_Overflow">戳此处了解更多提示和功能</string>
+    <string name="Label_PopMapTutorial_Camera">Click here to snap your timeless memories!</string>
     <string name="BtnTitle_Save">保存</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">下次打开显示教程吗？</string>
     <string name="Label_LanguageAlert">如想更换语言，请在帐户后台删除地图后，回到主页可重新选择语言下载</string>
@@ -112,5 +113,22 @@
     <string name="BtnTitle_Go">前去</string>
     <string name="BtnTitle_Quit">退出</string>
     <string name="BtnTitle_Update">更新</string>
-    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
+    <string name="AlertTitle_MandatoryAppUpdate">应用程序需要更新</string>
+    <string name="UserPoiName_Hint">添加自定义图钉名称...</string>
+    <string name="UserPoiDescription_Hint">添加自定义图钉描述...\n(可选)</string>
+    <string name="Toast_Login_QR_Code_Invalid">扫描的二维码无效</string>
+    <string name="Alert_Title_Attention">注意</string>
+    <string name="Label_AccountPopMap_Calculating">计算中...</string>
+    <string name="Error_Network_Unknown">未知错误</string>
+    <string name="Error_Network_Failed_download">未知错误 无法下载地图</string>
+    <string name="Label_UserSettings_TensorFlow_Title">相机对象识别</string>
+    <string name="Label_UserSettings_TensorFlow_Description">设置使用应用程序时默认启用相机</string>
+    <string name="Label_CameraTF_Dialog_AddPersonalPoint">添加个人星标</string>
+    <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">添加到已有的个人星标</string>
+    <string name="Label_CameraTF_Dialog_Share">分享</string>
+    <string name="Label_CameraTF_Dialog_Title_PersonalPoint">个人星标</string>
+    <string name="Label_CameraTF_Dialog_Discard">忽略</string>
+    <string name="Label_CameraTF_Dialog_Save">保存</string>
+    <string name="Label_CameraTF_Dialog_Type_Name">输入名称...</string>
+    <string name="Label_CameraTF_Title_Recognizing">艺术作品识别中...</string>
 </resources>

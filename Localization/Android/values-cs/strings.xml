@@ -97,6 +97,7 @@
     <string name="Label_PopMapTutorial_MapList">Kliknutím sem zobrazíte úplný seznam zajímavých bodů a bodů s hvězdičkami ve městě</string>
     <string name="Label_PopMapTutorial_Autoplay">Kliknutím sem aktivujete režim automatického přehrávání. Když se ocitnete v blízkém okolí místa zájmu, dojde k automatickému spuštění zvukového komentáře. Opětovným kliknutím tento režim deaktivujete</string>
     <string name="Label_PopMapTutorial_Overflow">Další tipy a funkce naleznete zde</string>
+    <string name="Label_PopMapTutorial_Camera">Click here to snap your timeless memories!</string>
     <string name="BtnTitle_Save">Uložit</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Chcete zobrazit výukový kurz při příštím spuštění?</string>
     <string name="Label_LanguageAlert">Pokud chcete změnit jazyk, odstraňte prosím mapu z oblasti účtu a stáhněte ji znovu</string>
@@ -110,7 +111,24 @@
     <string name="AlertDesc_PackageUpdate">Je k dispozici obnovení pro tento Audioprůvodce .\nStáhnout nyní?</string>
     <string name="AlertDesc_PopMapDownloadSize">Celková velikost  %s je \n %sMb \n . Chcete pokračovat ve stahování?</string>
     <string name="BtnTitle_Go">ZAČÍT</string>
-    <string name="BtnTitle_Quit">Odejít</string>
-    <string name="BtnTitle_Update">Obnovit</string>
+    <string name="BtnTitle_Quit">Quit</string>
+    <string name="BtnTitle_Update">Update</string>
     <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
+    <string name="UserPoiName_Hint">Add custom point name...</string>
+    <string name="UserPoiDescription_Hint">Add custom point description...\n(optional)</string>
+    <string name="Toast_Login_QR_Code_Invalid">Scanned QR code is invalid</string>
+    <string name="Alert_Title_Attention">Attention</string>
+    <string name="Label_AccountPopMap_Calculating">Calculating...</string>
+    <string name="Error_Network_Unknown">Unknown Error</string>
+    <string name="Error_Network_Failed_download">Unknown error. Failed to download Maps</string>
+    <string name="Label_UserSettings_TensorFlow_Title">Camera object recognition</string>
+    <string name="Label_UserSettings_TensorFlow_Description">Set if the camera must be enabled as default while using app</string>
+    <string name="Label_CameraTF_Dialog_AddPersonalPoint">Add Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Add to an existing Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Share">Share</string>
+    <string name="Label_CameraTF_Dialog_Title_PersonalPoint">Personal Point</string>
+    <string name="Label_CameraTF_Dialog_Discard">Discard</string>
+    <string name="Label_CameraTF_Dialog_Save">Save</string>
+    <string name="Label_CameraTF_Dialog_Type_Name">type the name...</string>
+    <string name="Label_CameraTF_Title_Recognizing">Recognizing works of art...</string>
 </resources>

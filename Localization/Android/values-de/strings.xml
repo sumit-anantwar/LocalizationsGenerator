@@ -97,6 +97,7 @@
     <string name="Label_PopMapTutorial_MapList">Klicken Sie hier, um die vollständige Liste der Sehenswürdigkeiten und Stern-Orte der Stadt zu sehen</string>
     <string name="Label_PopMapTutorial_Autoplay">Klicken Sie hier, um den Autoplay-Modus zu aktivieren. Wenn Sie sich in der Nähe eines interessanten Ortes befinden, wird der Audiokommentar automatisch gestartet. Klicken Sie erneut, um diesen Modus zu deaktivieren</string>
     <string name="Label_PopMapTutorial_Overflow">Klicken Sie hier, um weitere Tipps und Funktionen zu erhalten</string>
+    <string name="Label_PopMapTutorial_Camera">Click here to snap your timeless memories!</string>
     <string name="BtnTitle_Save">Speichern</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">Das Tutorial beim nächsten Start anzeigen?</string>
     <string name="Label_LanguageAlert">Wenn Sie die Sprache ändern möchten, löschen Sie bitte die Karte aus dem Kontobereich und laden Sie sie erneut herunter</string>
@@ -113,4 +114,21 @@
     <string name="BtnTitle_Quit">Schließen</string>
     <string name="BtnTitle_Update">Aktualisieren</string>
     <string name="AlertTitle_MandatoryAppUpdate">App-Aktualisierung erforderlich</string>
+    <string name="UserPoiName_Hint">Namen für Meine Orte hinzufügen .....</string>
+    <string name="UserPoiDescription_Hint">Beschreibung für Meine Orte hinzufügen.../n (optional)</string>
+    <string name="Toast_Login_QR_Code_Invalid">Der gescannte QR-Code is ungültig.</string>
+    <string name="Alert_Title_Attention">Achtung</string>
+    <string name="Label_AccountPopMap_Calculating">In Bearbeitung...</string>
+    <string name="Error_Network_Unknown">Unbekannter Fehler</string>
+    <string name="Error_Network_Failed_download">Karten herunterladen</string>
+    <string name="Label_UserSettings_TensorFlow_Title">Fotokamera Objekterkennung</string>
+    <string name="Label_UserSettings_TensorFlow_Description">Aktivieren Sie diese Funktion, wenn Zugriff auf die Kamera während der App-Nutzung standardgemäß freigegeben werden soll</string>
+    <string name="Label_CameraTF_Dialog_AddPersonalPoint">Lieblingsort hinzufügen</string>
+    <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Zu einem schon bestehenden Lieblingsort hinzufügen</string>
+    <string name="Label_CameraTF_Dialog_Share">Teilen</string>
+    <string name="Label_CameraTF_Dialog_Title_PersonalPoint">Lieblingsort</string>
+    <string name="Label_CameraTF_Dialog_Discard">Verwerfen</string>
+    <string name="Label_CameraTF_Dialog_Save">Speichern</string>
+    <string name="Label_CameraTF_Dialog_Type_Name">Namen eingeben</string>
+    <string name="Label_CameraTF_Title_Recognizing">Kunstwerke erkennen</string>
 </resources>

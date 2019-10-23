@@ -97,6 +97,7 @@
     <string name="Label_PopMapTutorial_MapList">Haga clic aquí para ver la lista completa de los puntos de interés y los starpoints de la ciudad</string>
     <string name="Label_PopMapTutorial_Autoplay">Haga clic aquí para activar el modo de reproducción automática. Cuando se encuentre cerca de un punto de interés, los comentarios de audio se activarán para que se inicien automáticamente. Haga clic de nuevo para desactivar este modo</string>
     <string name="Label_PopMapTutorial_Overflow">Haga clic aquí para obtener más consejos y características</string>
+    <string name="Label_PopMapTutorial_Camera">Click here to snap your timeless memories!</string>
     <string name="BtnTitle_Save">Guarda</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">¿Mostrar el tutorial en el próximo lanzamiento?</string>
     <string name="Label_LanguageAlert">Si desea cambiar el idioma, elimine el mapa del área de la cuenta y descárguelo nuevamente</string>
@@ -113,4 +114,21 @@
     <string name="BtnTitle_Quit">Salir</string>
     <string name="BtnTitle_Update">Actualizar</string>
     <string name="AlertTitle_MandatoryAppUpdate">Actualización de la App requerida</string>
+    <string name="UserPoiName_Hint">Añadir un punto personalizado</string>
+    <string name="UserPoiDescription_Hint">Añadir la descripción del punto personalizado..\n (opcional)</string>
+    <string name="Toast_Login_QR_Code_Invalid">QR escaneado inválido</string>
+    <string name="Alert_Title_Attention">¡Atención!</string>
+    <string name="Label_AccountPopMap_Calculating">Calculando...</string>
+    <string name="Error_Network_Unknown">Error desconocido</string>
+    <string name="Error_Network_Failed_download">Error desconocido. Error al descargar el mapa</string>
+    <string name="Label_UserSettings_TensorFlow_Title">Reconocimiento de objetos a través de la cámara</string>
+    <string name="Label_UserSettings_TensorFlow_Description">Establezca si la cámara debe estar habilitada por defecto mientras usa la aplicación</string>
+    <string name="Label_CameraTF_Dialog_AddPersonalPoint">Añade un punto personal</string>
+    <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Añade un punto personal existente</string>
+    <string name="Label_CameraTF_Dialog_Share">Comparte</string>
+    <string name="Label_CameraTF_Dialog_Title_PersonalPoint">Punto personal</string>
+    <string name="Label_CameraTF_Dialog_Discard">Ignora</string>
+    <string name="Label_CameraTF_Dialog_Save">Guarda</string>
+    <string name="Label_CameraTF_Dialog_Type_Name">Escribe el nombre...</string>
+    <string name="Label_CameraTF_Title_Recognizing">Reconociendo las obras de arte...</string>
 </resources>
