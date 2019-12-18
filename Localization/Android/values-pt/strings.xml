@@ -109,7 +109,7 @@
     <string name="AlertDesc_ConfirmLogout">Você deseja realmente sair dessa conta?\n Todos os Audioguides relacionados também serão removidos!</string>
     <string name="AlertTitle_PackageUpdate">Atualização disponível</string>
     <string name="AlertDesc_PackageUpdate">Há uma atualização disponível.\n Você deseja baixa-la agora?</string>
-    <string name="AlertDesc_PopMapDownloadSize">A tamanho total do download para %s é \n %sMb \n . Deseja continuar a fazer o download?</string>
+    <string name="AlertDesc_PopMapDownloadSize">A tamanho total do download para %1$s é \n %2$sMb \n . Deseja continuar a fazer o download?</string>
     <string name="BtnTitle_Go">Ir</string>
     <string name="BtnTitle_Quit">Sair</string>
     <string name="BtnTitle_Update">Atualizar</string>
@@ -121,8 +121,8 @@
     <string name="Label_AccountPopMap_Calculating">Calculating...</string>
     <string name="Error_Network_Unknown">Unknown Error</string>
     <string name="Error_Network_Failed_download">Unknown error. Failed to download Maps</string>
-    <string name="Label_UserSettings_TensorFlow_Title">Camera object recognition</string>
-    <string name="Label_UserSettings_TensorFlow_Description">Set if the camera must be enabled as default while using app</string>
+    <string name="Label_UserSettings_TensorFlow_Title">Reconhecimento de objeto através da câmara</string>
+    <string name="Label_UserSettings_TensorFlow_Description">Ative a câmara padrão para usar a aplicação</string>
     <string name="Label_CameraTF_Dialog_AddPersonalPoint">Add Personal Point</string>
     <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Add to an existing Personal Point</string>
     <string name="Label_CameraTF_Dialog_Share">Share</string>
@@ -131,4 +131,14 @@
     <string name="Label_CameraTF_Dialog_Save">Save</string>
     <string name="Label_CameraTF_Dialog_Type_Name">type the name...</string>
     <string name="Label_CameraTF_Title_Recognizing">Recognizing works of art...</string>
+    <string name="Label_FullLight_DowloadMap">Descarregar o mapa</string>
+    <string name="Label_FullLight_MapModeChoice">To continue, define which of the following types of map suites better your needs.</string>
+    <string name="Label_Full">Full</string>
+    <string name="Label_Light">Light</string>
+    <string name="Label_FullLight_DownloadFull">Descarregue o mapa completo [FULL MAP] (%s MB) e use-o mesmo quando não tiver acesso à Internet</string>
+    <string name="Label_FullLight_DownloadLight">Descarregue o mapa limitado [LIGHT MAP] (%s MB). É essencial ter uma boa ligação à Internet</string>
+    <string name="BtnTitle_ClearCache">Clear cache</string>
+    <string name="BtnTitle_GoFull">Go full</string>
+    <string name="Label_New">Novo</string>
+    <string name="Label_Account">Account</string>
 </resources>

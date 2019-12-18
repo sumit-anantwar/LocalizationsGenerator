@@ -109,7 +109,7 @@
     <string name="AlertDesc_ConfirmLogout">Möchten Sie sich wirklich abmelden?\nAllem mit diesem Benutzerkonto verbundenen Audioguides werden entfernt</string>
     <string name="AlertTitle_PackageUpdate">Update verfügbar</string>
     <string name="AlertDesc_PackageUpdate">Es ist eine Aktualisierung für diesen Audioguide verfügbar.\nJetzt herunterladen?</string>
-    <string name="AlertDesc_PopMapDownloadSize">Die Gesamtgröße des Herunterladens für %s beträgt \n %sMB \n Möchten Sie das Herunterladen fortsetzen?</string>
+    <string name="AlertDesc_PopMapDownloadSize">Die Gesamtgröße des Herunterladens für %1$s beträgt \n %2$sMB \n Möchten Sie das Herunterladen fortsetzen?</string>
     <string name="BtnTitle_Go">Route</string>
     <string name="BtnTitle_Quit">Schließen</string>
     <string name="BtnTitle_Update">Aktualisieren</string>
@@ -131,4 +131,14 @@
     <string name="Label_CameraTF_Dialog_Save">Speichern</string>
     <string name="Label_CameraTF_Dialog_Type_Name">Namen eingeben</string>
     <string name="Label_CameraTF_Title_Recognizing">Kunstwerke erkennen</string>
+    <string name="Label_FullLight_DowloadMap">Laden Sie die Karte herunter</string>
+    <string name="Label_FullLight_MapModeChoice">Um fortzufahren, wählen Sie aus, welche der folgenden Kartentypen Ihren Bedürfnissen am besten entspricht</string>
+    <string name="Label_Full">Full</string>
+    <string name="Label_Light">Light</string>
+    <string name="Label_FullLight_DownloadFull">Laden Sie den FULL MAP-Inhalt (%s MB) herunter und verwenden Sie ihn, auch wenn Sie offline sind</string>
+    <string name="Label_FullLight_DownloadLight">Laden Sie den LIGHT MAP-Inhalt herunter (%s MB). Es ist wichtig, eine gute Internetverbindung zu haben</string>
+    <string name="BtnTitle_ClearCache">Clear cache</string>
+    <string name="BtnTitle_GoFull">Go full</string>
+    <string name="Label_New">Neu</string>
+    <string name="Label_Account">Account</string>
 </resources>

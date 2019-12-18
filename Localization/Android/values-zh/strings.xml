@@ -109,7 +109,7 @@
     <string name="AlertDesc_ConfirmLogout">您真的要从此账号退出吗？\n 所有相关的语音导览也将被清除</string>
     <string name="AlertTitle_PackageUpdate">可更新</string>
     <string name="AlertDesc_PackageUpdate">此语音导览的更新可以下载。\n是否要立即下载？</string>
-    <string name="AlertDesc_PopMapDownloadSize">下载%s的体积为%sMB，确定下载？</string>
+    <string name="AlertDesc_PopMapDownloadSize">下载%1$s的体积为%2$sMB，确定下载？</string>
     <string name="BtnTitle_Go">前去</string>
     <string name="BtnTitle_Quit">退出</string>
     <string name="BtnTitle_Update">更新</string>
@@ -131,4 +131,14 @@
     <string name="Label_CameraTF_Dialog_Save">保存</string>
     <string name="Label_CameraTF_Dialog_Type_Name">输入名称...</string>
     <string name="Label_CameraTF_Title_Recognizing">艺术作品识别中...</string>
+    <string name="Label_FullLight_DowloadMap">下载地图</string>
+    <string name="Label_FullLight_MapModeChoice">请选择地图并继续</string>
+    <string name="Label_Full">Full</string>
+    <string name="Label_Light">Light</string>
+    <string name="Label_FullLight_DownloadFull">下载完整（％s MB）地图内容，离线也可以使用</string>
+    <string name="Label_FullLight_DownloadLight">下载（％s MB）LIGHT地图的内容，请保持良好的网络连接</string>
+    <string name="BtnTitle_ClearCache">清除缓存</string>
+    <string name="BtnTitle_GoFull">Go Full</string>
+    <string name="Label_New">新</string>
+    <string name="Label_Account">Account</string>
 </resources>

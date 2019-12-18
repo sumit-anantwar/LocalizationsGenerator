@@ -129,3 +129,13 @@
 "Label_CameraTF_Dialog_Save" = "Save";
 "Label_CameraTF_Dialog_Type_Name" = "type the name...";
 "Label_CameraTF_Title_Recognizing" = "Recognizing works of art...";
+"Label_FullLight_DowloadMap" = "Download the Map";
+"Label_FullLight_MapModeChoice" = "To continue, define which of the following types of map suites better your needs.";
+"Label_Full" = "Full";
+"Label_Light" = "Light";
+"Label_FullLight_DownloadFull" = "Download the full map contents (%@ MB) and use it even while you\'re offline.";
+"Label_FullLight_DownloadLight" = "Download the main contents only (%@ MB) and get further data while  browsing.";
+"BtnTitle_ClearCache" = "Clear cache";
+"BtnTitle_GoFull" = "Go full";
+"Label_New" = "New";
+"Label_Account" = "Account";

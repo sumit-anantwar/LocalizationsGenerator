@@ -109,7 +109,7 @@
     <string name="AlertDesc_ConfirmLogout">Вы действительно хотите выйти из учетной записи?\nПри этом все аудиогиды из нее будут удалены!</string>
     <string name="AlertTitle_PackageUpdate">Доступно обновление</string>
     <string name="AlertDesc_PackageUpdate">Доступно обновление для этого аудиотура. Хотите скачать его?</string>
-    <string name="AlertDesc_PopMapDownloadSize">Общий размер загрузки для %s - \n %sМб \n Вы хотите продолжить загрузку?</string>
+    <string name="AlertDesc_PopMapDownloadSize">Общий размер загрузки для %1$s - \n %2$sМб \n Вы хотите продолжить загрузку?</string>
     <string name="BtnTitle_Go">ВПЕРЕД</string>
     <string name="BtnTitle_Quit">Выйти</string>
     <string name="BtnTitle_Update">Обновить</string>
@@ -121,8 +121,8 @@
     <string name="Label_AccountPopMap_Calculating">Calculating...</string>
     <string name="Error_Network_Unknown">Unknown Error</string>
     <string name="Error_Network_Failed_download">Unknown error. Failed to download Maps</string>
-    <string name="Label_UserSettings_TensorFlow_Title">Camera object recognition</string>
-    <string name="Label_UserSettings_TensorFlow_Description">Set if the camera must be enabled as default while using app</string>
+    <string name="Label_UserSettings_TensorFlow_Title">Распознавание объекта камерой</string>
+    <string name="Label_UserSettings_TensorFlow_Description">Включите камеру по умолчанию, чтобы использовать приложение</string>
     <string name="Label_CameraTF_Dialog_AddPersonalPoint">Add Personal Point</string>
     <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Add to an existing Personal Point</string>
     <string name="Label_CameraTF_Dialog_Share">Share</string>
@@ -131,4 +131,14 @@
     <string name="Label_CameraTF_Dialog_Save">Save</string>
     <string name="Label_CameraTF_Dialog_Type_Name">type the name...</string>
     <string name="Label_CameraTF_Title_Recognizing">Recognizing works of art...</string>
+    <string name="Label_FullLight_DowloadMap">Загрузить карту</string>
+    <string name="Label_FullLight_MapModeChoice">To continue, define which of the following types of map suites better your needs.</string>
+    <string name="Label_Full">Full</string>
+    <string name="Label_Light">Light</string>
+    <string name="Label_FullLight_DownloadFull">Загрузить содержимое ВСЕЙ КАРТЫ (FULL MAP) (%s MB) и использовать его даже тогда, когда у вас нет подключения к сети</string>
+    <string name="Label_FullLight_DownloadLight">Скачать содержимое «ОБЛЕГЧЕННОЙ КАРТЫ » (LIGHT MAP) (%s MB). Важно иметь хорошее подключение к Интернету</string>
+    <string name="BtnTitle_ClearCache">Clear cache</string>
+    <string name="BtnTitle_GoFull">Go full</string>
+    <string name="Label_New">Новая</string>
+    <string name="Label_Account">Account</string>
 </resources>

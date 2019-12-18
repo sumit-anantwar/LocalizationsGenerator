@@ -129,3 +129,13 @@
 "Label_CameraTF_Dialog_Save" = "保存";
 "Label_CameraTF_Dialog_Type_Name" = "输入名称...";
 "Label_CameraTF_Title_Recognizing" = "艺术作品识别中...";
+"Label_FullLight_DowloadMap" = "下载地图";
+"Label_FullLight_MapModeChoice" = "请选择地图并继续";
+"Label_Full" = "Full";
+"Label_Light" = "Light";
+"Label_FullLight_DownloadFull" = "下载完整（％s MB）地图内容，离线也可以使用";
+"Label_FullLight_DownloadLight" = "下载（％s MB）LIGHT地图的内容，请保持良好的网络连接";
+"BtnTitle_ClearCache" = "清除缓存";
+"BtnTitle_GoFull" = "Go Full";
+"Label_New" = "新";
+"Label_Account" = "Account";

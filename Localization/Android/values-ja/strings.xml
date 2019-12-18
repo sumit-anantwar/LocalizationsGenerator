@@ -109,7 +109,7 @@
     <string name="AlertDesc_ConfirmLogout">このアカウントから本当にログアウトしますか？\n関連するすべてのオーディオガイドも削除されます！</string>
     <string name="AlertTitle_PackageUpdate">更新可能</string>
     <string name="AlertDesc_PackageUpdate">オーディオガイドの更新が可能です。\n今すぐダウンロードしますか？</string>
-    <string name="AlertDesc_PopMapDownloadSize">%s のダウンロードサイズは計 \n %s \n です。ダウンロードを続けますか？</string>
+    <string name="AlertDesc_PopMapDownloadSize">%1$s のダウンロードサイズは計 \n %2$s \n です。ダウンロードを続けますか？</string>
     <string name="BtnTitle_Go">進め</string>
     <string name="BtnTitle_Quit">終了</string>
     <string name="BtnTitle_Update">更新</string>
@@ -121,8 +121,8 @@
     <string name="Label_AccountPopMap_Calculating">Calculating...</string>
     <string name="Error_Network_Unknown">Unknown Error</string>
     <string name="Error_Network_Failed_download">Unknown error. Failed to download Maps</string>
-    <string name="Label_UserSettings_TensorFlow_Title">Camera object recognition</string>
-    <string name="Label_UserSettings_TensorFlow_Description">Set if the camera must be enabled as default while using app</string>
+    <string name="Label_UserSettings_TensorFlow_Title">カメラの物体認識</string>
+    <string name="Label_UserSettings_TensorFlow_Description">デフォルトのカメラによるアプリの使用を有効にする</string>
     <string name="Label_CameraTF_Dialog_AddPersonalPoint">Add Personal Point</string>
     <string name="Label_CameraTF_Dialog_Title_AddExistingPersonalPoint">Add to an existing Personal Point</string>
     <string name="Label_CameraTF_Dialog_Share">Share</string>
@@ -131,4 +131,14 @@
     <string name="Label_CameraTF_Dialog_Save">Save</string>
     <string name="Label_CameraTF_Dialog_Type_Name">type the name...</string>
     <string name="Label_CameraTF_Title_Recognizing">Recognizing works of art...</string>
+    <string name="Label_FullLight_DowloadMap">マップをダウンロードする</string>
+    <string name="Label_FullLight_MapModeChoice">続けるには、以下の中からよりご自身のニーズに合ったマップのタイプを選んでください。</string>
+    <string name="Label_Full">Full</string>
+    <string name="Label_Light">Light</string>
+    <string name="Label_FullLight_DownloadFull">フルマップ (FULL MAP) コンテンツ (%s MB) をダウンロードし、オフラインの時も使用しましょう。</string>
+    <string name="Label_FullLight_DownloadLight">ライトマップ (LIGHT MAP) コンテンツ (%s MB) をダウンロードします。良好なインターネット接続が必要です。</string>
+    <string name="BtnTitle_ClearCache">Clear cache</string>
+    <string name="BtnTitle_GoFull">Go full</string>
+    <string name="Label_New">新しい</string>
+    <string name="Label_Account">Account</string>
 </resources>

@@ -129,3 +129,13 @@
 "Label_CameraTF_Dialog_Save" = "Sauvegarder";
 "Label_CameraTF_Dialog_Type_Name" = "Ecrivez le nom";
 "Label_CameraTF_Title_Recognizing" = "Reconnaître les œuvres d'art ...";
+"Label_FullLight_DowloadMap" = "Télécharge la carte";
+"Label_FullLight_MapModeChoice" = "Pour continuer, selectionne celle qui, entre les suivants catégories de cartes, mieux répond à vos besoins.";
+"Label_Full" = "Full";
+"Label_Light" = "Light";
+"Label_FullLight_DownloadFull" = "Télécharge le contenu de la carte full (%@ MB) et l'utilise hors connexion.";
+"Label_FullLight_DownloadLight" = "Télécharge le contenu de la carte light (%@ MB). Il faut une bonne connexion à internet.";
+"BtnTitle_ClearCache" = "Clear cache";
+"BtnTitle_GoFull" = "Go full";
+"Label_New" = "Nouveau";
+"Label_Account" = "Account";

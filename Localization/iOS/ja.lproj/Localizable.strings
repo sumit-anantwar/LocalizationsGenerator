@@ -119,8 +119,8 @@
 "Label_AccountPopMap_Calculating" = "Calculating...";
 "Error_Network_Unknown" = "Unknown Error";
 "Error_Network_Failed_download" = "Unknown error. Failed to download Maps";
-"Label_UserSettings_TensorFlow_Title" = "Camera object recognition";
-"Label_UserSettings_TensorFlow_Description" = "Set if the camera must be enabled as default while using app";
+"Label_UserSettings_TensorFlow_Title" = "カメラの物体認識";
+"Label_UserSettings_TensorFlow_Description" = "デフォルトのカメラによるアプリの使用を有効にする";
 "Label_CameraTF_Dialog_AddPersonalPoint" = "Add Personal Point";
 "Label_CameraTF_Dialog_Title_AddExistingPersonalPoint" = "Add to an existing Personal Point";
 "Label_CameraTF_Dialog_Share" = "Share";
@@ -129,3 +129,13 @@
 "Label_CameraTF_Dialog_Save" = "Save";
 "Label_CameraTF_Dialog_Type_Name" = "type the name...";
 "Label_CameraTF_Title_Recognizing" = "Recognizing works of art...";
+"Label_FullLight_DowloadMap" = "マップをダウンロードする";
+"Label_FullLight_MapModeChoice" = "続けるには、以下の中からよりご自身のニーズに合ったマップのタイプを選んでください。";
+"Label_Full" = "Full";
+"Label_Light" = "Light";
+"Label_FullLight_DownloadFull" = "フルマップ (FULL MAP) コンテンツ (%@ MB) をダウンロードし、オフラインの時も使用しましょう。";
+"Label_FullLight_DownloadLight" = "ライトマップ (LIGHT MAP) コンテンツ (%@ MB) をダウンロードします。良好なインターネット接続が必要です。";
+"BtnTitle_ClearCache" = "Clear cache";
+"BtnTitle_GoFull" = "Go full";
+"Label_New" = "新しい";
+"Label_Account" = "Account";

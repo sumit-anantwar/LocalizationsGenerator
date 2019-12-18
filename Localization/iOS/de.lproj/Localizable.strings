@@ -129,3 +129,13 @@
 "Label_CameraTF_Dialog_Save" = "Speichern";
 "Label_CameraTF_Dialog_Type_Name" = "Namen eingeben";
 "Label_CameraTF_Title_Recognizing" = "Kunstwerke erkennen";
+"Label_FullLight_DowloadMap" = "Laden Sie die Karte herunter";
+"Label_FullLight_MapModeChoice" = "Um fortzufahren, wählen Sie aus, welche der folgenden Kartentypen Ihren Bedürfnissen am besten entspricht";
+"Label_Full" = "Full";
+"Label_Light" = "Light";
+"Label_FullLight_DownloadFull" = "Laden Sie den FULL MAP-Inhalt (%@ MB) herunter und verwenden Sie ihn, auch wenn Sie offline sind";
+"Label_FullLight_DownloadLight" = "Laden Sie den LIGHT MAP-Inhalt herunter (%@ MB). Es ist wichtig, eine gute Internetverbindung zu haben";
+"BtnTitle_ClearCache" = "Clear cache";
+"BtnTitle_GoFull" = "Go full";
+"Label_New" = "Neu";
+"Label_Account" = "Account";

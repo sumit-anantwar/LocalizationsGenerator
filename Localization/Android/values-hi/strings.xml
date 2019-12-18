@@ -109,7 +109,7 @@
     <string name="AlertDesc_ConfirmLogout">क्या आप वास्तव में इस खाते से लॉगआउट करना चाहते हैं? \nसभी संबंधित ऑडियो गाइड भी हटा दिए जाएंगे!</string>
     <string name="AlertTitle_PackageUpdate">अपडेट उपलब्ध</string>
     <string name="AlertDesc_PackageUpdate">इस ऑडीओगाइड के लिए एक अद्यतन डाउनलोड के लिए उपलब्ध है। \nक्या आप इसे अभी डाउनलोड करना चाहते हैं?</string>
-    <string name="AlertDesc_PopMapDownloadSize">%s के लिए कुल डाउनलोड का परिमाण \n %sMB \n है क्या आप डाउनलोड जारी करना चाहते हैं?</string>
+    <string name="AlertDesc_PopMapDownloadSize">%1$s के लिए कुल डाउनलोड का परिमाण \n %2$sMB \n है क्या आप डाउनलोड जारी करना चाहते हैं?</string>
     <string name="BtnTitle_Go">चलो</string>
     <string name="BtnTitle_Quit">Quit</string>
     <string name="BtnTitle_Update">Update</string>
@@ -131,4 +131,14 @@
     <string name="Label_CameraTF_Dialog_Save">Save</string>
     <string name="Label_CameraTF_Dialog_Type_Name">type the name...</string>
     <string name="Label_CameraTF_Title_Recognizing">Recognizing works of art...</string>
+    <string name="Label_FullLight_DowloadMap">Download the Map</string>
+    <string name="Label_FullLight_MapModeChoice">To continue, define which of the following types of map suites better your needs.</string>
+    <string name="Label_Full">Full</string>
+    <string name="Label_Light">Light</string>
+    <string name="Label_FullLight_DownloadFull">Download the full map contents (%s MB) and use it even while you\\'re offline.</string>
+    <string name="Label_FullLight_DownloadLight">Download the main contents only (%s MB) and get further data while  browsing.</string>
+    <string name="BtnTitle_ClearCache">Clear cache</string>
+    <string name="BtnTitle_GoFull">Go full</string>
+    <string name="Label_New">New</string>
+    <string name="Label_Account">Account</string>
 </resources>

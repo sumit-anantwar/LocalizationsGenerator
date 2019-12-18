@@ -109,7 +109,7 @@
     <string name="AlertDesc_ConfirmLogout">La déconnexion supprimera toutes les données téléchargées pour ce compte!</string>
     <string name="AlertTitle_PackageUpdate">Mise à jour disponible</string>
     <string name="AlertDesc_PackageUpdate">Une mise à jour est disponible.\n Souhaitez-vous la télécharger dès à présent?</string>
-    <string name="AlertDesc_PopMapDownloadSize">La taille totale de téléchargement pour %s est \n %sMB \n Voulez-vous continuer le téléchargement?</string>
+    <string name="AlertDesc_PopMapDownloadSize">La taille totale de téléchargement pour %1$s est \n %2$sMB \n Voulez-vous continuer le téléchargement?</string>
     <string name="BtnTitle_Go">Aller</string>
     <string name="BtnTitle_Quit">Quitter</string>
     <string name="BtnTitle_Update">Mettre à jour</string>
@@ -131,4 +131,14 @@
     <string name="Label_CameraTF_Dialog_Save">Sauvegarder</string>
     <string name="Label_CameraTF_Dialog_Type_Name">Ecrivez le nom</string>
     <string name="Label_CameraTF_Title_Recognizing">Reconnaître les œuvres d\'art ...</string>
+    <string name="Label_FullLight_DowloadMap">Télécharge la carte</string>
+    <string name="Label_FullLight_MapModeChoice">Pour continuer, selectionne celle qui, entre les suivants catégories de cartes, mieux répond à vos besoins.</string>
+    <string name="Label_Full">Full</string>
+    <string name="Label_Light">Light</string>
+    <string name="Label_FullLight_DownloadFull">Télécharge le contenu de la carte full (%s MB) et l\'utilise hors connexion.</string>
+    <string name="Label_FullLight_DownloadLight">Télécharge le contenu de la carte light (%s MB). Il faut une bonne connexion à internet.</string>
+    <string name="BtnTitle_ClearCache">Clear cache</string>
+    <string name="BtnTitle_GoFull">Go full</string>
+    <string name="Label_New">Nouveau</string>
+    <string name="Label_Account">Account</string>
 </resources>
