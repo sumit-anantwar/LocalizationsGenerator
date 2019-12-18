@@ -109,8 +109,8 @@
 "AlertDesc_PackageUpdate" = "Je k dispozici obnovení pro tento Audioprůvodce .\nStáhnout nyní?";
 "AlertDesc_PopMapDownloadSize" = "Celková velikost  %@ je \n %@Mb \n . Chcete pokračovat ve stahování?";
 "BtnTitle_Go" = "ZAČÍT";
-"BtnTitle_Quit" = "Quit";
-"BtnTitle_Update" = "Update";
+"BtnTitle_Quit" = "Odejít";
+"BtnTitle_Update" = "Obnovit";
 "AlertTitle_MandatoryAppUpdate" = "App Update Required";
 "UserPoiName_Hint" = "Add custom point name...";
 "UserPoiDescription_Hint" = "Add custom point description...\n(optional)";

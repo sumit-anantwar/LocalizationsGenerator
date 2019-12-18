@@ -109,8 +109,8 @@
 "AlertDesc_PackageUpdate" = "Hi ha una actualització disponible.\n¿Descargar ara?";
 "AlertDesc_PopMapDownloadSize" = "The total download size for %@ is \n %@MB \n Do you want to continue downloading?";
 "BtnTitle_Go" = "Anar";
-"BtnTitle_Quit" = "Quit";
-"BtnTitle_Update" = "Update";
+"BtnTitle_Quit" = "Sortir";
+"BtnTitle_Update" = "Actualitzar";
 "AlertTitle_MandatoryAppUpdate" = "App Update Required";
 "UserPoiName_Hint" = "Add custom point name...";
 "UserPoiDescription_Hint" = "Add custom point description...\n(optional)";

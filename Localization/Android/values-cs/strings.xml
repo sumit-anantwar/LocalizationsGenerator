@@ -111,8 +111,8 @@
     <string name="AlertDesc_PackageUpdate">Je k dispozici obnovení pro tento Audioprůvodce .\nStáhnout nyní?</string>
     <string name="AlertDesc_PopMapDownloadSize">Celková velikost  %1$s je \n %2$sMb \n . Chcete pokračovat ve stahování?</string>
     <string name="BtnTitle_Go">ZAČÍT</string>
-    <string name="BtnTitle_Quit">Quit</string>
-    <string name="BtnTitle_Update">Update</string>
+    <string name="BtnTitle_Quit">Odejít</string>
+    <string name="BtnTitle_Update">Obnovit</string>
     <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
     <string name="UserPoiName_Hint">Add custom point name...</string>
     <string name="UserPoiDescription_Hint">Add custom point description...\n(optional)</string>

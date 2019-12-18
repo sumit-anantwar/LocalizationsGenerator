@@ -113,7 +113,7 @@
     <string name="BtnTitle_Go">चलो</string>
     <string name="BtnTitle_Quit">Quit</string>
     <string name="BtnTitle_Update">Update</string>
-    <string name="AlertTitle_MandatoryAppUpdate">App Update Required</string>
+    <string name="AlertTitle_MandatoryAppUpdate">ऐप अपडेट आवश्यक है</string>
     <string name="UserPoiName_Hint">Add custom point name...</string>
     <string name="UserPoiDescription_Hint">Add custom point description...\n(optional)</string>
     <string name="Toast_Login_QR_Code_Invalid">Scanned QR code is invalid</string>

@@ -111,7 +111,7 @@
 "BtnTitle_Go" = "चलो";
 "BtnTitle_Quit" = "Quit";
 "BtnTitle_Update" = "Update";
-"AlertTitle_MandatoryAppUpdate" = "App Update Required";
+"AlertTitle_MandatoryAppUpdate" = "ऐप अपडेट आवश्यक है";
 "UserPoiName_Hint" = "Add custom point name...";
 "UserPoiDescription_Hint" = "Add custom point description...\n(optional)";
 "Toast_Login_QR_Code_Invalid" = "Scanned QR code is invalid";
