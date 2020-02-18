@@ -112,8 +112,6 @@
 "BtnTitle_Quit" = "إنهاء";
 "BtnTitle_Update" = "تحديث";
 "AlertTitle_MandatoryAppUpdate" = "تحديث التطبيق مطلوب";
-"UserPoiName_Hint" = "إضافة اسم نقطة مخصص ...";
-"UserPoiDescription_Hint" = "إضافة وصف نقطة مخصص ...\n(اختياري)";
 "Toast_Login_QR_Code_Invalid" = "رمز الاستجابة السريعة الممسوحة ضوئيًا غير صالح";
 "Alert_Title_Attention" = "انتباه";
 "Label_AccountPopMap_Calculating" = "جار الحساب ...";

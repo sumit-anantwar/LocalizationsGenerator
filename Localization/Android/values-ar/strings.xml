@@ -114,8 +114,6 @@
     <string name="BtnTitle_Quit">إنهاء</string>
     <string name="BtnTitle_Update">تحديث</string>
     <string name="AlertTitle_MandatoryAppUpdate">تحديث التطبيق مطلوب</string>
-    <string name="UserPoiName_Hint">إضافة اسم نقطة مخصص ...</string>
-    <string name="UserPoiDescription_Hint">إضافة وصف نقطة مخصص ...\n(اختياري)</string>
     <string name="Toast_Login_QR_Code_Invalid">رمز الاستجابة السريعة الممسوحة ضوئيًا غير صالح</string>
     <string name="Alert_Title_Attention">انتباه</string>
     <string name="Label_AccountPopMap_Calculating">جار الحساب ...</string>
