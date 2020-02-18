@@ -37,6 +37,7 @@ public class LocalizationsGenerator {
         iosMap.put("cs", "cs");
         iosMap.put("ca", "ca");
         iosMap.put("hi", "hi-IN");
+        iosMap.put("ar", "ar");
     }
 
     public static void main(String[] args)
@@ -45,7 +46,7 @@ public class LocalizationsGenerator {
         {
             File baseFolder = new File("Localization");
 
-            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V19.xlsx"));
+            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V20.xlsx"));
 
             //Create Workbook instance holding reference to .xlsx file
             XSSFWorkbook workbook = new XSSFWorkbook(file);
