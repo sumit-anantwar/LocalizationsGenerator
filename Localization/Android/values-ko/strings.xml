@@ -39,7 +39,7 @@
     <string name="Error_transport_map_unsupported_format">교통 맵을 보여드릴 수 없습니다: 지원되지 않는 포맷</string>
     <string name="Label_Unit_Km">킬로미터</string>
     <string name="Label_Unit_Miles">마일</string>
-    <string name="Label_TapQRCode">탭하여 QR코드를 스캔하세요</string>
+    <string name="Label_TapQRCode">QR 코드 스캔</string>
     <string name="AlertDesc_BarcodeDecodingError">에러: 스캔된 바코드 해독 불가. 인증정보를 수동으로 입력해 주세요</string>
     <string name="BtnTitle_Enter">입력</string>
     <string name="ScreenTitle_Home">나의 지도</string>
@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">%s 서비스 개인정보 고지를 읽어주세요</string>
     <string name="Label_UserSettings_Terms_Title">약관</string>
     <string name="Label_UserSettings_Terms_Description">%s 서비스 양관을 읽어주세요</string>
-    <string name="Label_Distance_Miles">마일</string>
     <string name="BtnTitle_DriveMeHere">여기로 운전해 주세요</string>
     <string name="Label_Details">상세</string>
     <string name="Search_Hint">포인트 및 깃발 필터링</string>
@@ -109,7 +108,7 @@
     <string name="AlertDesc_ConfirmLogout">이 계정에서 정말 로그아웃하시겠습니까? \n 관련된 오디오 가이드도 모두 제거됩니다.</string>
     <string name="AlertTitle_PackageUpdate">업데이트 사용 가능</string>
     <string name="AlertDesc_PackageUpdate">오디오 가이드의 업데이트를 다운로드 할 수 있습니다. \n 지금 다운로드하시겠습니까?</string>
-    <string name="AlertDesc_PopMapDownloadSize">%s의 총 다운로드 용량은 %s입니다. 다운로드를 계속하시겠습니까?</string>
+    <string name="AlertDesc_PopMapDownloadSize">%1$s의 총 다운로드 용량은 %2$s입니다. 다운로드를 계속하시겠습니까?</string>
     <string name="BtnTitle_Go">가기</string>
     <string name="BtnTitle_Quit">나가기</string>
     <string name="BtnTitle_Update">업데이트</string>
@@ -140,4 +139,17 @@
     <string name="Label_New">신규</string>
     <string name="Label_Account">Account</string>
     <string name="Label_UserSettings_Legal_Issues">Legal issues</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
 </resources>

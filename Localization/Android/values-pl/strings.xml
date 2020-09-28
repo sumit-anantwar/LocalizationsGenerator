@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">Przeczytaj Politykę prywatności serwisu %s</string>
     <string name="Label_UserSettings_Terms_Title">Warunki</string>
     <string name="Label_UserSettings_Terms_Description">Przeczytaj Warunki serwisu %s</string>
-    <string name="Label_Distance_Miles">Mile</string>
     <string name="BtnTitle_DriveMeHere">Przywieź mnie tu</string>
     <string name="Label_Details">Szczegóły</string>
     <string name="Search_Hint">Filtruj punkty i flagi</string>
@@ -109,7 +108,7 @@
     <string name="AlertDesc_ConfirmLogout">Czy na pewno chcesz wylogować się z tego konta?\nWszystkie dane zostaną usunięte.</string>
     <string name="AlertTitle_PackageUpdate">Dostępna aktualizacja</string>
     <string name="AlertDesc_PackageUpdate">Jest dostępna aktualizacja dla tego Audioprzewodnika.\nCzy chcesz ją teraz pobrać?</string>
-    <string name="AlertDesc_PopMapDownloadSize">Całkowity rozmiar pobrania dla %s wynosi \n %sMb \n . Czy chcesz kontynuować pobieranie?</string>
+    <string name="AlertDesc_PopMapDownloadSize">Całkowity rozmiar pobrania dla %1$s wynosi \n %2$sMb \n . Czy chcesz kontynuować pobieranie?</string>
     <string name="BtnTitle_Go">NAWIGUJ</string>
     <string name="BtnTitle_Quit">Wyjdź</string>
     <string name="BtnTitle_Update">Aktualizuj</string>
@@ -140,4 +139,17 @@
     <string name="Label_New">Nowa</string>
     <string name="Label_Account">Account</string>
     <string name="Label_UserSettings_Legal_Issues">Legal issues</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
 </resources>

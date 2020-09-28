@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">阅读%s服务隐私声明</string>
     <string name="Label_UserSettings_Terms_Title">条款和条件</string>
     <string name="Label_UserSettings_Terms_Description">阅读%s服务的条款和条件</string>
-    <string name="Label_Distance_Miles">英里</string>
     <string name="BtnTitle_DriveMeHere">目的地</string>
     <string name="Label_Details">详情</string>
     <string name="Search_Hint">景点和星标搜索</string>
@@ -109,7 +108,7 @@
     <string name="AlertDesc_ConfirmLogout">您真的要从此账号退出吗？\n 所有相关的语音导览也将被清除</string>
     <string name="AlertTitle_PackageUpdate">可更新</string>
     <string name="AlertDesc_PackageUpdate">此语音导览的更新可以下载。\n是否要立即下载？</string>
-    <string name="AlertDesc_PopMapDownloadSize">下载%s的体积为%sMB，确定下载？</string>
+    <string name="AlertDesc_PopMapDownloadSize">下载%1$s的体积为%2$sMB，确定下载？</string>
     <string name="BtnTitle_Go">前去</string>
     <string name="BtnTitle_Quit">退出</string>
     <string name="BtnTitle_Update">更新</string>
@@ -140,4 +139,17 @@
     <string name="Label_New">新</string>
     <string name="Label_Account">Account</string>
     <string name="Label_UserSettings_Legal_Issues">Legal issues</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
 </resources>

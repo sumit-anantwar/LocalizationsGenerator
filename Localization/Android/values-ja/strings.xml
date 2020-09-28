@@ -39,7 +39,7 @@
     <string name="Error_transport_map_unsupported_format">トランスポートマップを表示できません。サポートされていないフォーマットです。</string>
     <string name="Label_Unit_Km">キロメートル</string>
     <string name="Label_Unit_Miles">マイル</string>
-    <string name="Label_TapQRCode">タップしてQRコードをスキャンしてください</string>
+    <string name="Label_TapQRCode">qrコードをスキャン</string>
     <string name="AlertDesc_BarcodeDecodingError">エラー：スキャンされたバーコードを解読することができません。認証情報を直接入力してください</string>
     <string name="BtnTitle_Enter">入力</string>
     <string name="ScreenTitle_Home">マイマップ</string>
@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">%sドサービスのプライバシーポリシーをお読みください</string>
     <string name="Label_UserSettings_Terms_Title">利用規約</string>
     <string name="Label_UserSettings_Terms_Description">%sドサービスの利用規約をお読みください</string>
-    <string name="Label_Distance_Miles">マイル</string>
     <string name="BtnTitle_DriveMeHere">ここまでガイドする</string>
     <string name="Label_Details">詳細</string>
     <string name="Search_Hint">地点と目印の検索条件を追加する</string>
@@ -90,7 +89,7 @@
     <string name="Label_Read">読む</string>
     <string name="BtnTitle_Decline">拒否</string>
     <string name="BtnTitle_Accept">承認</string>
-    <string name="BtnTitle_Dismiss">退会</string>
+    <string name="BtnTitle_Dismiss">閉じる</string>
     <string name="Label_PopMapTutorial_Pois">マップ上のすべての目的地を見て行き方を知るにはここをクリックしてください</string>
     <string name="Label_PopMapTutorial_FlagPoints">マップ上のすべての星印付き地点を見て行き方を知るにはここをクリックしてください</string>
     <string name="Label_PopMapTutorial_Path">提案されたルートを外れて他のルートに変更するには矢印をクリックしてください</string>
@@ -109,8 +108,8 @@
     <string name="AlertDesc_ConfirmLogout">このアカウントから本当にログアウトしますか？\n関連するすべてのオーディオガイドも削除されます！</string>
     <string name="AlertTitle_PackageUpdate">更新可能</string>
     <string name="AlertDesc_PackageUpdate">オーディオガイドの更新が可能です。\n今すぐダウンロードしますか？</string>
-    <string name="AlertDesc_PopMapDownloadSize">%s のダウンロードサイズは計 \n %s \n です。ダウンロードを続けますか？</string>
-    <string name="BtnTitle_Go">進め</string>
+    <string name="AlertDesc_PopMapDownloadSize">%1$s のダウンロードサイズは計 \n %2$s \n です。ダウンロードを続けますか？</string>
+    <string name="BtnTitle_Go">開く</string>
     <string name="BtnTitle_Quit">終了</string>
     <string name="BtnTitle_Update">更新</string>
     <string name="AlertTitle_MandatoryAppUpdate">アプリのアップデート要</string>
@@ -140,4 +139,17 @@
     <string name="Label_New">新しい</string>
     <string name="Label_Account">Account</string>
     <string name="Label_UserSettings_Legal_Issues">Legal issues</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
 </resources>

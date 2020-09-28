@@ -39,7 +39,7 @@
     <string name="Error_transport_map_unsupported_format">परिवहन मानचित्र दिखाने में असमर्थ: असमर्थित प्रारूप</string>
     <string name="Label_Unit_Km">किलोमीटर</string>
     <string name="Label_Unit_Miles">मीलों</string>
-    <string name="Label_TapQRCode">क्यूआर कोड स्कैन करने के लिए टैप करें</string>
+    <string name="Label_TapQRCode">QR कोड स्कैन करें</string>
     <string name="AlertDesc_BarcodeDecodingError">त्रुटि: स्कैन किए गए बारकोड को डीकोड करने में असमर्थ। कृपया मैन्युअल रूप से प्रमाण पत्र डालें</string>
     <string name="BtnTitle_Enter">दर्ज</string>
     <string name="ScreenTitle_Home">मेरे नक्शे</string>
@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">%s सेवा गोपनीयता सूचना पढ़ें</string>
     <string name="Label_UserSettings_Terms_Title">नियम और शर्तें</string>
     <string name="Label_UserSettings_Terms_Description">पीओपीगाइड सेवा नियम और शर्तें पढ़ें</string>
-    <string name="Label_Distance_Miles">मीलों</string>
     <string name="BtnTitle_DriveMeHere">मुझे यहाँ ड्राइव करो</string>
     <string name="Label_Details">विवरण</string>
     <string name="Search_Hint">फ़िल्टर बिंदु और स्टार अंक</string>
@@ -109,7 +108,7 @@
     <string name="AlertDesc_ConfirmLogout">क्या आप वास्तव में इस खाते से लॉगआउट करना चाहते हैं? \nसभी संबंधित ऑडियो गाइड भी हटा दिए जाएंगे!</string>
     <string name="AlertTitle_PackageUpdate">अपडेट उपलब्ध</string>
     <string name="AlertDesc_PackageUpdate">इस ऑडीओगाइड के लिए एक अद्यतन डाउनलोड के लिए उपलब्ध है। \nक्या आप इसे अभी डाउनलोड करना चाहते हैं?</string>
-    <string name="AlertDesc_PopMapDownloadSize">%s के लिए कुल डाउनलोड का परिमाण \n %sMB \n है क्या आप डाउनलोड जारी करना चाहते हैं?</string>
+    <string name="AlertDesc_PopMapDownloadSize">%1$s के लिए कुल डाउनलोड का परिमाण \n %2$sMB \n है क्या आप डाउनलोड जारी करना चाहते हैं?</string>
     <string name="BtnTitle_Go">चलो</string>
     <string name="BtnTitle_Quit">Quit</string>
     <string name="BtnTitle_Update">Update</string>
@@ -140,4 +139,17 @@
     <string name="Label_New">New</string>
     <string name="Label_Account">Account</string>
     <string name="Label_UserSettings_Legal_Issues">Legal issues</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
 </resources>

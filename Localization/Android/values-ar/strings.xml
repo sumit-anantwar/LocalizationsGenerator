@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">إقرأ %s إخطار خصوصية الخدمة</string>
     <string name="Label_UserSettings_Terms_Title">الشروط &amp;amp; الأحكام</string>
     <string name="Label_UserSettings_Terms_Description">إقرأ %s شروط وأحكام الخدمة</string>
-    <string name="Label_Distance_Miles">أميال</string>
     <string name="BtnTitle_DriveMeHere">خذني هنا</string>
     <string name="Label_Details">التفاصيل</string>
     <string name="Search_Hint">تصفية النقاط والأعلام ...</string>
@@ -140,4 +139,17 @@
     <string name="Label_New">جديد</string>
     <string name="Label_Account">حساب</string>
     <string name="Label_UserSettings_Legal_Issues">Legal issues</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
 </resources>

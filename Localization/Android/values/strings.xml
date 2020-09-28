@@ -39,7 +39,7 @@
     <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
     <string name="Label_Unit_Km">Km</string>
     <string name="Label_Unit_Miles">Mi</string>
-    <string name="Label_TapQRCode">Tap to scan QR code</string>
+    <string name="Label_TapQRCode">Scan QR code</string>
     <string name="AlertDesc_BarcodeDecodingError">Error: unable to decode scanned barcode. Please insert credentials manually.</string>
     <string name="BtnTitle_Enter">ENTER</string>
     <string name="ScreenTitle_Home">My maps</string>
@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">Read the %s Service Privacy Notice</string>
     <string name="Label_UserSettings_Terms_Title">Terms &amp;amp; Conditions</string>
     <string name="Label_UserSettings_Terms_Description">Read the %s Service Terms and Conditions</string>
-    <string name="Label_Distance_Miles">Miles</string>
     <string name="BtnTitle_DriveMeHere">Take me here</string>
     <string name="Label_Details">Details</string>
     <string name="Search_Hint">Filter points and flags...</string>
@@ -109,7 +108,7 @@
     <string name="AlertDesc_ConfirmLogout">Do you really want to logout from this account?\nAll the related Audioguides would also be removed!</string>
     <string name="AlertTitle_PackageUpdate">Update Available</string>
     <string name="AlertDesc_PackageUpdate">An update for this Audioguide is available for download.\nDo you want to download it now?</string>
-    <string name="AlertDesc_PopMapDownloadSize">The total download size for %s is \n %sMB \n Do you want to continue downloading?</string>
+    <string name="AlertDesc_PopMapDownloadSize">The total download size for %1$s is \n %2$sMB \n Do you want to continue downloading?</string>
     <string name="BtnTitle_Go">Go</string>
     <string name="BtnTitle_Quit">Quit</string>
     <string name="BtnTitle_Update">Update</string>
@@ -140,4 +139,17 @@
     <string name="Label_New">New</string>
     <string name="Label_Account">Account</string>
     <string name="Label_UserSettings_Legal_Issues">Legal issues</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
 </resources>
