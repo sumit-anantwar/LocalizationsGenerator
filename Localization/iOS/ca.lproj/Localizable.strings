@@ -37,7 +37,7 @@
 "Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
 "Label_Unit_Km" = "Km";
 "Label_Unit_Miles" = "Mi";
-"Label_TapQRCode" = "Tap to scan QR code";
+"Label_TapQRCode" = "Scan QR code";
 "AlertDesc_BarcodeDecodingError" = "Error: unable to decode scanned barcode. Please insert credentials manually.";
 "BtnTitle_Enter" = "ENTER";
 "ScreenTitle_Home" = "My maps";
@@ -59,7 +59,6 @@
 "Label_UserSettings_Privacy_Description" = "Read the %@ Service Privacy Notice";
 "Label_UserSettings_Terms_Title" = "Terms &amp; Conditions";
 "Label_UserSettings_Terms_Description" = "Read the %@ Service Terms and Conditions";
-"Label_Distance_Miles" = "Miles";
 "BtnTitle_DriveMeHere" = "Take me here";
 "Label_Details" = "Details";
 "Search_Hint" = "Filter points and flags...";
@@ -112,8 +111,6 @@
 "BtnTitle_Quit" = "Sortir";
 "BtnTitle_Update" = "Actualitzar";
 "AlertTitle_MandatoryAppUpdate" = "App Update Required";
-"UserPoiName_Hint" = "Add custom point name...";
-"UserPoiDescription_Hint" = "Add custom point description...\n(optional)";
 "Toast_Login_QR_Code_Invalid" = "Scanned QR code is invalid";
 "Alert_Title_Attention" = "Attention";
 "Label_AccountPopMap_Calculating" = "Calculating...";
@@ -139,3 +136,19 @@
 "BtnTitle_GoFull" = "Go full";
 "Label_New" = "New";
 "Label_Account" = "Account";
+"Label_UserSettings_Legal_Issues" = "Legal issues";
+"Label_Rate_Experience" = "Rate your experience";
+"Label_Rate_Bad" = "Bad";
+"Label_Rate_Neutral" = "Neutral";
+"Label_Rate_Great" = "Great";
+"Label_NA" = "N.A.";
+"Label_Join" = "Join";
+"Label_VoxConnect" = "Click here to download Vox Connect";
+"AlertTitle_ConfirmCustomPointTourJoin" = "Join tour";
+"AlertTitle_ConfirmCustomPointTourJoinConfirmation" = "Join confirmation";
+"AlertDesc_ConfirmCustomTourReJoin" = "Would you like to change your joining time to %@!";
+"AlertDesc_ConfirmCustomTourJoin" = "Do your really want to join this tour at %@?";
+"AlertMessage_Confirmation_Tour" = "Tour joined successfully";
+"AlertMessage_Confirmation_FailedTour" = "Tour join failed";
+"Label_Solo" = "SOLO";
+"Label_Guided" = "GUIDED";

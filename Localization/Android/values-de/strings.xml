@@ -39,7 +39,7 @@
     <string name="Error_transport_map_unsupported_format">Die Karte kann nicht angezeigt werden: Format nicht unterstützt</string>
     <string name="Label_Unit_Km">km</string>
     <string name="Label_Unit_Miles">mi</string>
-    <string name="Label_TapQRCode">Tippen Sie, um den QR-Code zu scannen</string>
+    <string name="Label_TapQRCode">QR-Code scannen</string>
     <string name="AlertDesc_BarcodeDecodingError">Fehler: Der Barcode konnte nicht dekodiert werden. Bitte geben Sie die Zugangsdaten manuell ein</string>
     <string name="BtnTitle_Enter">ENTER</string>
     <string name="ScreenTitle_Home">Meine Karten</string>
@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">Lesen Sie die Datenschutzerklärung für den %s-Service</string>
     <string name="Label_UserSettings_Terms_Title">Nutzungsbedingungen</string>
     <string name="Label_UserSettings_Terms_Description">Lesen Sie die Nutzungsbedingungen für den %s-Service</string>
-    <string name="Label_Distance_Miles">Meilen</string>
     <string name="BtnTitle_DriveMeHere">Fahr mich hier hin</string>
     <string name="Label_Details">Details</string>
     <string name="Search_Hint">Orte und Starpoints filtern</string>
@@ -114,8 +113,6 @@
     <string name="BtnTitle_Quit">Schließen</string>
     <string name="BtnTitle_Update">Aktualisieren</string>
     <string name="AlertTitle_MandatoryAppUpdate">App-Aktualisierung erforderlich</string>
-    <string name="UserPoiName_Hint">Namen für Meine Orte hinzufügen .....</string>
-    <string name="UserPoiDescription_Hint">Beschreibung für Meine Orte hinzufügen.../n (optional)</string>
     <string name="Toast_Login_QR_Code_Invalid">Der gescannte QR-Code is ungültig.</string>
     <string name="Alert_Title_Attention">Achtung</string>
     <string name="Label_AccountPopMap_Calculating">In Bearbeitung...</string>
@@ -141,4 +138,20 @@
     <string name="BtnTitle_GoFull">Go full</string>
     <string name="Label_New">Neu</string>
     <string name="Label_Account">Account</string>
+    <string name="Label_UserSettings_Legal_Issues">Rechtliche Fragen</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
+    <string name="Label_Solo">SOLO</string>
+    <string name="Label_Guided">GUIDED</string>
 </resources>

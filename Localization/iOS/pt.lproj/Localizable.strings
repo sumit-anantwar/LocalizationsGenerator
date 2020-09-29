@@ -37,7 +37,7 @@
 "Error_transport_map_unsupported_format" = "Unable to show transport map: unsupported format";
 "Label_Unit_Km" = "Km";
 "Label_Unit_Miles" = "Mi";
-"Label_TapQRCode" = "Toque para escanear o código QR";
+"Label_TapQRCode" = "Digitalizar código qr";
 "AlertDesc_BarcodeDecodingError" = "Erro: não foi possível decifrar o código de barras escaneado. Por favor, insira as credenciais manualmente";
 "BtnTitle_Enter" = "ENTRAR";
 "ScreenTitle_Home" = "Meus mapas";
@@ -59,7 +59,6 @@
 "Label_UserSettings_Privacy_Description" = "Leia o Aviso de Privacidade do Serviço do %@";
 "Label_UserSettings_Terms_Title" = "Termos & Condições";
 "Label_UserSettings_Terms_Description" = "Leia os Termos & Condições de Serviço do %@";
-"Label_Distance_Miles" = "Milhas";
 "BtnTitle_DriveMeHere" = "Leve-me até aqui";
 "Label_Details" = "Detalhes";
 "Search_Hint" = "Filtrar pontos e starpoints";
@@ -112,8 +111,6 @@
 "BtnTitle_Quit" = "Sair";
 "BtnTitle_Update" = "Atualizar";
 "AlertTitle_MandatoryAppUpdate" = "App Update Required";
-"UserPoiName_Hint" = "Add custom point name...";
-"UserPoiDescription_Hint" = "Add custom point description...\n(optional)";
 "Toast_Login_QR_Code_Invalid" = "Scanned QR code is invalid";
 "Alert_Title_Attention" = "Attention";
 "Label_AccountPopMap_Calculating" = "Calculating...";
@@ -139,3 +136,19 @@
 "BtnTitle_GoFull" = "Go full";
 "Label_New" = "Novo";
 "Label_Account" = "Account";
+"Label_UserSettings_Legal_Issues" = "Legal issues";
+"Label_Rate_Experience" = "Rate your experience";
+"Label_Rate_Bad" = "Bad";
+"Label_Rate_Neutral" = "Neutral";
+"Label_Rate_Great" = "Great";
+"Label_NA" = "N.A.";
+"Label_Join" = "Join";
+"Label_VoxConnect" = "Click here to download Vox Connect";
+"AlertTitle_ConfirmCustomPointTourJoin" = "Join tour";
+"AlertTitle_ConfirmCustomPointTourJoinConfirmation" = "Join confirmation";
+"AlertDesc_ConfirmCustomTourReJoin" = "Would you like to change your joining time to %@!";
+"AlertDesc_ConfirmCustomTourJoin" = "Do your really want to join this tour at %@?";
+"AlertMessage_Confirmation_Tour" = "Tour joined successfully";
+"AlertMessage_Confirmation_FailedTour" = "Tour join failed";
+"Label_Solo" = "SOLO";
+"Label_Guided" = "GUIDED";

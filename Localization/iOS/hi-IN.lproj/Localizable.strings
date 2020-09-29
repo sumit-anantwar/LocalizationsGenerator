@@ -37,7 +37,7 @@
 "Error_transport_map_unsupported_format" = "परिवहन मानचित्र दिखाने में असमर्थ: असमर्थित प्रारूप";
 "Label_Unit_Km" = "किलोमीटर";
 "Label_Unit_Miles" = "मीलों";
-"Label_TapQRCode" = "क्यूआर कोड स्कैन करने के लिए टैप करें";
+"Label_TapQRCode" = "QR कोड स्कैन करें";
 "AlertDesc_BarcodeDecodingError" = "त्रुटि: स्कैन किए गए बारकोड को डीकोड करने में असमर्थ। कृपया मैन्युअल रूप से प्रमाण पत्र डालें";
 "BtnTitle_Enter" = "दर्ज";
 "ScreenTitle_Home" = "मेरे नक्शे";
@@ -59,7 +59,6 @@
 "Label_UserSettings_Privacy_Description" = "%@ सेवा गोपनीयता सूचना पढ़ें";
 "Label_UserSettings_Terms_Title" = "नियम और शर्तें";
 "Label_UserSettings_Terms_Description" = "पीओपीगाइड सेवा नियम और शर्तें पढ़ें";
-"Label_Distance_Miles" = "मीलों";
 "BtnTitle_DriveMeHere" = "मुझे यहाँ ड्राइव करो";
 "Label_Details" = "विवरण";
 "Search_Hint" = "फ़िल्टर बिंदु और स्टार अंक";
@@ -112,8 +111,6 @@
 "BtnTitle_Quit" = "Quit";
 "BtnTitle_Update" = "Update";
 "AlertTitle_MandatoryAppUpdate" = "ऐप अपडेट आवश्यक है";
-"UserPoiName_Hint" = "Add custom point name...";
-"UserPoiDescription_Hint" = "Add custom point description...\n(optional)";
 "Toast_Login_QR_Code_Invalid" = "Scanned QR code is invalid";
 "Alert_Title_Attention" = "Attention";
 "Label_AccountPopMap_Calculating" = "Calculating...";
@@ -139,3 +136,19 @@
 "BtnTitle_GoFull" = "Go full";
 "Label_New" = "New";
 "Label_Account" = "Account";
+"Label_UserSettings_Legal_Issues" = "Legal issues";
+"Label_Rate_Experience" = "Rate your experience";
+"Label_Rate_Bad" = "Bad";
+"Label_Rate_Neutral" = "Neutral";
+"Label_Rate_Great" = "Great";
+"Label_NA" = "N.A.";
+"Label_Join" = "Join";
+"Label_VoxConnect" = "Click here to download Vox Connect";
+"AlertTitle_ConfirmCustomPointTourJoin" = "Join tour";
+"AlertTitle_ConfirmCustomPointTourJoinConfirmation" = "Join confirmation";
+"AlertDesc_ConfirmCustomTourReJoin" = "Would you like to change your joining time to %@!";
+"AlertDesc_ConfirmCustomTourJoin" = "Do your really want to join this tour at %@?";
+"AlertMessage_Confirmation_Tour" = "Tour joined successfully";
+"AlertMessage_Confirmation_FailedTour" = "Tour join failed";
+"Label_Solo" = "SOLO";
+"Label_Guided" = "GUIDED";

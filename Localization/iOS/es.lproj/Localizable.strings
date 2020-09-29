@@ -37,7 +37,7 @@
 "Error_transport_map_unsupported_format" = "No se puede mostrar el mapa de transporte: Formato no compatible";
 "Label_Unit_Km" = "Km";
 "Label_Unit_Miles" = "Mi";
-"Label_TapQRCode" = "Toque para escanear el código QR";
+"Label_TapQRCode" = "Escanear código QR";
 "AlertDesc_BarcodeDecodingError" = "Error: imposible decodificar el código de barras escaneado. Por favor inserte las credenciales manualmente";
 "BtnTitle_Enter" = "ACCEDES";
 "ScreenTitle_Home" = "Mis mapas";
@@ -59,7 +59,6 @@
 "Label_UserSettings_Privacy_Description" = "Lee el Aviso de Privacidad del Servicio %@";
 "Label_UserSettings_Terms_Title" = "Términos y Condiciones";
 "Label_UserSettings_Terms_Description" = "Lee los Términos y Condiciones del Servicio %@";
-"Label_Distance_Miles" = "Millas";
 "BtnTitle_DriveMeHere" = "Traeme aqui";
 "Label_Details" = "Detalles";
 "Search_Hint" = "Filtra puntos y starpoint";
@@ -112,8 +111,6 @@
 "BtnTitle_Quit" = "Salir";
 "BtnTitle_Update" = "Actualizar";
 "AlertTitle_MandatoryAppUpdate" = "Actualización de la App requerida";
-"UserPoiName_Hint" = "Añadir un punto personalizado";
-"UserPoiDescription_Hint" = "Añadir la descripción del punto personalizado..\n (opcional)";
 "Toast_Login_QR_Code_Invalid" = "QR escaneado inválido";
 "Alert_Title_Attention" = "¡Atención!";
 "Label_AccountPopMap_Calculating" = "Calculando...";
@@ -139,3 +136,19 @@
 "BtnTitle_GoFull" = "Go full";
 "Label_New" = "Nuevo";
 "Label_Account" = "Account";
+"Label_UserSettings_Legal_Issues" = "Asuntos legales";
+"Label_Rate_Experience" = "Rate your experience";
+"Label_Rate_Bad" = "Bad";
+"Label_Rate_Neutral" = "Neutral";
+"Label_Rate_Great" = "Great";
+"Label_NA" = "N.A.";
+"Label_Join" = "Join";
+"Label_VoxConnect" = "Click here to download Vox Connect";
+"AlertTitle_ConfirmCustomPointTourJoin" = "Join tour";
+"AlertTitle_ConfirmCustomPointTourJoinConfirmation" = "Join confirmation";
+"AlertDesc_ConfirmCustomTourReJoin" = "Would you like to change your joining time to %@!";
+"AlertDesc_ConfirmCustomTourJoin" = "Do your really want to join this tour at %@?";
+"AlertMessage_Confirmation_Tour" = "Tour joined successfully";
+"AlertMessage_Confirmation_FailedTour" = "Tour join failed";
+"Label_Solo" = "SOLO";
+"Label_Guided" = "GUIDED";

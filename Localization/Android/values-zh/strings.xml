@@ -36,9 +36,9 @@
     <string name="Label_TermsAndConditionsTitle">条款及细则</string>
     <string name="ToolTip_AutoPlay_ON">自动播放模式已开启 \n 定位后将自动播放景点语音讲解。点击图标可关闭此模式</string>
     <string name="ToolTip_AutoPlay_OFF">自动播放模式已关闭 \n 点击图标可开启此模式，定位后将自动播放景点语音讲解</string>
-    <string name="Error_transport_map_unsupported_format">Unable to show transport map: unsupported format</string>
-    <string name="Label_Unit_Km">Km</string>
-    <string name="Label_Unit_Miles">Mi</string>
+    <string name="Error_transport_map_unsupported_format">无法显示交通地图：格式不支持</string>
+    <string name="Label_Unit_Km">公里</string>
+    <string name="Label_Unit_Miles">英里</string>
     <string name="Label_TapQRCode">扫二维码</string>
     <string name="AlertDesc_BarcodeDecodingError">错误：无法识别条形码，请手动输入用户名密码。</string>
     <string name="BtnTitle_Enter">进入</string>
@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">阅读%s服务隐私声明</string>
     <string name="Label_UserSettings_Terms_Title">条款和条件</string>
     <string name="Label_UserSettings_Terms_Description">阅读%s服务的条款和条件</string>
-    <string name="Label_Distance_Miles">英里</string>
     <string name="BtnTitle_DriveMeHere">目的地</string>
     <string name="Label_Details">详情</string>
     <string name="Search_Hint">景点和星标搜索</string>
@@ -97,7 +96,7 @@
     <string name="Label_PopMapTutorial_MapList">戳此处查看城市所有景点和星标完整列表</string>
     <string name="Label_PopMapTutorial_Autoplay">戳此处切换自动播放模式，当靠近景点时，对应的语音讲解将自动播放。</string>
     <string name="Label_PopMapTutorial_Overflow">戳此处了解更多提示和功能</string>
-    <string name="Label_PopMapTutorial_Camera">Click here to snap your timeless memories!</string>
+    <string name="Label_PopMapTutorial_Camera">单击此处捕捉您的美好回忆！</string>
     <string name="BtnTitle_Save">保存</string>
     <string name="AlertDesc_ShowTutorialNextLaunch">下次打开显示教程吗？</string>
     <string name="Label_LanguageAlert">如想更换语言，请在帐户后台删除地图后，回到主页可重新选择语言下载</string>
@@ -114,8 +113,6 @@
     <string name="BtnTitle_Quit">退出</string>
     <string name="BtnTitle_Update">更新</string>
     <string name="AlertTitle_MandatoryAppUpdate">应用程序需要更新</string>
-    <string name="UserPoiName_Hint">添加自定义图钉名称...</string>
-    <string name="UserPoiDescription_Hint">添加自定义图钉描述...\n(可选)</string>
     <string name="Toast_Login_QR_Code_Invalid">扫描的二维码无效</string>
     <string name="Alert_Title_Attention">注意</string>
     <string name="Label_AccountPopMap_Calculating">计算中...</string>
@@ -141,4 +138,20 @@
     <string name="BtnTitle_GoFull">Go Full</string>
     <string name="Label_New">新</string>
     <string name="Label_Account">Account</string>
+    <string name="Label_UserSettings_Legal_Issues">Legal issues</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
+    <string name="Label_Solo">SOLO</string>
+    <string name="Label_Guided">GUIDED</string>
 </resources>

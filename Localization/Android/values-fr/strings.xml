@@ -39,7 +39,7 @@
     <string name="Error_transport_map_unsupported_format">Impossible d\'afficher la carte de transport: format non pris en charge</string>
     <string name="Label_Unit_Km">Km</string>
     <string name="Label_Unit_Miles">Mi</string>
-    <string name="Label_TapQRCode">Taper pour scanner le code QR</string>
+    <string name="Label_TapQRCode">Scanner le code qr</string>
     <string name="AlertDesc_BarcodeDecodingError">Erreur : impossible de décoder le code-barres scanné. Veuillez insérer les identifiants manuellement.</string>
     <string name="BtnTitle_Enter">ENTRER</string>
     <string name="ScreenTitle_Home">Mes cartes</string>
@@ -61,7 +61,6 @@
     <string name="Label_UserSettings_Privacy_Description">Lire l\'avis de confidentialité du service %s</string>
     <string name="Label_UserSettings_Terms_Title">Conditions générales</string>
     <string name="Label_UserSettings_Terms_Description">Lire les conditions générales du service %s</string>
-    <string name="Label_Distance_Miles">Miles</string>
     <string name="BtnTitle_DriveMeHere">Me conduire ici</string>
     <string name="Label_Details">Détails</string>
     <string name="Search_Hint">Filtrer les points et les starpoints</string>
@@ -114,8 +113,6 @@
     <string name="BtnTitle_Quit">Quitter</string>
     <string name="BtnTitle_Update">Mettre à jour</string>
     <string name="AlertTitle_MandatoryAppUpdate">Mise à jour de l\'appli requise</string>
-    <string name="UserPoiName_Hint">Ajouter un point personnalisé</string>
-    <string name="UserPoiDescription_Hint">Ajoutez la description du point personnalisé</string>
     <string name="Toast_Login_QR_Code_Invalid">Le code QR scanné est invalide</string>
     <string name="Alert_Title_Attention">Attention</string>
     <string name="Label_AccountPopMap_Calculating">Calcul...</string>
@@ -141,4 +138,20 @@
     <string name="BtnTitle_GoFull">Go full</string>
     <string name="Label_New">Nouveau</string>
     <string name="Label_Account">Account</string>
+    <string name="Label_UserSettings_Legal_Issues">Questions juridiques</string>
+    <string name="Label_Rate_Experience">Rate your experience</string>
+    <string name="Label_Rate_Bad">Bad</string>
+    <string name="Label_Rate_Neutral">Neutral</string>
+    <string name="Label_Rate_Great">Great</string>
+    <string name="Label_NA">N.A.</string>
+    <string name="Label_Join">Join</string>
+    <string name="Label_VoxConnect">Click here to download Vox Connect</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoin">Join tour</string>
+    <string name="AlertTitle_ConfirmCustomPointTourJoinConfirmation">Join confirmation</string>
+    <string name="AlertDesc_ConfirmCustomTourReJoin">Would you like to change your joining time to %1$s!</string>
+    <string name="AlertDesc_ConfirmCustomTourJoin">Do your really want to join this tour at %1$s?</string>
+    <string name="AlertMessage_Confirmation_Tour">Tour joined successfully</string>
+    <string name="AlertMessage_Confirmation_FailedTour">Tour join failed</string>
+    <string name="Label_Solo">SOLO</string>
+    <string name="Label_Guided">GUIDED</string>
 </resources>
