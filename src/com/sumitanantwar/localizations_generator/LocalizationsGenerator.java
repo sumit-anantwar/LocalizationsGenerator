@@ -45,7 +45,7 @@ public class LocalizationsGenerator {
         {
             File baseFolder = new File("Localization");
 
-            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "VoxConnect_V1.xlsx"));
+            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "VoxConnect_V2.xlsx"));
 
             //Create Workbook instance holding reference to .xlsx file
             XSSFWorkbook workbook = new XSSFWorkbook(file);
