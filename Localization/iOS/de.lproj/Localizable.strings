@@ -39,7 +39,7 @@
 "Label_PleaseAttachEarphones" = "Bitte Kopfhörer anschließen!";
 "Label_ServiceMsgConnecting" = "Verbindung zu %@ wird hergestellt";
 "Label_ServiceMsgStreaming" = "Streaming zu  %@ wird hergestellt";
-"Label_ServiceMsgListening" = "Sie hören %x";
+"Label_ServiceMsgListening" = "Sie hören %@";
 "BtnTitle_ServiceClose" = "Schließen";
 "Label_ServiceMsgOnPhoneCall" = "Sie sind in einem Telefongespräch";
 "Label_WaitingPresenter" = "Moderator wird erwartet";
@@ -64,7 +64,7 @@
 "Label_ScanQrCode" = "Scannen Sie QR Code, um sich einzuloggen";
 "Label_ShareMessage" = "VoxConnect Account";
 "AlertTitle_DeleteSubAccount" = "Sub-Account löschen";
-"AlertDesc_DeleteSubAccount" = "Möchten Sie das Sub-Account % s wirklich löschen?";
+"AlertDesc_DeleteSubAccount" = "Möchten Sie das Sub-Account wirklich löschen?";
 "AlertTitle_CreateRoom" = "Möchten Sie wirklich einen neuen Raum anlegen?";
 "AlertTitle_DeleteRoom" = "Möchten Sie wirklich einen Raum löschenl?";
 "AlertTitle_CantSendFile" = "File kann nicht versendet werden";

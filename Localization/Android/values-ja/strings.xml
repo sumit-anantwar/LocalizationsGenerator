@@ -66,7 +66,7 @@
     <string name="Label_ScanQrCode">ログインにはQRコードをスキャンしてください</string>
     <string name="Label_ShareMessage">VoxConnectアカウント</string>
     <string name="AlertTitle_DeleteSubAccount">サブアカウントを削除</string>
-    <string name="AlertDesc_DeleteSubAccount">本当にサブアカウントを削除しますか%s？</string>
+    <string name="AlertDesc_DeleteSubAccount">本当にサブアカウントを削除しますか？</string>
     <string name="AlertTitle_CreateRoom">本当に新しいRoomを作成しますか？</string>
     <string name="AlertTitle_DeleteRoom">本当にこのRoomを削除しますか？</string>
     <string name="AlertTitle_CantSendFile">ファイルを送信できません</string>

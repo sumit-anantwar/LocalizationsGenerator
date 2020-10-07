@@ -61,7 +61,7 @@
 "AlertTitle_Upgrade" = "Вам необходимо обновить приложение, чтобы продолжить его использование";
 "BtnTitle_Upgrade" = "Обновить";
 "BtnTitle_Close" = "Закрыть";
-"Label_ScanQrCode" = "Сканирвоать QR код для входа";
+"Label_ScanQrCode" = "Сканировать QR код для входа";
 "Label_ShareMessage" = "Аккаунт VoxConnect";
 "AlertTitle_DeleteSubAccount" = "Удалить суб-аккаунт";
 "AlertDesc_DeleteSubAccount" = "Вы уверены что хотите удалить доп.аккаунт?";
@@ -73,7 +73,7 @@
 "BtnTitle_Open" = "Открыть";
 "AlertTitle_Share" = "Поделиться";
 "BtnTitle_Camera" = "Камера";
-"BtnTitle_FileSystem" = "От";
+"BtnTitle_FileSystem" = "Файлы";
 "AlertTitle_FileSent" = "Файл отправлен";
 "AlertTitle_FileNotSent" = "Файл не был отправлен";
 "AlertTitle_HandshakeLogout" = "Выйти";

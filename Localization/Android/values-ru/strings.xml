@@ -63,7 +63,7 @@
     <string name="AlertTitle_Upgrade">Вам необходимо обновить приложение, чтобы продолжить его использование</string>
     <string name="BtnTitle_Upgrade">Обновить</string>
     <string name="BtnTitle_Close">Закрыть</string>
-    <string name="Label_ScanQrCode">Сканирвоать QR код для входа</string>
+    <string name="Label_ScanQrCode">Сканировать QR код для входа</string>
     <string name="Label_ShareMessage">Аккаунт VoxConnect</string>
     <string name="AlertTitle_DeleteSubAccount">Удалить суб-аккаунт</string>
     <string name="AlertDesc_DeleteSubAccount">Вы уверены что хотите удалить доп.аккаунт?</string>
@@ -75,7 +75,7 @@
     <string name="BtnTitle_Open">Открыть</string>
     <string name="AlertTitle_Share">Поделиться</string>
     <string name="BtnTitle_Camera">Камера</string>
-    <string name="BtnTitle_FileSystem">От</string>
+    <string name="BtnTitle_FileSystem">Файлы</string>
     <string name="AlertTitle_FileSent">Файл отправлен</string>
     <string name="AlertTitle_FileNotSent">Файл не был отправлен</string>
     <string name="AlertTitle_HandshakeLogout">Выйти</string>

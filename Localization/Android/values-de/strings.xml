@@ -41,7 +41,7 @@
     <string name="Label_PleaseAttachEarphones">Bitte Kopfhörer anschließen!</string>
     <string name="Label_ServiceMsgConnecting">Verbindung zu %s wird hergestellt</string>
     <string name="Label_ServiceMsgStreaming">Streaming zu  %s wird hergestellt</string>
-    <string name="Label_ServiceMsgListening">Sie hören %x</string>
+    <string name="Label_ServiceMsgListening">Sie hören %s</string>
     <string name="BtnTitle_ServiceClose">Schließen</string>
     <string name="Label_ServiceMsgOnPhoneCall">Sie sind in einem Telefongespräch</string>
     <string name="Label_WaitingPresenter">Moderator wird erwartet</string>
@@ -66,7 +66,7 @@
     <string name="Label_ScanQrCode">Scannen Sie QR Code, um sich einzuloggen</string>
     <string name="Label_ShareMessage">VoxConnect Account</string>
     <string name="AlertTitle_DeleteSubAccount">Sub-Account löschen</string>
-    <string name="AlertDesc_DeleteSubAccount">Möchten Sie das Sub-Account % s wirklich löschen?</string>
+    <string name="AlertDesc_DeleteSubAccount">Möchten Sie das Sub-Account wirklich löschen?</string>
     <string name="AlertTitle_CreateRoom">Möchten Sie wirklich einen neuen Raum anlegen?</string>
     <string name="AlertTitle_DeleteRoom">Möchten Sie wirklich einen Raum löschenl?</string>
     <string name="AlertTitle_CantSendFile">File kann nicht versendet werden</string>

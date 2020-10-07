@@ -37,9 +37,9 @@
 "Label_NetworkNotAvailable" = "Conexión a Internet no disponible";
 "Label_StartingStream" = "Iniciando transmisión...";
 "Label_PleaseAttachEarphones" = "Por favor, conecta auriculares.";
-"Label_ServiceMsgConnecting" = "Conectando a%@";
-"Label_ServiceMsgStreaming" = "Transmitiendo a% s";
-"Label_ServiceMsgListening" = "Escuchando% s";
+"Label_ServiceMsgConnecting" = "Conectando a %@";
+"Label_ServiceMsgStreaming" = "Transmitiendo a %@";
+"Label_ServiceMsgListening" = "Escuchando %@";
 "BtnTitle_ServiceClose" = "Cerrar";
 "Label_ServiceMsgOnPhoneCall" = "Estás en una llamada telefónica";
 "Label_WaitingPresenter" = "Etiqueta-Esperando Presentador";
@@ -64,7 +64,7 @@
 "Label_ScanQrCode" = "Escanéa el código QR para iniciar sesión";
 "Label_ShareMessage" = "Cuenta VoxConnect";
 "AlertTitle_DeleteSubAccount" = "Elimina sub-cuenta";
-"AlertDesc_DeleteSubAccount" = "¿Seguro que quieres eliminar la subcuenta% s?";
+"AlertDesc_DeleteSubAccount" = "¿Seguro que quieres eliminar la subcuenta?";
 "AlertTitle_CreateRoom" = "¿Realmente quieres crear una nueva sala?";
 "AlertTitle_DeleteRoom" = "¿Realmente quieres eliminar esa sala?";
 "AlertTitle_CantSendFile" = "No puedes enviar el archivo";
@@ -84,8 +84,8 @@
 "AlertDesc_ToSoon" = "Por favor, comprueba la fecha de inicio";
 "Label_AccountExpired" = "Caducada";
 "Label_AccountExpiryHour" = "Caduca en menos de 1 hora";
-"Label_AccountExpiryDays" = "Caduca en% d días";
-"Label_AccountExpiryDaysHours" = "Caduca en% d días,% d horas";
+"Label_AccountExpiryDays" = "Caduca en %d días";
+"Label_AccountExpiryDaysHours" = "Caduca en %d días, %d horas";
 "Label_AvailableStreaming" = "Transmisión disponible";
 "Label_NoStreamAvailable" = "No hay transmisión disponible";
 "Alert_ButtonKeepIt" = "No, manténlo";

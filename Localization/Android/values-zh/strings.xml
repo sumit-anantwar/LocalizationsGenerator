@@ -39,9 +39,9 @@
     <string name="Label_NetworkNotAvailable">互联网连接不可用</string>
     <string name="Label_StartingStream">正在开始...</string>
     <string name="Label_PleaseAttachEarphones">请插入耳机！</string>
-    <string name="Label_ServiceMsgConnecting">连接到%s</string>
-    <string name="Label_ServiceMsgStreaming">连接到%s</string>
-    <string name="Label_ServiceMsgListening">收听%s</string>
+    <string name="Label_ServiceMsgConnecting">连接到 %s</string>
+    <string name="Label_ServiceMsgStreaming">连接到 %s</string>
+    <string name="Label_ServiceMsgListening">收听 %s</string>
     <string name="BtnTitle_ServiceClose">关闭</string>
     <string name="Label_ServiceMsgOnPhoneCall">正在通话中</string>
     <string name="Label_WaitingPresenter">等待主讲进入...</string>

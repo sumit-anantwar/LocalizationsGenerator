@@ -64,7 +64,7 @@
 "Label_ScanQrCode" = "ログインにはQRコードをスキャンしてください";
 "Label_ShareMessage" = "VoxConnectアカウント";
 "AlertTitle_DeleteSubAccount" = "サブアカウントを削除";
-"AlertDesc_DeleteSubAccount" = "本当にサブアカウントを削除しますか%@？";
+"AlertDesc_DeleteSubAccount" = "本当にサブアカウントを削除しますか？";
 "AlertTitle_CreateRoom" = "本当に新しいRoomを作成しますか？";
 "AlertTitle_DeleteRoom" = "本当にこのRoomを削除しますか？";
 "AlertTitle_CantSendFile" = "ファイルを送信できません";

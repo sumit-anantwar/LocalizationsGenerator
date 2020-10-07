@@ -37,9 +37,9 @@
 "Label_NetworkNotAvailable" = "Conexão à internet não disponível";
 "Label_StartingStream" = "Dando início ao streaming...";
 "Label_PleaseAttachEarphones" = "Conecte os auscultadores, por favor";
-"Label_ServiceMsgConnecting" = "Estabelecendo ligação a...";
-"Label_ServiceMsgStreaming" = "Streaming para...";
-"Label_ServiceMsgListening" = "A Ouvir...";
+"Label_ServiceMsgConnecting" = "Estabelecendo ligação a %@";
+"Label_ServiceMsgStreaming" = "Streaming para %@";
+"Label_ServiceMsgListening" = "A Ouvir %@";
 "BtnTitle_ServiceClose" = "Fechar";
 "Label_ServiceMsgOnPhoneCall" = "Está numa chamada telefónica / Está em linha";
 "Label_WaitingPresenter" = "AguardandoApresentador";
@@ -64,7 +64,7 @@
 "Label_ScanQrCode" = "Fazer scan ao código QR para fazer login";
 "Label_ShareMessage" = "Conta VoxConnect";
 "AlertTitle_DeleteSubAccount" = "Apagar sub-conta";
-"AlertDesc_DeleteSubAccount" = "Tem a certeza que pretende apagar a sub-conta %@?";
+"AlertDesc_DeleteSubAccount" = "Tem a certeza que pretende apagar a sub-conta?";
 "AlertTitle_CreateRoom" = "Tem a certeza que pretende criar um novo Room?";
 "AlertTitle_DeleteRoom" = "Tem a certeza que pretende apagar um Room";
 "AlertTitle_CantSendFile" = "Não se pode enviar o ficheiro";
@@ -84,8 +84,8 @@
 "AlertDesc_ToSoon" = "Por favor, verifique a data de início";
 "Label_AccountExpired" = "Expirado";
 "Label_AccountExpiryHour" = "Expira em menos de 1 hora";
-"Label_AccountExpiryDays" = "Expira em % dias";
-"Label_AccountExpiryDaysHours" = "Expira em % dias, %horas";
+"Label_AccountExpiryDays" = "Expira em %d dias";
+"Label_AccountExpiryDaysHours" = "Expira em %d dias, %d horas";
 "Label_AvailableStreaming" = "Streaming disponível";
 "Label_NoStreamAvailable" = "Não há streaming disponível";
 "Alert_ButtonKeepIt" = "Não, guarde-o";

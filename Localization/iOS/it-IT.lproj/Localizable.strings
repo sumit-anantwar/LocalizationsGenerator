@@ -64,7 +64,7 @@
 "Label_ScanQrCode" = "Scansiona il codice QR per accedere";
 "Label_ShareMessage" = "Account Vox Connect";
 "AlertTitle_DeleteSubAccount" = "Cancella sub-account";
-"AlertDesc_DeleteSubAccount" = "Sei sicuro di voler cancellare il sub account %@?";
+"AlertDesc_DeleteSubAccount" = "Sei sicuro di voler cancellare il sub account?";
 "AlertTitle_CreateRoom" = "Vuoi creare una nuova Room?";
 "AlertTitle_DeleteRoom" = "Vuoi cancellare questa Room?";
 "AlertTitle_CantSendFile" = "Impossibile inviare il file";

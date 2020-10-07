@@ -66,7 +66,7 @@
     <string name="Label_ScanQrCode">Scansiona il codice QR per accedere</string>
     <string name="Label_ShareMessage">Account Vox Connect</string>
     <string name="AlertTitle_DeleteSubAccount">Cancella sub-account</string>
-    <string name="AlertDesc_DeleteSubAccount">Sei sicuro di voler cancellare il sub account %s?</string>
+    <string name="AlertDesc_DeleteSubAccount">Sei sicuro di voler cancellare il sub account?</string>
     <string name="AlertTitle_CreateRoom">Vuoi creare una nuova Room?</string>
     <string name="AlertTitle_DeleteRoom">Vuoi cancellare questa Room?</string>
     <string name="AlertTitle_CantSendFile">Impossibile inviare il file</string>

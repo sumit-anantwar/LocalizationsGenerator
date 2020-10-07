@@ -39,9 +39,9 @@
     <string name="Label_NetworkNotAvailable">Conexão à internet não disponível</string>
     <string name="Label_StartingStream">Dando início ao streaming...</string>
     <string name="Label_PleaseAttachEarphones">Conecte os auscultadores, por favor</string>
-    <string name="Label_ServiceMsgConnecting">Estabelecendo ligação a...</string>
-    <string name="Label_ServiceMsgStreaming">Streaming para...</string>
-    <string name="Label_ServiceMsgListening">A Ouvir...</string>
+    <string name="Label_ServiceMsgConnecting">Estabelecendo ligação a %s</string>
+    <string name="Label_ServiceMsgStreaming">Streaming para %s</string>
+    <string name="Label_ServiceMsgListening">A Ouvir %s</string>
     <string name="BtnTitle_ServiceClose">Fechar</string>
     <string name="Label_ServiceMsgOnPhoneCall">Está numa chamada telefónica / Está em linha</string>
     <string name="Label_WaitingPresenter">AguardandoApresentador</string>
@@ -66,7 +66,7 @@
     <string name="Label_ScanQrCode">Fazer scan ao código QR para fazer login</string>
     <string name="Label_ShareMessage">Conta VoxConnect</string>
     <string name="AlertTitle_DeleteSubAccount">Apagar sub-conta</string>
-    <string name="AlertDesc_DeleteSubAccount">Tem a certeza que pretende apagar a sub-conta %s?</string>
+    <string name="AlertDesc_DeleteSubAccount">Tem a certeza que pretende apagar a sub-conta?</string>
     <string name="AlertTitle_CreateRoom">Tem a certeza que pretende criar um novo Room?</string>
     <string name="AlertTitle_DeleteRoom">Tem a certeza que pretende apagar um Room</string>
     <string name="AlertTitle_CantSendFile">Não se pode enviar o ficheiro</string>
@@ -86,8 +86,8 @@
     <string name="AlertDesc_ToSoon">Por favor, verifique a data de início</string>
     <string name="Label_AccountExpired">Expirado</string>
     <string name="Label_AccountExpiryHour">Expira em menos de 1 hora</string>
-    <string name="Label_AccountExpiryDays">Expira em % dias</string>
-    <string name="Label_AccountExpiryDaysHours">Expira em % dias, %horas</string>
+    <string name="Label_AccountExpiryDays">Expira em %d dias</string>
+    <string name="Label_AccountExpiryDaysHours">Expira em %d dias, %d horas</string>
     <string name="Label_AvailableStreaming">Streaming disponível</string>
     <string name="Label_NoStreamAvailable">Não há streaming disponível</string>
     <string name="Alert_ButtonKeepIt">Não, guarde-o</string>

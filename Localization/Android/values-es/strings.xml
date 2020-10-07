@@ -39,9 +39,9 @@
     <string name="Label_NetworkNotAvailable">Conexión a Internet no disponible</string>
     <string name="Label_StartingStream">Iniciando transmisión...</string>
     <string name="Label_PleaseAttachEarphones">Por favor, conecta auriculares.</string>
-    <string name="Label_ServiceMsgConnecting">Conectando a%s</string>
-    <string name="Label_ServiceMsgStreaming">Transmitiendo a% s</string>
-    <string name="Label_ServiceMsgListening">Escuchando% s</string>
+    <string name="Label_ServiceMsgConnecting">Conectando a %s</string>
+    <string name="Label_ServiceMsgStreaming">Transmitiendo a %s</string>
+    <string name="Label_ServiceMsgListening">Escuchando %s</string>
     <string name="BtnTitle_ServiceClose">Cerrar</string>
     <string name="Label_ServiceMsgOnPhoneCall">Estás en una llamada telefónica</string>
     <string name="Label_WaitingPresenter">Etiqueta-Esperando Presentador</string>
@@ -66,7 +66,7 @@
     <string name="Label_ScanQrCode">Escanéa el código QR para iniciar sesión</string>
     <string name="Label_ShareMessage">Cuenta VoxConnect</string>
     <string name="AlertTitle_DeleteSubAccount">Elimina sub-cuenta</string>
-    <string name="AlertDesc_DeleteSubAccount">¿Seguro que quieres eliminar la subcuenta% s?</string>
+    <string name="AlertDesc_DeleteSubAccount">¿Seguro que quieres eliminar la subcuenta?</string>
     <string name="AlertTitle_CreateRoom">¿Realmente quieres crear una nueva sala?</string>
     <string name="AlertTitle_DeleteRoom">¿Realmente quieres eliminar esa sala?</string>
     <string name="AlertTitle_CantSendFile">No puedes enviar el archivo</string>
@@ -86,8 +86,8 @@
     <string name="AlertDesc_ToSoon">Por favor, comprueba la fecha de inicio</string>
     <string name="Label_AccountExpired">Caducada</string>
     <string name="Label_AccountExpiryHour">Caduca en menos de 1 hora</string>
-    <string name="Label_AccountExpiryDays">Caduca en% d días</string>
-    <string name="Label_AccountExpiryDaysHours">Caduca en% d días,% d horas</string>
+    <string name="Label_AccountExpiryDays">Caduca en %d días</string>
+    <string name="Label_AccountExpiryDaysHours">Caduca en %d días, %d horas</string>
     <string name="Label_AvailableStreaming">Transmisión disponible</string>
     <string name="Label_NoStreamAvailable">No hay transmisión disponible</string>
     <string name="Alert_ButtonKeepIt">No, manténlo</string>
