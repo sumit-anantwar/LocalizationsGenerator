@@ -73,6 +73,7 @@
 "BtnTitle_Open" = "Aprire";
 "AlertTitle_Share" = "Condividere";
 "BtnTitle_Camera" = "Fotocamera";
+"BtnTitle_Gallery" = "Galleria";
 "BtnTitle_FileSystem" = "Dall'archivio file";
 "AlertTitle_FileSent" = "Il file è stato inviato";
 "AlertTitle_FileNotSent" = "Il file non è stato inviato";

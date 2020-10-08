@@ -73,6 +73,7 @@
 "BtnTitle_Open" = "Открыть";
 "AlertTitle_Share" = "Поделиться";
 "BtnTitle_Camera" = "Камера";
+"BtnTitle_Gallery" = "Галерея";
 "BtnTitle_FileSystem" = "Файлы";
 "AlertTitle_FileSent" = "Файл отправлен";
 "AlertTitle_FileNotSent" = "Файл не был отправлен";

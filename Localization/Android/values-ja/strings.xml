@@ -75,6 +75,7 @@
     <string name="BtnTitle_Open">開く</string>
     <string name="AlertTitle_Share">シェア</string>
     <string name="BtnTitle_Camera">カメラ</string>
+    <string name="BtnTitle_Gallery">ギャラリー</string>
     <string name="BtnTitle_FileSystem">ファイルから</string>
     <string name="AlertTitle_FileSent">ファイルは送信されました</string>
     <string name="AlertTitle_FileNotSent">ファイルは送信されませんでした</string>

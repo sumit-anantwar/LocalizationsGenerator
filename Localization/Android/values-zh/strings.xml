@@ -75,6 +75,7 @@
     <string name="BtnTitle_Open">打开</string>
     <string name="AlertTitle_Share">分享</string>
     <string name="BtnTitle_Camera">摄像头</string>
+    <string name="BtnTitle_Gallery">画廊</string>
     <string name="BtnTitle_FileSystem">文件夹</string>
     <string name="AlertTitle_FileSent">文件已发送</string>
     <string name="AlertTitle_FileNotSent">文件未发送</string>

@@ -75,6 +75,7 @@
     <string name="BtnTitle_Open">Abrir</string>
     <string name="AlertTitle_Share">Partilhar</string>
     <string name="BtnTitle_Camera">Camera</string>
+    <string name="BtnTitle_Gallery">Galeria</string>
     <string name="BtnTitle_FileSystem">A partir de ficheiros</string>
     <string name="AlertTitle_FileSent">O ficheiro foi enviado</string>
     <string name="AlertTitle_FileNotSent">O ficheiro não foi enviado</string>

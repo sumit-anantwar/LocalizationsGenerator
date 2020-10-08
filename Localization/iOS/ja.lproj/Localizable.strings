@@ -73,6 +73,7 @@
 "BtnTitle_Open" = "開く";
 "AlertTitle_Share" = "シェア";
 "BtnTitle_Camera" = "カメラ";
+"BtnTitle_Gallery" = "ギャラリー";
 "BtnTitle_FileSystem" = "ファイルから";
 "AlertTitle_FileSent" = "ファイルは送信されました";
 "AlertTitle_FileNotSent" = "ファイルは送信されませんでした";

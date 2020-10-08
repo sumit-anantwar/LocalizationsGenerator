@@ -75,6 +75,7 @@
     <string name="BtnTitle_Open">Ӧffnen</string>
     <string name="AlertTitle_Share">Share:</string>
     <string name="BtnTitle_Camera">Kamera</string>
+    <string name="BtnTitle_Gallery">Galerie</string>
     <string name="BtnTitle_FileSystem">Von den Files:</string>
     <string name="AlertTitle_FileSent">Das File wurde gesendet</string>
     <string name="AlertTitle_FileNotSent">Das File wurde nicht gesendet</string>

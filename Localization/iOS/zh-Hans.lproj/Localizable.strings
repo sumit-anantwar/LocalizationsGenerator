@@ -73,6 +73,7 @@
 "BtnTitle_Open" = "打开";
 "AlertTitle_Share" = "分享";
 "BtnTitle_Camera" = "摄像头";
+"BtnTitle_Gallery" = "画廊";
 "BtnTitle_FileSystem" = "文件夹";
 "AlertTitle_FileSent" = "文件已发送";
 "AlertTitle_FileNotSent" = "文件未发送";
