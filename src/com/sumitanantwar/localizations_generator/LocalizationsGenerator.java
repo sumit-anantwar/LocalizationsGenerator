@@ -45,7 +45,7 @@ public class LocalizationsGenerator {
         {
             File baseFolder = new File("Localization");
 
-            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "VoxConnect_V2.2.xlsx"));
+            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V20.xlsx"));
 
             //Create Workbook instance holding reference to .xlsx file
             XSSFWorkbook workbook = new XSSFWorkbook(file);
@@ -111,6 +111,10 @@ public class LocalizationsGenerator {
                                 String andrValue = value.replace("%@", "%s"); // Replace format specifiers for Android
                                 andrValue = andrValue.replace("'", "\\'");
                                 andrValue = andrValue.replace("&", "&amp;");
+
+                                // For iOS String, remove the Android specific position specifiers
+                                value = value.replace("%1$s", "%@");
+                                value = value.replace("%2$s", "%@");
 
                                 System.out.print(value + " - ");
 
