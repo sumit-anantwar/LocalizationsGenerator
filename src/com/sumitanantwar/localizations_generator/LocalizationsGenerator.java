@@ -45,7 +45,7 @@ public class LocalizationsGenerator {
         {
             File baseFolder = new File("Localization");
 
-            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "PopGuide_Translations_V20.xlsx"));
+            FileInputStream file = new FileInputStream(new File(baseFolder.getPath() + File.separator + "VoxConnect_Translations_V21.xlsx"));
 
             //Create Workbook instance holding reference to .xlsx file
             XSSFWorkbook workbook = new XSSFWorkbook(file);
@@ -57,44 +57,35 @@ public class LocalizationsGenerator {
             List<String> headers = new ArrayList<>();
 
             //Iterate through each rows one by one
-            Iterator<Row> rowIterator = sheet.iterator();
-            while (rowIterator.hasNext())
-            {
-                Row row = rowIterator.next();
-
+            for (Row row : sheet) {
                 System.out.print(row.getRowNum() + "/" + sheet.getLastRowNum() + " - ");
 
                 String keyStr = "";
                 String enStr = "";
                 //For each row, iterate through all the columns
                 Iterator<Cell> cellIterator = row.cellIterator();
-                while (cellIterator.hasNext())
-                {
+                while (cellIterator.hasNext()) {
                     Cell cell = cellIterator.next();
 
                     if (row.getRowNum() == 0) {
                         // First row has all the field headers
                         headers.add(cell.getStringCellValue().trim());
-                    }
-                    else if (row.getRowNum() == 1) {
+                    } else if (row.getRowNum() == 1) {
                         // Omit everything in the second row
-                    }
-                    else {
+                    } else {
                         // Check the current column
                         String column = headers.get(cell.getColumnIndex());
-                        if (cell.getColumnIndex() == 0){
+                        if (cell.getColumnIndex() == 0) {
                             // Column with Keys
                             keyStr = cell.getStringCellValue().trim();
                             System.out.print(keyStr + " - ");
-                        }
-                        else if (column.equalsIgnoreCase("Usage")) {
+                        } else if (column.equalsIgnoreCase("Usage")) {
                             // Omit all the values in the Usage Column
                             System.out.print(((cell.getCellType() == Cell.CELL_TYPE_STRING) ? cell.getStringCellValue() : cell.getNumericCellValue()) + " - ");
-                        }
-                        else { // if (cell.getCellType() == Cell.CELL_TYPE_STRING) {
+                        } else { // if (cell.getCellType() == Cell.CELL_TYPE_STRING) {
                             if (iosMap.containsKey(column)) {
                                 int cellType = cell.getCellType();
-                                String value = (cellType == 0) ? ("" + ((int)cell.getNumericCellValue())) : cell.getStringCellValue().trim();
+                                String value = (cellType == 0) ? ("" + ((int) cell.getNumericCellValue())) : cell.getStringCellValue().trim();
                                 value = value.replace("\"", "'"); // Replace all the Quotes Ticks with an Apostrophe
                                 value = value.replace("’", "'"); // Replace all the Back Ticks with an Apostrophe
                                 value = value.replace("…", "..."); // Replace ellipsis character with three dots
@@ -119,15 +110,14 @@ public class LocalizationsGenerator {
                                 System.out.print(value + " - ");
 
                                 // Create values folder and strings file for Android
-                                File andrFldr = new File(baseFolder.getPath() + File.separator + "Android" + File.separator + "values" + (column.equalsIgnoreCase("en") ? "" : "-"+column) );
+                                File andrFldr = new File(baseFolder.getPath() + File.separator + "Android" + File.separator + "values" + (column.equalsIgnoreCase("en") ? "" : "-" + column));
                                 andrFldr.mkdirs();
                                 File andrFile = new File(andrFldr.getPath() + File.separator + "strings.xml");
                                 andrFile.createNewFile();
 
                                 FileWriter aw = new FileWriter(andrFile, true);
                                 BufferedWriter abw = new BufferedWriter(aw);
-                                if (row.getRowNum() == 2)
-                                {
+                                if (row.getRowNum() == 2) {
                                     abw.write("<?xml version=\"1.0\" encoding=\"utf-8\"?>");
                                     abw.newLine();
                                     abw.write("<resources>");
@@ -135,8 +125,7 @@ public class LocalizationsGenerator {
                                 }
                                 abw.write("    <string name=\"" + keyStr + "\">" + andrValue + "</string>");
                                 abw.newLine();
-                                if (row.getRowNum() >= sheet.getLastRowNum())
-                                {
+                                if (row.getRowNum() >= sheet.getLastRowNum()) {
                                     abw.write("</resources>");
                                     abw.newLine();
                                 }
