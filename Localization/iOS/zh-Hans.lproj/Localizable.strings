@@ -118,25 +118,18 @@
 "Label_Email" = "Email";
 "Label_DifferentVoxBox" = "Do you want to connect to a different box?";
 "BtnTitle_ListenStream" = "Listen Stream";
-"Button_Stop_Streaming" = "停止连接";
-"Label_Connected_To" = "连接%@";
-"Label_Connection_Status" = "点击连接媒体流";
-"AlertTitle_CantConnectBox" = "无法连接";
 "Label_ConnectingToBox" = "正在连接...";
-"AlertDesc_CantConnectBox" = "无法连接";
-"AlertDesc_SomethingWrong" = "发生错误";
 "AlertDesc_LimitExceeded" = "超出连接限制";
 "Label_Connected_With" = "您已连接%@";
-"Label_Searching_VoxBox" = "搜索VoxBox";
-"Label_VoxBox_Connecting" = "正在连接VoxBox%@";
-"AlertTitle_InValid_Passcode" = "连接码错误";
-"AlertDesc_InValid_Passcode" = "请输入有效连接码并重试";
-"AlertDesc_CantConnectSSID" = "内部错误，无法连接%@";
-"AlertDesc_VoxBox_Not_Found" = "没有找到VoxBox";
 "Search_Placeholder_Text" = "请输入VoxBox名称";
-"AlertTitle_Whatsapp" = "WhatsApp";
-"AlertDesc_Whatsapp" = "请安装WhatsApp以便使用此功能";
-"Alert_ActionTitle_Install" = "安装";
-"AlertTitle_GpsSensors" = "请开启您设备的GPS，以便顺利搜索您附近的VoxBox网络";
-"AlertTitle_JoinNetwork" = "Confirm that you want to join %@ network";
+"AlertDesc_GpsSensors" = "请开启您设备的GPS，以便顺利搜索您附近的VoxBox网络";
+"AlertTitle_JoinNetwork" = "Do you really want to join %@ network";
 "Label_EnableWiFi" = "点击此处开启WiFi";
+"AlertTitle_TurnOnWiFi" = "In order to connect to the VoxBox
+ network, you should turn on the
+ WiFi on the device";
+"Label_PleaseWait" = "Please wait...";
+"AlertTitle_WrongRoom" = "Wrong Room ID";
+"BtnTitle_Settings" = "Go to Settings";
+"AlertTitle_NetworkError" = "网络错误！";
+"AlertDesc_NetworkError" = "未找到网络连接。\n请稍后再试";

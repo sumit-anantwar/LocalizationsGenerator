@@ -118,25 +118,18 @@
 "Label_Email" = "Email";
 "Label_DifferentVoxBox" = "Do you want to connect to a different box?";
 "BtnTitle_ListenStream" = "Listen Stream";
-"Button_Stop_Streaming" = "Streaming stoppen";
-"Label_Connected_To" = "Verbindung hergestellt zu";
-"Label_Connection_Status" = "Start klicken, um Streamingverbindung herzustellen...";
-"AlertTitle_CantConnectBox" = "Verbindung kann nicht hergestellt werden";
 "Label_ConnectingToBox" = "Verbindung wird hergestellt";
-"AlertDesc_CantConnectBox" = "Sie haben keine Erlaubnis, um die Verbindung zu diesem Box herzustellen";
-"AlertDesc_SomethingWrong" = "Etwas ist schiefgelaufen";
 "AlertDesc_LimitExceeded" = "Verbindungslimit überschritten";
 "Label_Connected_With" = "Sie sind verbunden mit";
-"Label_Searching_VoxBox" = "Auf der Suche nach VoxBox...";
-"Label_VoxBox_Connecting" = "Verbindung zu VoxBox wird hergestellt";
-"AlertTitle_InValid_Passcode" = "Zugangscode nicht gültig";
-"AlertDesc_InValid_Passcode" = "Bitte geben Sie einen gültigen Zugangscode ein und probieren Sie von Neuem";
-"AlertDesc_CantConnectSSID" = "Verbindung zu ... ist wegen internem Fehler nicht hergestellt worden";
-"AlertDesc_VoxBox_Not_Found" = "VoxBox wurde nicht gefunden";
 "Search_Placeholder_Text" = "Beginnen Sie mit der Eingabe des VoxBox Namens";
-"AlertTitle_Whatsapp" = "Whatsapp";
-"AlertDesc_Whatsapp" = "Installieren Sie bitte Whatsapp, um diese Funktion zu nutzen";
-"Alert_ActionTitle_Install" = "Installieren";
-"AlertTitle_GpsSensors" = "Um nach den VoxBox-Netzwerken in Ihrer Nähe zu suchen, sollten Sie den GPS-Sensor am Gerät einschalten";
-"AlertTitle_JoinNetwork" = "Confirm that you want to join %@ network";
+"AlertDesc_GpsSensors" = "Um nach den VoxBox-Netzwerken in Ihrer Nähe zu suchen, sollten Sie den GPS-Sensor am Gerät einschalten";
+"AlertTitle_JoinNetwork" = "Do you really want to join %@ network";
 "Label_EnableWiFi" = "Klicken Sie hier, um WiFi anzustellen";
+"AlertTitle_TurnOnWiFi" = "In order to connect to the VoxBox
+ network, you should turn on the
+ WiFi on the device";
+"Label_PleaseWait" = "Please wait...";
+"AlertTitle_WrongRoom" = "Wrong Room ID";
+"BtnTitle_Settings" = "Go to Settings";
+"AlertTitle_NetworkError" = "Netzwerkfehler!";
+"AlertDesc_NetworkError" = "Keine Internetverbindung!\nBitte später erneut versuchen";

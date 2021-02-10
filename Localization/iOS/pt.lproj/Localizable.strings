@@ -118,25 +118,18 @@
 "Label_Email" = "Email";
 "Label_DifferentVoxBox" = "Do you want to connect to a different box?";
 "BtnTitle_ListenStream" = "Listen Stream";
-"Button_Stop_Streaming" = "Parar a transmissão";
-"Label_Connected_To" = "Ligado a";
-"Label_Connection_Status" = "Clique em Inicar para dar início à transmissão";
-"AlertTitle_CantConnectBox" = "Impossível ligar";
 "Label_ConnectingToBox" = "A ligar...";
-"AlertDesc_CantConnectBox" = "Não tem permissão para se ligar a este dispositivo";
-"AlertDesc_SomethingWrong" = "Algo correu mal";
 "AlertDesc_LimitExceeded" = "Limite de ligação excedido";
 "Label_Connected_With" = "Está ligado a";
-"Label_Searching_VoxBox" = "À procura de VoxBox";
-"Label_VoxBox_Connecting" = "A ligar a VoxBox";
-"AlertTitle_InValid_Passcode" = "Código de Acesso inválido";
-"AlertDesc_InValid_Passcode" = "Por favor, insira um código de acesso válido e tente novamente";
-"AlertDesc_CantConnectSSID" = "Não foi possível ligar a... devido a um erro interno.";
-"AlertDesc_VoxBox_Not_Found" = "VoxBox não encontrado";
 "Search_Placeholder_Text" = "Comece a escrever o nome do VoxBox";
-"AlertTitle_Whatsapp" = "Whatsapp";
-"AlertDesc_Whatsapp" = "Por favor, instale o Whatsapp para utilizar esta função";
-"Alert_ActionTitle_Install" = "Instalar";
-"AlertTitle_GpsSensors" = "Para encontrar as redes VoxBox ao seu redor, deverá ligar o GPS do dispositivo";
-"AlertTitle_JoinNetwork" = "Confirm that you want to join %@ network";
+"AlertDesc_GpsSensors" = "Para encontrar as redes VoxBox ao seu redor, deverá ligar o GPS do dispositivo";
+"AlertTitle_JoinNetwork" = "Do you really want to join %@ network";
 "Label_EnableWiFi" = "Clique aqui para ligar o WiFi";
+"AlertTitle_TurnOnWiFi" = "In order to connect to the VoxBox
+ network, you should turn on the
+ WiFi on the device";
+"Label_PleaseWait" = "Please wait...";
+"AlertTitle_WrongRoom" = "Wrong Room ID";
+"BtnTitle_Settings" = "Go to Settings";
+"AlertTitle_NetworkError" = "Erro de conexão com a rede!";
+"AlertDesc_NetworkError" = "Nenhuma conexão internet ativa!\n Por favor, tente novamente mais tarde";

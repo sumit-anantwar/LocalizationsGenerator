@@ -118,25 +118,18 @@
 "Label_Email" = "Email";
 "Label_DifferentVoxBox" = "別のBoxに接続しますか";
 "BtnTitle_ListenStream" = "Streamを聴く";
-"Button_Stop_Streaming" = "ストーミングを中止します";
-"Label_Connected_To" = "に接続されています";
-"Label_Connection_Status" = "ストリーミングに接続するにはスタートをクリックしてください";
-"AlertTitle_CantConnectBox" = "接続できません";
 "Label_ConnectingToBox" = "接続しています...";
-"AlertDesc_CantConnectBox" = "このBoxには接続できません";
-"AlertDesc_SomethingWrong" = "エラーです";
 "AlertDesc_LimitExceeded" = "接続リミットを超過しました";
 "Label_Connected_With" = "に接続されています";
-"Label_Searching_VoxBox" = "VoxBoxを検索しています";
-"Label_VoxBox_Connecting" = "VoxBoxに接続しています";
-"AlertTitle_InValid_Passcode" = "無効なパスコードです";
-"AlertDesc_InValid_Passcode" = "有効なパスコードを入力して再試行してください";
-"AlertDesc_CantConnectSSID" = "内部エラーにより%@ に接続できませんでした";
-"AlertDesc_VoxBox_Not_Found" = "VoxBoxが見つかりませんでした";
 "Search_Placeholder_Text" = "VoxBox名を入力してください";
-"AlertTitle_Whatsapp" = "Whatsapp";
-"AlertDesc_Whatsapp" = "この機能を使用するにはWhatsappをインストールしてください";
-"Alert_ActionTitle_Install" = "インストール";
-"AlertTitle_GpsSensors" = "周辺のVoxBoxネットワークを探すためには、デバイスのGPSセンサーを有効にしてください";
-"AlertTitle_JoinNetwork" = "Confirm that you want to join %@ network";
+"AlertDesc_GpsSensors" = "周辺のVoxBoxネットワークを探すためには、デバイスのGPSセンサーを有効にしてください";
+"AlertTitle_JoinNetwork" = "Do you really want to join %@ network";
 "Label_EnableWiFi" = "クリックしてWiFiに接続してください";
+"AlertTitle_TurnOnWiFi" = "In order to connect to the VoxBox
+ network, you should turn on the
+ WiFi on the device";
+"Label_PleaseWait" = "Please wait...";
+"AlertTitle_WrongRoom" = "Wrong Room ID";
+"BtnTitle_Settings" = "Go to Settings";
+"AlertTitle_NetworkError" = "ネットワーク・エラー！";
+"AlertDesc_NetworkError" = "インターネットの接続が見つかりません。\n再度お試しください。";

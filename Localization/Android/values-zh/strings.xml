@@ -120,26 +120,19 @@
     <string name="Label_Email">Email</string>
     <string name="Label_DifferentVoxBox">Do you want to connect to a different box?</string>
     <string name="BtnTitle_ListenStream">Listen Stream</string>
-    <string name="Button_Stop_Streaming">停止连接</string>
-    <string name="Label_Connected_To">连接%s</string>
-    <string name="Label_Connection_Status">点击连接媒体流</string>
-    <string name="AlertTitle_CantConnectBox">无法连接</string>
     <string name="Label_ConnectingToBox">正在连接...</string>
-    <string name="AlertDesc_CantConnectBox">无法连接</string>
-    <string name="AlertDesc_SomethingWrong">发生错误</string>
     <string name="AlertDesc_LimitExceeded">超出连接限制</string>
     <string name="Label_Connected_With">您已连接%s</string>
-    <string name="Label_Searching_VoxBox">搜索VoxBox</string>
-    <string name="Label_VoxBox_Connecting">正在连接VoxBox%s</string>
-    <string name="AlertTitle_InValid_Passcode">连接码错误</string>
-    <string name="AlertDesc_InValid_Passcode">请输入有效连接码并重试</string>
-    <string name="AlertDesc_CantConnectSSID">内部错误，无法连接%s</string>
-    <string name="AlertDesc_VoxBox_Not_Found">没有找到VoxBox</string>
     <string name="Search_Placeholder_Text">请输入VoxBox名称</string>
-    <string name="AlertTitle_Whatsapp">WhatsApp</string>
-    <string name="AlertDesc_Whatsapp">请安装WhatsApp以便使用此功能</string>
-    <string name="Alert_ActionTitle_Install">安装</string>
-    <string name="AlertTitle_GpsSensors">请开启您设备的GPS，以便顺利搜索您附近的VoxBox网络</string>
-    <string name="AlertTitle_JoinNetwork">Confirm that you want to join %s network</string>
+    <string name="AlertDesc_GpsSensors">请开启您设备的GPS，以便顺利搜索您附近的VoxBox网络</string>
+    <string name="AlertTitle_JoinNetwork">Do you really want to join %s network</string>
     <string name="Label_EnableWiFi">点击此处开启WiFi</string>
+    <string name="AlertTitle_TurnOnWiFi">In order to connect to the VoxBox
+ network, you should turn on the
+ WiFi on the device</string>
+    <string name="Label_PleaseWait">Please wait...</string>
+    <string name="AlertTitle_WrongRoom">Wrong Room ID</string>
+    <string name="BtnTitle_Settings">Go to Settings</string>
+    <string name="AlertTitle_NetworkError">网络错误！</string>
+    <string name="AlertDesc_NetworkError">未找到网络连接。\n请稍后再试</string>
 </resources>

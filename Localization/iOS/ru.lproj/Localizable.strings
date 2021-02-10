@@ -118,25 +118,18 @@
 "Label_Email" = "Почта";
 "Label_DifferentVoxBox" = "Желаете подключиться к другому устройству?";
 "BtnTitle_ListenStream" = "Слушать Трансляцию";
-"Button_Stop_Streaming" = "Остановить трансляцию";
-"Label_Connected_To" = "Подключено к";
-"Label_Connection_Status" = "Для начала трансляции нажмите на старт";
-"AlertTitle_CantConnectBox" = "Невозможно подключиться";
 "Label_ConnectingToBox" = "Подключение...";
-"AlertDesc_CantConnectBox" = "Нет разрешения на подключение к данному устройству";
-"AlertDesc_SomethingWrong" = "Что-то пошло не так";
 "AlertDesc_LimitExceeded" = "Исчерпан лимит доступных подключений";
 "Label_Connected_With" = "Вы подключены к";
-"Label_Searching_VoxBox" = "Поиск VoxBox...";
-"Label_VoxBox_Connecting" = "Подключение к VoxBox...";
-"AlertTitle_InValid_Passcode" = "Неправильный пароль";
-"AlertDesc_InValid_Passcode" = "Пожалуйста, введите правильный пароль";
-"AlertDesc_CantConnectSSID" = "Нет возможности подключиться к %@ в связи с внутренней ошибкой";
-"AlertDesc_VoxBox_Not_Found" = "VoxBox не обнаружен";
 "Search_Placeholder_Text" = "Начните вводить название VoxBox";
-"AlertTitle_Whatsapp" = "Whatsapp";
-"AlertDesc_Whatsapp" = "Пожалуйста, установите Whatsapp для использования данной функции";
-"Alert_ActionTitle_Install" = "Установить";
-"AlertTitle_GpsSensors" = "Чтобы обнаружить доступные сети VoxBox, необходимо включить GPS на данном устройстве";
+"AlertDesc_GpsSensors" = "Чтобы обнаружить доступные сети VoxBox, необходимо включить GPS на данном устройстве";
 "AlertTitle_JoinNetwork" = "Подтвердите что Вы хотите подключиться к сети %@";
 "Label_EnableWiFi" = "Нажмите здесь чтобы включить WiFi";
+"AlertTitle_TurnOnWiFi" = "In order to connect to the VoxBox
+ network, you should turn on the
+ WiFi on the device";
+"Label_PleaseWait" = "Please wait...";
+"AlertTitle_WrongRoom" = "Wrong Room ID";
+"BtnTitle_Settings" = "Go to Settings";
+"AlertTitle_NetworkError" = "Ошибка сети!";
+"AlertDesc_NetworkError" = "Нет активных подключений к Интернет. Попробуйте еще раз позже";

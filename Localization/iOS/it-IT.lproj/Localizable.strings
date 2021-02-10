@@ -118,25 +118,18 @@
 "Label_Email" = "Email";
 "Label_DifferentVoxBox" = "Do you want to connect to a different box?";
 "BtnTitle_ListenStream" = "Listen Stream";
-"Button_Stop_Streaming" = "Ferma lo streaming";
-"Label_Connected_To" = "Connesso a";
-"Label_Connection_Status" = "Clicca su Start per connetterti allo streaming";
-"AlertTitle_CantConnectBox" = "Impossibile connettersi";
 "Label_ConnectingToBox" = "In connessione...";
-"AlertDesc_CantConnectBox" = "Non sei autorizzato a connetterti a questo dispositivo";
-"AlertDesc_SomethingWrong" = "Qualcosa è andato storto";
 "AlertDesc_LimitExceeded" = "Limite di connessione oltrepassato";
 "Label_Connected_With" = "Sei connesso a";
-"Label_Searching_VoxBox" = "Ricerca di VoxBox";
-"Label_VoxBox_Connecting" = "In connessione a VoxBox";
-"AlertTitle_InValid_Passcode" = "Codice di accesso invalido";
-"AlertDesc_InValid_Passcode" = "Per favore inserisci un codice di accesso valido e riprova";
-"AlertDesc_CantConnectSSID" = "Impossibile connettersi a... a causa di un errore interno";
-"AlertDesc_VoxBox_Not_Found" = "VoxBox non trovato";
 "Search_Placeholder_Text" = "Comincia a inserire il nome della VoxBox";
-"AlertTitle_Whatsapp" = "Whatsapp";
-"AlertDesc_Whatsapp" = "Per favore installa Whatsapp per usare questa funzionalità";
-"Alert_ActionTitle_Install" = "Installa";
-"AlertTitle_GpsSensors" = "Per cercare le reti VoxBox intorno a te, devi attivare il GPS sul dispositivo";
-"AlertTitle_JoinNetwork" = "Confirm that you want to join %@ network";
+"AlertDesc_GpsSensors" = "Per cercare le reti VoxBox intorno a te, devi attivare il GPS sul dispositivo";
+"AlertTitle_JoinNetwork" = "Do you really want to join %@ network";
 "Label_EnableWiFi" = "Clicca qui per attivare il WiFi";
+"AlertTitle_TurnOnWiFi" = "In order to connect to the VoxBox
+ network, you should turn on the
+ WiFi on the device";
+"Label_PleaseWait" = "Please wait...";
+"AlertTitle_WrongRoom" = "Wrong Room ID";
+"BtnTitle_Settings" = "Go to Settings";
+"AlertTitle_NetworkError" = "Errore di connessione alla rete!";
+"AlertDesc_NetworkError" = "Nessuna connessione internet attiva!\nSi prega di riprovare più tardi.";

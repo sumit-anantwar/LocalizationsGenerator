@@ -120,26 +120,19 @@
     <string name="Label_Email">Email</string>
     <string name="Label_DifferentVoxBox">Do you want to connect to a different box?</string>
     <string name="BtnTitle_ListenStream">Listen Stream</string>
-    <string name="Button_Stop_Streaming">Ferma lo streaming</string>
-    <string name="Label_Connected_To">Connesso a</string>
-    <string name="Label_Connection_Status">Clicca su Start per connetterti allo streaming</string>
-    <string name="AlertTitle_CantConnectBox">Impossibile connettersi</string>
     <string name="Label_ConnectingToBox">In connessione...</string>
-    <string name="AlertDesc_CantConnectBox">Non sei autorizzato a connetterti a questo dispositivo</string>
-    <string name="AlertDesc_SomethingWrong">Qualcosa è andato storto</string>
     <string name="AlertDesc_LimitExceeded">Limite di connessione oltrepassato</string>
     <string name="Label_Connected_With">Sei connesso a</string>
-    <string name="Label_Searching_VoxBox">Ricerca di VoxBox</string>
-    <string name="Label_VoxBox_Connecting">In connessione a VoxBox</string>
-    <string name="AlertTitle_InValid_Passcode">Codice di accesso invalido</string>
-    <string name="AlertDesc_InValid_Passcode">Per favore inserisci un codice di accesso valido e riprova</string>
-    <string name="AlertDesc_CantConnectSSID">Impossibile connettersi a... a causa di un errore interno</string>
-    <string name="AlertDesc_VoxBox_Not_Found">VoxBox non trovato</string>
     <string name="Search_Placeholder_Text">Comincia a inserire il nome della VoxBox</string>
-    <string name="AlertTitle_Whatsapp">Whatsapp</string>
-    <string name="AlertDesc_Whatsapp">Per favore installa Whatsapp per usare questa funzionalità</string>
-    <string name="Alert_ActionTitle_Install">Installa</string>
-    <string name="AlertTitle_GpsSensors">Per cercare le reti VoxBox intorno a te, devi attivare il GPS sul dispositivo</string>
-    <string name="AlertTitle_JoinNetwork">Confirm that you want to join %s network</string>
+    <string name="AlertDesc_GpsSensors">Per cercare le reti VoxBox intorno a te, devi attivare il GPS sul dispositivo</string>
+    <string name="AlertTitle_JoinNetwork">Do you really want to join %s network</string>
     <string name="Label_EnableWiFi">Clicca qui per attivare il WiFi</string>
+    <string name="AlertTitle_TurnOnWiFi">In order to connect to the VoxBox
+ network, you should turn on the
+ WiFi on the device</string>
+    <string name="Label_PleaseWait">Please wait...</string>
+    <string name="AlertTitle_WrongRoom">Wrong Room ID</string>
+    <string name="BtnTitle_Settings">Go to Settings</string>
+    <string name="AlertTitle_NetworkError">Errore di connessione alla rete!</string>
+    <string name="AlertDesc_NetworkError">Nessuna connessione internet attiva!\nSi prega di riprovare più tardi.</string>
 </resources>
